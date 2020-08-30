@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-17:44:14	61762/61762	---MCZ	200	added ('OK')	text/html	date:Sun,%2030%20Aug%202020%2000:44:19%20GMT	http://www.paradigmshifte.com/	C:/GitHub/mffais.github.io/paradigmshifte/pd/www.paradigmshifte.com/index.html	(from )
-17:44:15	196/196	---M--	404	error ('Not%20Found')	text/html	date:Sun,%2030%20Aug%202020%2000:44:20%20GMT	http://www.paradigmshifte.com/robots.txt		(from )
