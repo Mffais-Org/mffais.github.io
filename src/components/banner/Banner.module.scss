@@ -1,0 +1,22 @@
+@import "/src/style/global.scss";
+
+.banner {
+  margin: 88px 64px;
+  padding: 64px;
+  border-radius: 40px;
+  background-color: $clrGray;
+
+  h3 {
+    padding-left: 100px;
+  }
+  @media (max-width: $screenPhone) {
+    margin-top: 64px;
+    margin-bottom: 48px;
+    padding-bottom: 32px;
+    h3 {
+      padding-left: 0;
+      padding-top: 16px;
+      text-align: center;
+    }
+  }
+}

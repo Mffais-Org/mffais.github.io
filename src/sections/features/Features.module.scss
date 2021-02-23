@@ -1,0 +1,29 @@
+@import "/src/style/global.scss";
+
+.header {
+  h1 {
+    margin-top: 124px;
+    margin-bottom: 64px;
+  }
+  @media (max-width: $screenPhone) {
+    h1 {
+      display: none;
+    }
+    margin-top: 256px;
+  }
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.featureCard {
+  margin-top: 64px;
+}
+
+section[id="features"] {
+  overflow: auto;
+  padding-bottom: 128px;
+
+  @media (max-width: $screenSmall) {
+    padding-bottom: 52px;
+  }
+}

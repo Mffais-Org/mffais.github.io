@@ -1,0 +1,61 @@
+@import "/src/style/global.scss";
+
+.home {
+  background-color: $clrGray;
+  min-height: 704px;
+  .makeEndsMeet {
+    max-width: 80%;
+  }
+  .imgCol {
+    position: relative;
+    text-align: end;
+    .phone {
+      position: relative;
+      margin-bottom: -160px;
+      z-index: 1;
+    }
+
+    .star1,
+    .star2,
+    .star3 {
+      position: absolute;
+      @media (max-width: $screenPhone) {
+        display: none;
+      }
+    }
+
+    .star1 {
+      width: 104px;
+      top: -2%;
+      left: 29%;
+    }
+
+    .star2 {
+      width: 32px;
+      top: 0;
+      right: 2%;
+    }
+
+    .star3 {
+      width: 48px;
+      top: 25%;
+      right: -8%;
+    }
+  }
+
+  @media (max-width: $screenPhone) {
+    min-height: 504px;
+    padding-top: 64px;
+
+    .makeEndsMeet {
+      width: 235px;
+    }
+    .col, .imgCol {
+      flex: initial;
+    }
+    .imgCol {
+      padding: 0 32px;
+      margin-top: 32px;
+    }
+  }
+}

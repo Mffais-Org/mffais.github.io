@@ -1,0 +1,72 @@
+@import "/src/style/global.scss";
+
+footer {
+  height: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+  a {
+    padding: 8px;
+    margin: 0 50px;
+  }
+
+  @media (max-width: $screenPhone) {
+    background-color: $clrGray;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 40px 20vw 40px 20vw;
+    a {
+      margin: 0;
+      padding: 16px;
+      padding-left: 6vw;
+      &:first-child {
+        padding-left: 0;
+        grid-column-end: span 2;
+        text-align: center;
+      }
+    }
+  }
+}
+
+.subFooter {
+  height: 232px;
+  border: 2px solid rgba(0, 0, 0, 0.08);
+  border-style: solid none;
+  margin: 0 10vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  h4 {
+    margin-right: 48px;
+    &:nth-child(3) {
+      margin-left: 160px;
+    }
+  }
+
+  @media (max-width: $screenPhone) {
+    border-style: none;
+    flex-direction: column;
+    height: auto;
+    padding-bottom: 48px;
+
+    h4 {
+      margin: 0;
+      margin-bottom: 32px;
+      &:nth-child(3) {
+        border-top: 2px solid rgba(0, 0, 0, 0.08);
+        padding-top: 40px;
+        margin-top: 40px;
+        width: 100%;
+        text-align: center;
+        margin-left: 0;
+      }
+    }
+
+    a img[class="google-play"] {
+      height: 48px;
+    }
+  }
+}

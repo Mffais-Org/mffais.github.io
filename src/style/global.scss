@@ -1,0 +1,166 @@
+$clrFont: #1f1f1f;
+$clrFontSecondary: #000000;
+$clrBackground: #ffffff;
+$clrYellow: #ffd30d;
+$clrGray: #f0f2f7;
+$clrBlue: #0f5fff;
+
+$screenSmall: 1564px;
+$screenPhone: 820px;
+
+body {
+  margin: 0;
+  font-family: "Rubik", sans-serif;
+  color: $clrFont;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 56px;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 40px;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 40px;
+}
+
+h4 {
+  font-weight: 500;
+  font-size: 28px;
+}
+
+p {
+  font-weight: 400;
+  font-size: 26px;
+}
+
+.button {
+  text-align: center;
+  font-weight: 400;
+  font-size: 14px;
+  background-color: $clrYellow;
+  padding: 15px 24px;
+
+  border: 0.5px solid rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.button,
+.google-play {
+  transition: 0.2s ease-in;
+
+  &:hover {
+    color: $clrFont;
+    box-shadow: 4px 6px 20px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: 4px 6px 20px rgba(0, 0, 0, 0.25);
+  }
+}
+
+a {
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 16px;
+  color: $clrFontSecondary;
+  text-decoration: none;
+  transition: 0.2s ease-in;
+
+  &:hover {
+    color: $clrYellow;
+  }
+}
+
+.vertical-align {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.google-play {
+  border-radius: 8px;
+  overflow: hidden;
+  height: 64px;
+}
+
+img {
+  max-width: 100%;
+}
+
+section {
+  padding: 0 15vw;
+
+  @media (max-width: $screenSmall) {
+    padding: 0 10vw;
+  }
+  @media (max-width: $screenPhone) {
+    padding: 0 8vw;
+  }
+}
+
+.float-right {
+  float: right;
+}
+
+@media (max-width: $screenSmall) {
+  h1 {
+    font-size: 39px;
+  }
+
+  h2,
+  h3 {
+    font-size: 28px;
+  }
+
+  h4 {
+    font-size: 20px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+ a {
+    font-size: 12px;
+  }
+button,
+  .button {
+    font-size: 12px;
+
+  padding: 12px 20px;
+  }
+
+}
+
+@media (max-width: $screenPhone) {
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-size: 24px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  a {
+    font-size: 11px;
+  }
+
+  button,
+  .button {
+    font-size: 14px;
+  }
+
+  .google-play {
+    height: 32px;
+  }
+}

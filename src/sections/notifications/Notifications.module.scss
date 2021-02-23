@@ -1,0 +1,68 @@
+@import "/src/style/global.scss";
+
+.notifications {
+  > div {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.08);
+  }
+  .phone {
+    $padding: 40px;
+    width: 100%;
+    padding-right: $padding;
+
+    &:nth-child(2) {
+      padding: 0 $padding;
+    }
+    img {
+      width: 100%;
+    }
+  }
+
+  div[class="col-text-with-image"] {
+    position: relative;
+
+    .smiley {
+      position: absolute;
+      right: 160px;
+      top: 100px;
+
+      width: 48px;
+
+      @media (max-width: $screenSmall) {
+        right: 160px;
+        top: 50px;
+      }
+    }
+  }
+
+  @media (max-width: $screenPhone) {
+    > div {
+      padding-top: 64px;
+      padding-bottom: 76px;
+    }
+    .phone:nth-child(2) {
+      display: none;
+    }
+    .phone:nth-child(1) {
+      order: 1;
+    }
+
+    div[class="col-text-with-image"] {
+      position: relative;
+
+      .smiley {
+        position: relative;
+        right: initial;
+        top: initial;
+        width: 48px;
+        margin: auto;
+      }
+
+      h3[class="float-right"] {
+        float: initial;
+        text-align: center;
+      }
+    }
+  }
+}
