@@ -31,6 +31,7 @@
     overflow: hidden;
     padding: 24px 0;
     a {
+      font-weight: 500;
       margin-left: 48px;
       padding: 0 24px;
       @media (max-width: $screenPhone) {
@@ -67,10 +68,10 @@
       left: -200px;
     }
     &.features::after {
-      left: 72px;
+      left: 75px;
     }
     &.moneyFlow::after {
-      left: 245px;
+      left: 200px;
     }
 
     @media (max-width: $screenSmall) {
