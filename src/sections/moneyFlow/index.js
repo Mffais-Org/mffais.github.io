@@ -25,7 +25,7 @@ export default class MoneyFlow extends Component {
           </div>
         </div>
 
-        <div className={ 'grid-two-even' }>
+        <div className={ `grid-two-even ${ style.cards }` }>
           <MoneyFlowCard />
           <MoneyFlowCard isCardSecond={ true } />
           <div className={ style.circle }></div>

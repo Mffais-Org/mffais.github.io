@@ -2,14 +2,13 @@
 
 .moneyFlow {
   background-color: $clrGray;
-  padding-top: 124px;
-  padding-bottom: 124px;
+  padding: 124px 0;
 
   .header {
     text-align: center;
     margin: 0 auto 128px auto;
     p {
-      margin: 14px 0;
+      margin: 14px 10vw;
     }
     .mobile {
       display: none;
@@ -29,15 +28,28 @@
     }
   }
 
+  .cards {
+    position: relative;
+  }
+
   .circle {
     position: absolute;
-    width: 386px;
-    height: 386px;
     border-radius: 50%;
     left: 50%;
     transform: translateX(-50%);
     border: 8px solid #ffd30d;
     box-sizing: border-box;
+
+    $width: 386px;
+    @media (max-width: $screenPhone) {
+      $width: 80vw;
+      top: 50%;
+      transform: translate(-50%, -50%);
+    }
+    max-width: 386px;
+    max-height: 386px;
+    width: $width;
+    height: $width;
   }
 
   .col {
@@ -150,13 +162,8 @@
   }
 
   @media (max-width: $screenPhone) {
-    margin-top: -80px;
     padding-top: 32px;
     position: relative;
     z-index: 3;
-
-    .circle {
-      top: 400px;
-    }
   }
 }

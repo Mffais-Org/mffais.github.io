@@ -38,7 +38,7 @@ function App() {
         </Route>
         <Route path="/terms-and-conditions">
           <Navbar />
-          <PrivacyAndTerms data={ termsAndConditions } title="Mffais Privacy Policy"/>
+          <PrivacyAndTerms data={ termsAndConditions } title="Mffais Terms and Conditions"/>
         </Route>
         <Route path="/">
           <HomePage />

@@ -33,6 +33,7 @@
         display: none;
       }
 
+        $offset: -240px;
       .phone {
         padding: 32px;
         overflow: hidden;
@@ -48,12 +49,12 @@
           z-index: 0;
           position: absolute;
           left: 0;
-          box-shadow: inset 0 -320px 30px 10px #ffffff;
+          box-shadow: inset 0 $offset 30px 10px #ffffff;
         }
       }
       .howMuchToSave {
         z-index: 9;
-        margin-top: -320px;
+        margin-top: $offset;
         h3 {
           float: initial !important;
         }
