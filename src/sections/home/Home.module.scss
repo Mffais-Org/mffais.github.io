@@ -32,33 +32,9 @@
       position: relative;
       margin-bottom: -160px;
       z-index: 1;
-    }
-
-    .star1,
-    .star2,
-    .star3 {
-      position: absolute;
-      @media (max-width: $screenPhone) {
+      &:nth-child(2){
         display: none;
       }
-    }
-
-    .star1 {
-      width: 104px;
-      top: -2%;
-      left: 29%;
-    }
-
-    .star2 {
-      width: 32px;
-      top: 0;
-      right: 2%;
-    }
-
-    .star3 {
-      width: 48px;
-      top: 25%;
-      right: -8%;
     }
   }
 
@@ -77,6 +53,13 @@
     .imgCol {
       padding: 0 32px;
       margin-top: 32px;
+      text-align: center;
+      .phone:nth-child(1){
+        display: none;
+      }
+      .phone:nth-child(2){
+        display: initial;
+      }
     }
   }
 }

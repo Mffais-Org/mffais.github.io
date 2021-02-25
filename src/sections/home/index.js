@@ -1,6 +1,6 @@
 import React from 'react';
 import style from './Home.module.scss';
-import { GooglePlay, Star } from '../../components';
+import { GooglePlay } from '../../components';
 
 export default function () {
   return (
@@ -19,9 +19,7 @@ export default function () {
 
       <div className={ `col ${ style.imgCol }` }>
         <img className={ style.phone } src="/img/home-phone.svg" />
-        <Star className={ style.star1 } />
-        <Star className={ style.star2 } />
-        <Star className={ style.star3 } />
+        <img className={ style.phone } src="/img/home-phone-without-stars.svg" />
       </div>
     </section>
   );
