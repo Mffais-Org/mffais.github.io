@@ -19,10 +19,10 @@ export default function () {
                 <img src="/img/smiley.svg" />
               </div>
               <h3>
-                Due date <br />
+                Due date <br className={ style.phoneBr }/>
                 notifications <br />
-                help you stay <br />
-                on top of your <br />
+                help <br className={ style.phoneBr }/>you stay <br />
+                on top of <br className={ style.phoneBr }/>your <br />
                 cash flow
               </h3>
             </div>

@@ -1,41 +1,56 @@
 @import "/src/style/global.scss";
 
 .notifications {
+  $padding: 60px;
   > div {
     padding-top: 120px;
     padding-bottom: 120px;
     border-bottom: 2px solid rgba(0, 0, 0, 0.08);
   }
-  .phone {
-    $padding: 40px;
-    width: 100%;
+  @media (max-width: $screenPhone) {
     padding-right: $padding;
-
-    &:nth-child(2) {
-      padding: 0 $padding;
+  }
+  .phone {
+    width: 100%;
+    padding-left: $padding;
+    @media (max-width: $screenPhone) {
+      padding-right: $padding;
+      width: auto;
     }
+
     img {
       width: 100%;
     }
   }
 
   div[class="float-right"] {
+    padding-left: $padding;
     position: relative;
 
     .smiley {
       position: absolute;
       width: 100%;
-      top: -130px;
+      top: -80px;
       left: 0;
       text-align: center;
 
       img {
         width: 48px;
       }
-
-      @media (max-width: $screenPhone) {
+    }
+    @media (max-width: $screenSmall) {
+      br {
+        display: none;
+      }
+    }
+    @media (max-width: $screenPhone) {
+      .smiley {
         top: -20px;
       }
+      br.phoneBr {
+        display: initial;
+      }
+      padding-left: 0;
     }
   }
 
