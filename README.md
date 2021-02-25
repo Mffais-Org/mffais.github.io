@@ -5,7 +5,7 @@ Developed by [Cinnamon Agency](https://cinnamon.agency/) in Zagreb, Croatia, usi
 Ivan Kovac - ivan.kovac@cinnamon.agency
 
 #### Owner
-Name Surname - email@email.com
+Kevin Traster - email@email.com
 
 #### To build the project: 
 
