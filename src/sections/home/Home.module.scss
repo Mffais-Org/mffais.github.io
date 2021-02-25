@@ -6,6 +6,25 @@
   .makeEndsMeet {
     max-width: 80%;
   }
+  p {
+    line-height: 42px;
+    .phoneBr {
+      display: none;
+    }
+    @media (max-width: $screenSmall) {
+      line-height: 32px;
+    }
+    @media (max-width: $screenPhone) {
+      line-height: 32px;
+      br {
+        display: none;
+        &.phoneBr {
+          display: initial;
+        }
+      }
+    }
+  }
+
   .imgCol {
     position: relative;
     text-align: end;
@@ -46,11 +65,13 @@
   @media (max-width: $screenPhone) {
     min-height: 504px;
     padding-top: 64px;
+    align-items: initial;
 
     .makeEndsMeet {
       width: 235px;
     }
-    .col, .imgCol {
+    .col,
+    .imgCol {
       flex: initial;
     }
     .imgCol {

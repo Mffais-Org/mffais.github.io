@@ -8,8 +8,11 @@ export default function () {
       <div className={ `col ${ style.col }` }>
         <img className={ style.makeEndsMeet } src="/img/make-ends-meet.svg" />
         <p>
-          Mffais helps you track cash flow and provides insight into future
-          spending and savings.
+          Mffais helps you track cash <br className={ style.phoneBr } />
+          flow and <br />
+          provides insight into <br className={ style.phoneBr } />
+          future spending <br />
+          and savings.
         </p>
         <GooglePlay />
       </div>
