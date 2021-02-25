@@ -13,15 +13,19 @@ export default function () {
           <img src="/img/notifications-2.svg" />
         </div>
         <div className="col-text-with-image">
-          <img className={ style.smiley } src="/img/smiley.svg" />
           <div>
-            <h3 className="float-right">
-              Due date <br />
-              notifications <br />
-              help you stay <br />
-              on top of your <br />
-              cash flow
-            </h3>
+            <div className="float-right">
+              <div className={ style.smiley }>
+                <img src="/img/smiley.svg" />
+              </div>
+              <h3>
+                Due date <br />
+                notifications <br />
+                help you stay <br />
+                on top of your <br />
+                cash flow
+              </h3>
+            </div>
           </div>
         </div>
       </div>

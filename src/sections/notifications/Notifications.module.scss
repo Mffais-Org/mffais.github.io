@@ -19,19 +19,22 @@
     }
   }
 
-  div[class="col-text-with-image"] {
+  div[class="float-right"] {
     position: relative;
 
     .smiley {
       position: absolute;
-      right: 160px;
-      top: 100px;
+      width: 100%;
+      top: -130px;
+      left: 0;
+      text-align: center;
 
-      width: 48px;
+      img {
+        width: 48px;
+      }
 
-      @media (max-width: $screenSmall) {
-        right: 160px;
-        top: 50px;
+      @media (max-width: $screenPhone) {
+        top: -20px;
       }
     }
   }
@@ -49,19 +52,10 @@
     }
 
     div[class="col-text-with-image"] {
-      position: relative;
-
-      .smiley {
-        position: relative;
-        right: initial;
-        top: initial;
-        width: 48px;
-        margin: auto;
-      }
-
-      h3[class="float-right"] {
+      div[class="float-right"] {
         float: initial;
         text-align: center;
+        padding-top: 40px;
       }
     }
   }
