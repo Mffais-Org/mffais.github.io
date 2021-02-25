@@ -27,7 +27,7 @@ section[id="features"] {
   overflow: auto;
   padding-bottom: 128px;
 
-  @media (max-width: $screenSmall) {
-    padding-bottom: 52px;
+  @media (max-width: $screenPhone) {
+    padding-bottom: 12px;
   }
 }

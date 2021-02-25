@@ -27,8 +27,7 @@
     }
 
     @media (max-width: $screenPhone) {
-      padding-top: 16px;
-      padding-bottom: 16px;
+      padding: 40px 40px 16px;
       .star1,
       .star2 {
         display: none;
@@ -40,8 +39,6 @@
         height: 50%;
         position: relative;
         img {
-          // -moz-box-shadow: inset 0 0 5px #000000;
-          // -webkit-box-shadow: inset 0 0 5px #000000;
           z-index: 0;
         }
         &::after {
