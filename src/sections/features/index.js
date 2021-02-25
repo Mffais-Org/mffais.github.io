@@ -33,8 +33,8 @@ export default class Features extends Component {
           <h1>Features</h1>
           <Star />
           <h2>
-            Track your cash flow and get an insight into future spending and
-            savings
+            Track your cash flow and get an insight into <br />
+            future spending and savings
           </h2>
         </div>
         {featureCards.map((obj, index) => (
