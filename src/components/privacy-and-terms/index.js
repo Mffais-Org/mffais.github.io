@@ -1,24 +1,7 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import style from './PrivacyAndTerms.module.scss';
 
-export default function ({ url, title }) {
-  const [ data, setData ] = useState([]);
-
-  const getData = () => {
-    fetch(`/data/${ url }`, {
-      headers: {
-        'Content-Type': 'application/json',
-        Accept: 'application/json',
-      },
-    }).then(async (response) => {
-      setData(await response.json());
-    });
-  };
-
-  useEffect(() => {
-    getData();
-  }, []);
-
+export default function ({ data, title }) {
   return (
     <>
       <section className={ style.header }>
