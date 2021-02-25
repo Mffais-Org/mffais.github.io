@@ -34,7 +34,13 @@ footer {
   height: 232px;
   border: 2px solid rgba(0, 0, 0, 0.08);
   border-style: solid none;
-  margin: 0 10vw;
+  margin: 0 15vw;
+  @media (max-width: $screenSmall) {
+    margin: 0 10vw;
+  }
+  @media (max-width: $screenPhone) {
+    margin: 0 8vw;
+  }
   display: flex;
   justify-content: center;
   align-items: center;
