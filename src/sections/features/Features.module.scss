@@ -19,8 +19,10 @@
   margin-bottom: 100px;
 }
 
-.featureCard {
-  margin-top: 64px;
+@media (min-width: $screenPhone) {
+  .featureCard {
+    margin-top: 64px;
+  }
 }
 
 section[id="features"] {
