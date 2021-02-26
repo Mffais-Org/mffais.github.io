@@ -87,7 +87,8 @@ a {
 .google-play {
   border-radius: 8px;
   overflow: hidden;
-  height: 64px;
+  width: 214px;
+  height: auto;
 }
 
 img {
@@ -162,6 +163,7 @@ button,
   }
 
   .google-play {
+    width: auto;
     height: 32px;
   }
 }
