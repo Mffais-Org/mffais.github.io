@@ -44,6 +44,9 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
+  .contactSupport {
+    min-width: 100px;
+  }
 
   h4 {
     margin-right: 48px;

@@ -11,7 +11,7 @@ export default function () {
         <GooglePlay />
         <h4>Have any questions?</h4>
         {/* TODO: Add your email instead of abc@example.com */}
-        <a className="button"href="mailto: abc@example.com">Contact support</a>
+        <a className={ `button ${ style.contactSupport }` } href="mailto: abc@example.com">Contact support</a>
       </div>
       <footer>
         <Link to="#home">
