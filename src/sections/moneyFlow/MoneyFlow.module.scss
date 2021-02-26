@@ -54,16 +54,16 @@
 
   .col {
     z-index: 1;
+
     .card {
       background: #f0f2f7;
       border: 0.5px solid rgba(0, 0, 0, 0.08);
       box-sizing: border-box;
       border-radius: 12px;
-      box-shadow: 8px 12px 60px rgba(0, 0, 0, 0.25);
-      -webkit-box-shadow: 8px 12px 60px rgba(0, 0, 0, 0.25);
-
-      padding: 16px;
+      box-shadow: 0 0 60px rgba(0, 0, 0, 0.25);
+      -webkit-box-shadow: 0 0 60px rgba(0, 0, 0, 0.25);
       margin: auto;
+      padding: 16px;
       width: 324px;
 
       p {
@@ -154,6 +154,20 @@
         }
       }
     }
+
+    $paddingBetweenCards: 5vw;
+    @media (min-width: $screenPhone) {
+      &:nth-child(1) .card {
+        margin-right: $paddingBetweenCards;
+        margin-left: auto;
+      }
+
+      &:nth-child(2) .card {
+        margin-left: $paddingBetweenCards;
+        margin-right: auto;
+      }
+    }
+
     @media (max-width: $screenPhone) {
       &:first-child {
         margin-bottom: 100px;
