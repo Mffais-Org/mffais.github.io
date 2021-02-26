@@ -18,9 +18,13 @@ export default class MoneyFlow extends Component {
           </div>
           <div className={ style.mobile }>
             <p>
-              A single place where users can edit and check out their future
-              transactions — up to a year in the future. Due transactions are
-              marked automatically to reduce cognitive load.
+              A single place where users <br />
+              can edit and check out their <br />
+              future transactions — up to a <br />
+              year in the future. <br />
+              Due transactions are marked <br />
+              automatically to reduce <br />
+              cognitive load.
             </p>
           </div>
         </div>

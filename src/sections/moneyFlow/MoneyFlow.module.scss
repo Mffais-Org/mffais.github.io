@@ -9,6 +9,8 @@
     margin: 0 auto 128px auto;
     p {
       margin: 14px 10vw;
+      font-size: 18px;
+      line-height: 30px;
     }
     .mobile {
       display: none;
@@ -65,6 +67,7 @@
       margin: auto;
       padding: 16px;
       width: 324px;
+      max-width: 90vw;
 
       p {
         font-size: 16px;
