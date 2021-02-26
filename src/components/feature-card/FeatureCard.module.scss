@@ -2,7 +2,9 @@
 
 .textBox {
   padding: 40px;
-  line-height: 28px;
+  p {
+    line-height: 28px;
+  }
 }
 
 .colWithImg {
