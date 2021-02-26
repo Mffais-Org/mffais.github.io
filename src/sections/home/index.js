@@ -1,12 +1,15 @@
 import React from 'react';
 import style from './Home.module.scss';
-import { GooglePlay } from '../../components';
+import { GooglePlay, Star } from '../../components';
 
 export default function () {
   return (
     <section id="home" className={ `grid-two-even ${ style.home }` }>
       <div className={ `col ${ style.col }` }>
-        <img className={ style.makeEndsMeet } src="/img/make-ends-meet.svg" />
+        <div className={ style.makeEndsMeet }>
+          <img src="/img/make-ends-meet.svg" />
+          <Star className={ style.mobileStar } />
+        </div>
         <p>
           Mffais helps you track cash <br className={ style.phoneBr } />
           flow and <br />
