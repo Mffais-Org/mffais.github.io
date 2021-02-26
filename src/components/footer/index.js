@@ -11,7 +11,7 @@ export default function () {
         <GooglePlay />
         <h4>Have any questions?</h4>
         {/* TODO: Add your email instead of abc@example.com */}
-        <a className={ `button ${ style.contactSupport }` } href="mailto: abc@example.com">Contact support</a>
+        <a className={ `button ${ style.contactSupport }` } target="_blank" href="mailto: abc@example.com">Contact support</a>
       </div>
       <footer>
         <Link to="#home">
@@ -19,8 +19,8 @@ export default function () {
         </Link>
         <Link to="/#features">Features</Link>
         <Link to="/#moneyFlow">Money flow</Link>
-        <Link to="/privacy-policy">Privacy Policy</Link>
-        <Link to="/terms-and-conditions">Terms and conditions</Link>
+        <Link to="/privacy-policy/#">Privacy Policy</Link>
+        <Link to="/terms-and-conditions/#">Terms and conditions</Link>
       </footer>
     </>
   );
