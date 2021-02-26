@@ -14,7 +14,7 @@ export default function () {
         <a className={ `button ${ style.contactSupport }` } target="_blank" href="mailto: abc@example.com">Contact support</a>
       </div>
       <footer>
-        <Link to="#home">
+        <Link to="#">
           <img src="/img/logo.svg" />
         </Link>
         <Link to="/#features">Features</Link>

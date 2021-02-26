@@ -35,7 +35,7 @@ export default class Navbar extends Component {
       return (
         <>
           <nav className={ style.nav }>
-            <Link to="/#home">
+            <Link to="/#">
               <img src="/img/logo.svg" />
               <img src="/img/logo-phone.svg" />
             </Link>
