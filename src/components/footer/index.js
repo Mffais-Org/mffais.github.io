@@ -10,11 +10,10 @@ export default function () {
         <h4>Give it a try!</h4>
         <GooglePlay />
         <h4>Have any questions?</h4>
-        {/* TODO: Add your email instead of abc@example.com */}
-        <a className={ `button ${ style.contactSupport }` } target="_blank" href="mailto: abc@example.com">Contact support</a>
+        <a className={ `button ${ style.contactSupport }` } target="_blank" href="mailto: kevin@mffais.com">Contact support</a>
       </div>
       <footer>
-        <Link to="#">
+        <Link to="/#">
           <img src="/img/logo.svg" />
         </Link>
         <Link to="/#features">Features</Link>
