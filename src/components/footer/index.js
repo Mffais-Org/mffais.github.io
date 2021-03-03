@@ -10,7 +10,7 @@ export default function () {
         <h4>Give it a try!</h4>
         <GooglePlay />
         <h4>Have any questions?</h4>
-        <a className={ `button ${ style.contactSupport }` } target="_blank" href="mailto: kevin@mffais.com">Contact support</a>
+        <a className={ `button ${ style.contactSupport }` } target="_blank" href="mailto: support@mffais.com">Contact support</a>
       </div>
       <footer>
         <Link to="/#">
