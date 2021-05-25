@@ -1,8 +1,7 @@
 import React from 'react';
 
 export default function ({ text }) {
-  // TODO: Replace com.your.id with your App id
-  const url = 'https://play.google.com/store/apps/details?id=com.your.id';
+  const url = 'https://play.google.com/store/apps/details?id=com.mffais.app';
 
   if (text) {
     return (
