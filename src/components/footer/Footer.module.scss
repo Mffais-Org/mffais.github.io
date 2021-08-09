@@ -1,31 +1,72 @@
 @import "/src/style/global.scss";
 
 footer {
-  height: 160px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
+  .nav {
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 10vw;
+    a {
+      padding: 8px;
+      margin: 0 50px;
+    }
+  }
 
-  a {
-    padding: 8px;
-    margin: 0 50px;
+  .contactInfo {
+    display: block;
   }
 
   @media (max-width: $screenPhone) {
+    // height: 160px;
     background-color: $clrGray;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+
+    & > .nav {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
     padding: 40px 20vw 40px 20vw;
     a {
       margin: 0;
       padding: 16px;
       padding-left: 6vw;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
       &:first-child {
         padding-left: 0;
         grid-column-end: span 2;
         text-align: center;
       }
+    }
+  }
+}
+
+.contactInfo {
+  margin-bottom: 32px;
+
+  @media (max-width: $screenPhone) {
+    margin-top: 32px;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  a {
+    margin: 12px 0;
+    padding: 0;
+    font-size: 12px;
+  }
+
+  p {
+    font-size: 12px;
+    color: $clrFontSecondary;
+    text-align: center;
+
+    @media (max-width: $screenPhone) {
+      font-size: 11px;
     }
   }
 }
