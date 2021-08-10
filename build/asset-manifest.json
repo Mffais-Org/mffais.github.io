@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81dd693a.chunk.css",
+    "main.js": "/static/js/main.a7851c53.chunk.js",
+    "main.js.map": "/static/js/main.a7851c53.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.73d637fa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.73d637fa.js.map",
+    "static/css/2.dcff805e.chunk.css": "/static/css/2.dcff805e.chunk.css",
+    "static/js/2.785a70e9.chunk.js": "/static/js/2.785a70e9.chunk.js",
+    "static/js/2.785a70e9.chunk.js.map": "/static/js/2.785a70e9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.dcff805e.chunk.css.map": "/static/css/2.dcff805e.chunk.css.map",
+    "static/css/main.81dd693a.chunk.css.map": "/static/css/main.81dd693a.chunk.css.map",
+    "static/js/2.785a70e9.chunk.js.LICENSE.txt": "/static/js/2.785a70e9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/rubik-latin-900italic.7f45ff04.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73d637fa.js",
+    "static/css/2.dcff805e.chunk.css",
+    "static/js/2.785a70e9.chunk.js",
+    "static/css/main.81dd693a.chunk.css",
+    "static/js/main.a7851c53.chunk.js"
+  ]
+}
