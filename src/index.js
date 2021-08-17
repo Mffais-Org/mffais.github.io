@@ -36,12 +36,12 @@ function App() {
   return (
     <Router history={ history } >
       <Switch>
-        <Route path={ '/privacy-policy' }>
+        <Route  exact path={ '/privacy-policy' }>
           <Navbar />
           {/* <PrivacyAndTerms data={privacyPolicy} title="Mffais Privacy Policy" /> */}
           <PrivacyPolicy />
         </Route>
-        <Route path="/terms-and-conditions">
+        <Route  exact path="/terms-and-conditions">
           <Navbar />
           <PrivacyAndTerms
             data={ termsAndConditions }
