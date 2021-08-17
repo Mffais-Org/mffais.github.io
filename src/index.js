@@ -8,6 +8,7 @@ import 'typeface-rubik';
 
 import { Footer, PrivacyAndTerms, Navbar } from './components';
 import HomePage from './pages/home';
+import PrivacyPolicy from './pages/privacy-policy';
 
 function App() {
   const [ privacyPolicy, setPrivacyPolicy ] = useState([]);
@@ -34,7 +35,9 @@ function App() {
       <Switch>
         <Route path="/privacy-policy">
           <Navbar />
-          <PrivacyAndTerms data={ privacyPolicy } title="Mffais Privacy Policy" />
+          {/* <PrivacyAndTerms data={privacyPolicy} title="Mffais Privacy Policy" /> */}
+          <PrivacyPolicy />
+          
         </Route>
         <Route path="/terms-and-conditions">
           <Navbar />

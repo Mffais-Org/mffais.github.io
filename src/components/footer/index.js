@@ -25,8 +25,8 @@ export default function () {
           </Link>
           <Link to="/#features">Features</Link>
           <Link to="/#moneyFlow">Money flow</Link>
-          <Link to="/privacy-policy/#">Privacy Policy</Link>
-          <Link to="/terms-and-conditions/#">Terms and conditions</Link>
+          <Link to="/privacy-policy/">Privacy Policy</Link>
+          <Link to="/terms-and-conditions/">Terms and conditions</Link>
         </div>
         <div className={ style.contactInfo }>
           <p>2436 E 4th Street, Ste #336</p>
