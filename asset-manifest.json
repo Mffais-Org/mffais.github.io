@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/mffais.github.io/static/css/main.63090dea.chunk.css",
-    "main.js": "/mffais.github.io/static/js/main.6605b6a1.chunk.js",
-    "main.js.map": "/mffais.github.io/static/js/main.6605b6a1.chunk.js.map",
+    "main.js": "/mffais.github.io/static/js/main.d190f98c.chunk.js",
+    "main.js.map": "/mffais.github.io/static/js/main.d190f98c.chunk.js.map",
     "runtime-main.js": "/mffais.github.io/static/js/runtime-main.a40f1a95.js",
     "runtime-main.js.map": "/mffais.github.io/static/js/runtime-main.a40f1a95.js.map",
     "static/css/2.fab8ff92.chunk.css": "/mffais.github.io/static/css/2.fab8ff92.chunk.css",
-    "static/js/2.fd6c1265.chunk.js": "/mffais.github.io/static/js/2.fd6c1265.chunk.js",
-    "static/js/2.fd6c1265.chunk.js.map": "/mffais.github.io/static/js/2.fd6c1265.chunk.js.map",
+    "static/js/2.2ca45693.chunk.js": "/mffais.github.io/static/js/2.2ca45693.chunk.js",
+    "static/js/2.2ca45693.chunk.js.map": "/mffais.github.io/static/js/2.2ca45693.chunk.js.map",
     "index.html": "/mffais.github.io/index.html",
     "static/css/2.fab8ff92.chunk.css.map": "/mffais.github.io/static/css/2.fab8ff92.chunk.css.map",
     "static/css/main.63090dea.chunk.css.map": "/mffais.github.io/static/css/main.63090dea.chunk.css.map",
-    "static/js/2.fd6c1265.chunk.js.LICENSE.txt": "/mffais.github.io/static/js/2.fd6c1265.chunk.js.LICENSE.txt",
+    "static/js/2.2ca45693.chunk.js.LICENSE.txt": "/mffais.github.io/static/js/2.2ca45693.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mffais.github.io/static/media/rubik-latin-900italic.7f45ff04.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.a40f1a95.js",
     "static/css/2.fab8ff92.chunk.css",
-    "static/js/2.fd6c1265.chunk.js",
+    "static/js/2.2ca45693.chunk.js",
     "static/css/main.63090dea.chunk.css",
-    "static/js/main.6605b6a1.chunk.js"
+    "static/js/main.d190f98c.chunk.js"
   ]
 }
