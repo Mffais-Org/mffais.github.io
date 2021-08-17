@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import ReactDOM from 'react-dom';
+import { createBrowserHistory } from "history";
+
+const history = createBrowserHistory();
 
 import './style/global.scss';
 import './style/grid.scss';
@@ -31,9 +34,9 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router history={ history }>
       <Switch>
-        <Route path={ 'mffais.github.io/mffais.com/privacy-policy' }>
+        <Route path={ '/privacy-policy' }>
           <Navbar />
           {/* <PrivacyAndTerms data={privacyPolicy} title="Mffais Privacy Policy" /> */}
           <PrivacyPolicy />
