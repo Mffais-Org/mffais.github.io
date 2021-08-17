@@ -1,9 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import ReactDOM from 'react-dom';
-import { createBrowserHistory } from 'history';
-
-const history = createBrowserHistory();
 
 import './style/global.scss';
 import './style/grid.scss';
@@ -11,7 +8,6 @@ import 'typeface-rubik';
 
 import { Footer, PrivacyAndTerms, Navbar } from './components';
 import HomePage from './pages/home';
-import PrivacyPolicy from './pages/privacy-policy';
 
 function App() {
   const [ privacyPolicy, setPrivacyPolicy ] = useState([]);
@@ -34,12 +30,12 @@ function App() {
   }, []);
 
   return (
-    <Router history={ history } >
+    <Router>
       <Switch>
         <Route  exact path={ '/privacy-policy' }>
           <Navbar />
-          {/* <PrivacyAndTerms data={privacyPolicy} title="Mffais Privacy Policy" /> */}
-          <PrivacyPolicy />
+          <PrivacyAndTerms data={ privacyPolicy } title="Mffais Privacy Policy" />
+
         </Route>
         <Route  exact path="/terms-and-conditions">
           <Navbar />
