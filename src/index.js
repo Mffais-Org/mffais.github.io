@@ -34,7 +34,7 @@ function App() {
   }, []);
 
   return (
-    <Router history={ history } basename="mffais.com">
+    <Router history={ history } >
       <Switch>
         <Route path={ '/privacy-policy' }>
           <Navbar />
