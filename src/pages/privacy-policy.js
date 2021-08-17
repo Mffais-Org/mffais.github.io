@@ -18,7 +18,7 @@ export default function () {
   //   useEffect(() => {
   //     getData('privacy-policy', setPrivacyPolicy);
   //   }, []);
-  return 'hey test'
+  return 'hey test 2'
 
   // return (
   //   <>
