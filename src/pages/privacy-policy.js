@@ -22,7 +22,7 @@ export default function () {
   return (
     <>
       <section className={ style.header }>
-        <h2>Mffais Privacy Policy</h2>
+        <h2>Mffais Privacy Policy TEST2</h2>
       </section>
       <section className={ style.content }>
         {privacyPolicy.map((group, groupIndex) => (

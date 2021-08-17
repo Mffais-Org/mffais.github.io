@@ -33,7 +33,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/privacy-policy">
+        <Route path={ 'https://www.mffais.com/privacy-policy' }>
           <Navbar />
           {/* <PrivacyAndTerms data={privacyPolicy} title="Mffais Privacy Policy" /> */}
           <PrivacyPolicy />
