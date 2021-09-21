@@ -56,7 +56,8 @@ p {
 }
 
 .button,
-.google-play {
+.google-play,
+.app-store {
   transition: 0.2s ease-in;
 
   &:hover {
@@ -84,11 +85,17 @@ a {
   margin-bottom: auto;
 }
 
-.google-play {
+.google-play,
+.app-store {
   border-radius: 8px;
   overflow: hidden;
   width: 214px;
   height: auto;
+}
+
+.app-store {
+  width: 192px;
+  margin-left: 32px;
 }
 
 img {
@@ -128,16 +135,15 @@ section {
     font-size: 18px;
   }
 
- a {
+  a {
     font-size: 12px;
   }
-button,
+  button,
   .button {
     font-size: 12px;
 
-  padding: 12px 20px;
+    padding: 12px 20px;
   }
-
 }
 
 @media (max-width: $screenPhone) {
@@ -162,7 +168,8 @@ button,
     font-size: 14px;
   }
 
-  .google-play {
+  .google-play,
+  .app-store {
     width: auto;
     height: 32px;
   }

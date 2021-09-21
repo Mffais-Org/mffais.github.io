@@ -1,6 +1,6 @@
 import React from 'react';
 import style from './Home.module.scss';
-import { GooglePlay, Star } from '../../components';
+import { GooglePlay, Star, AppStore } from '../../components';
 
 export default function () {
   return (
@@ -18,6 +18,7 @@ export default function () {
           and savings.
         </p>
         <GooglePlay />
+        <AppStore />
       </div>
 
       <div className={ `col ${ style.imgCol }` }>
