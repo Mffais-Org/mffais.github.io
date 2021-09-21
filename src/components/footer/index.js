@@ -1,6 +1,6 @@
 import React from 'react';
 import style from './Footer.module.scss';
-import { GooglePlay } from '../../components';
+import { GooglePlay, AppStore } from '../../components';
 import { HashLink as Link } from 'react-router-hash-link';
 
 export default function () {
@@ -8,7 +8,10 @@ export default function () {
     <>
       <div className={ style.subFooter }>
         <h4>Give it a try!</h4>
-        <GooglePlay />
+        <div className={ style.footerLogoWrapper } >
+          <GooglePlay />
+          <AppStore />
+        </div>
         <h4>Have any questions?</h4>
         <a
           className={ `button ${ style.contactSupport }` }

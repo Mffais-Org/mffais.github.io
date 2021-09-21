@@ -120,3 +120,27 @@ footer {
     }
   }
 }
+
+.footerLogoWrapper {
+  display: flex;
+
+  @media (max-width: $screenPhone) {
+    flex-direction: column;
+    align-items: center;
+    // flex-grow: 1;
+
+  }
+
+  & img[class="google-play"] {
+    width: 144px;
+  }
+  & img[class="app-store"] {
+    width: 128px;
+    @media (max-width: $screenPhone) {
+      width: 144px;
+      height: auto;
+      margin-left: 0;
+    }
+    margin-left: 12px;
+  }
+}
