@@ -1,8 +1,4 @@
 # Mffais - Web page
-Developed by [Cinnamon Agency](https://cinnamon.agency/) in Zagreb, Croatia, using React.
-
-#### Agency Communication Interface
-Ivan Kovac - ivan.kovac@cinnamon.agency
 
 #### Owner
 Kevin Traster - email@email.com
