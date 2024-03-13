@@ -1,0 +1,27 @@
+@import "/src/style/global.scss";
+
+.header {
+  background-color: $clrGray;
+  padding-top: 124px;
+  padding-bottom: 124px;
+
+  h2 {
+    margin: 0;
+  }
+
+  .title {
+    font-weight: 700;
+  }
+}
+
+.content {
+  padding-top: 64px;
+  padding-bottom: 124px;
+  p {
+    font-size: 16px;
+    font-weight: 300;
+    &.title {
+      font-weight: 700;
+    }
+  }
+}

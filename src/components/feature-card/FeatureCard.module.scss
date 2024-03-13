@@ -1,0 +1,18 @@
+@import "/src/style/global.scss";
+
+.textBox {
+  padding: 40px;
+  p {
+    line-height: 28px;
+  }
+}
+
+.colWithImg {
+  text-align: center;
+  img {
+    width: 100%;
+  }
+  @media (max-width: $screenPhone) {
+    order: -1;
+  }
+}

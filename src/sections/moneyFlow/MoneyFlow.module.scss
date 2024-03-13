@@ -1,0 +1,186 @@
+@import "/src/style/global.scss";
+
+.moneyFlow {
+  background-color: $clrGray;
+  padding: 124px 0;
+
+  .header {
+    text-align: center;
+    margin: 0 auto 128px auto;
+    p {
+      margin: 14px 10vw;
+      font-size: 18px;
+      line-height: 30px;
+    }
+    .mobile {
+      display: none;
+    }
+
+    @media (max-width: $screenPhone) {
+      margin-bottom: 64px;
+      h1 {
+        margin-top: 64px;
+      }
+      .mobile {
+        display: block;
+      }
+      .nonMobile {
+        display: none;
+      }
+    }
+  }
+
+  .cards {
+    position: relative;
+  }
+
+  .circle {
+    position: absolute;
+    border-radius: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 8px solid #ffd30d;
+    box-sizing: border-box;
+
+    $width: 386px;
+    @media (max-width: $screenPhone) {
+      $width: 80vw;
+      top: 50%;
+      transform: translate(-50%, -50%);
+    }
+    max-width: 386px;
+    max-height: 386px;
+    width: $width;
+    height: $width;
+  }
+
+  .col {
+    z-index: 1;
+
+    .card {
+      background: #f0f2f7;
+      border: 0.5px solid rgba(0, 0, 0, 0.08);
+      box-sizing: border-box;
+      border-radius: 12px;
+      box-shadow: 0 0 60px rgba(0, 0, 0, 0.25);
+      -webkit-box-shadow: 0 0 60px rgba(0, 0, 0, 0.25);
+      margin: auto;
+      padding: 16px;
+      width: 324px;
+      max-width: 90vw;
+
+      p {
+        font-size: 16px;
+        font-weight: 400;
+      }
+
+      .grayText {
+        font-size: 14px;
+        opacity: 0.55;
+      }
+
+      .cardTopText {
+        margin-top: 0;
+        & > span:last-child {
+          float: right;
+        }
+      }
+
+      // This is the Period total text
+      & > p.grayText {
+        text-align: end;
+        margin-bottom: 0;
+      }
+
+      .row {
+        $marginLeft: 44px;
+        position: relative;
+        background: $clrBackground;
+
+        border: 0.5px solid rgba(0, 0, 0, 0.08);
+        box-sizing: border-box;
+        border-radius: 10px;
+        display: flex;
+        justify-content: space-between;
+        margin-left: $marginLeft;
+        padding: 14px;
+
+        &:nth-child(2) {
+          margin-bottom: 6px;
+        }
+
+        .money {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          & > p {
+            margin: 0;
+          }
+          & > p:nth-child(2) {
+            margin-top: 4px;
+          }
+        }
+
+        .received {
+          background-color: #bdef98;
+          color: $clrFontSecondary;
+          font-size: 14px;
+        }
+
+        & > div > p {
+          margin: 4px 0;
+
+          img {
+            margin-bottom: -3px;
+          }
+        }
+
+        & > span {
+          $borderSize: 2px;
+          height: 24px;
+          width: 24px;
+          border: $borderSize solid $clrBlue;
+          box-sizing: border-box;
+          border-radius: 50%;
+
+          position: absolute;
+          left: calc(#{$borderSize} - #{$marginLeft} + 1px);
+          top: 50%;
+          transform: translateY(-50%);
+
+          text-align: center;
+          line-height: 22px;
+
+          &:not(:empty) {
+            background-color: $clrBlue;
+          }
+        }
+      }
+    }
+
+    $paddingBetweenCards: 5vw;
+    @media (min-width: $screenPhone) {
+      &:nth-child(1) .card {
+        margin-right: $paddingBetweenCards;
+        margin-left: auto;
+      }
+
+      &:nth-child(2) .card {
+        margin-left: $paddingBetweenCards;
+        margin-right: auto;
+      }
+    }
+
+    @media (max-width: $screenPhone) {
+      &:first-child {
+        margin-bottom: 100px;
+      }
+    }
+  }
+
+  @media (max-width: $screenPhone) {
+    padding-top: 32px;
+    position: relative;
+    z-index: 3;
+  }
+}

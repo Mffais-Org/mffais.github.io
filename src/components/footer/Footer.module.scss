@@ -1,0 +1,146 @@
+@import "/src/style/global.scss";
+
+footer {
+  .nav {
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 10vw;
+    a {
+      padding: 8px;
+      margin: 0 50px;
+    }
+  }
+
+  .contactInfo {
+    display: block;
+  }
+
+  @media (max-width: $screenPhone) {
+    // height: 160px;
+    background-color: $clrGray;
+
+    & > .nav {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+    padding: 40px 20vw 40px 20vw;
+    a {
+      margin: 0;
+      padding: 16px;
+      padding-left: 6vw;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      &:first-child {
+        padding-left: 0;
+        grid-column-end: span 2;
+        text-align: center;
+      }
+    }
+  }
+}
+
+.contactInfo {
+  margin-bottom: 32px;
+
+  @media (max-width: $screenPhone) {
+    margin-top: 32px;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  a {
+    margin: 12px 0;
+    padding: 0;
+    font-size: 12px;
+  }
+
+  p {
+    font-size: 12px;
+    color: $clrFontSecondary;
+    text-align: center;
+
+    @media (max-width: $screenPhone) {
+      font-size: 11px;
+    }
+  }
+}
+
+.subFooter {
+  height: 232px;
+  border: 2px solid rgba(0, 0, 0, 0.08);
+  border-style: solid none;
+  margin: 0 15vw;
+  @media (max-width: $screenSmall) {
+    margin: 0 10vw;
+  }
+  @media (max-width: $screenPhone) {
+    margin: 0 8vw;
+  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .contactSupport {
+    min-width: 100px;
+  }
+
+  h4 {
+    margin-right: 48px;
+    &:nth-child(3) {
+      margin-left: 160px;
+    }
+  }
+
+  @media (max-width: $screenPhone) {
+    border-style: none;
+    flex-direction: column;
+    height: auto;
+    padding-bottom: 48px;
+
+    h4 {
+      margin: 0;
+      margin-bottom: 32px;
+      &:nth-child(3) {
+        border-top: 2px solid rgba(0, 0, 0, 0.08);
+        padding-top: 40px;
+        margin-top: 40px;
+        width: 100%;
+        text-align: center;
+        margin-left: 0;
+      }
+    }
+
+    a img[class="google-play"] {
+      height: 48px;
+    }
+  }
+}
+
+.footerLogoWrapper {
+  display: flex;
+
+  @media (max-width: $screenPhone) {
+    flex-direction: column;
+    align-items: center;
+    // flex-grow: 1;
+
+  }
+
+  & img[class="google-play"] {
+    width: 144px;
+  }
+  & img[class="app-store"] {
+    width: 128px;
+    @media (max-width: $screenPhone) {
+      width: 144px;
+      height: auto;
+      margin-left: 0;
+    }
+    margin-left: 12px;
+  }
+}
