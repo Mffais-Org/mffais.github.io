@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mffais.github.io/static/css/main.e8a10119.chunk.css",
-    "main.js": "/mffais.github.io/static/js/main.03f9fda8.chunk.js",
-    "main.js.map": "/mffais.github.io/static/js/main.03f9fda8.chunk.js.map",
-    "runtime-main.js": "/mffais.github.io/static/js/runtime-main.a40f1a95.js",
-    "runtime-main.js.map": "/mffais.github.io/static/js/runtime-main.a40f1a95.js.map",
-    "static/css/2.fab8ff92.chunk.css": "/mffais.github.io/static/css/2.fab8ff92.chunk.css",
-    "static/js/2.8d3ae387.chunk.js": "/mffais.github.io/static/js/2.8d3ae387.chunk.js",
-    "static/js/2.8d3ae387.chunk.js.map": "/mffais.github.io/static/js/2.8d3ae387.chunk.js.map",
-    "index.html": "/mffais.github.io/index.html",
-    "static/css/2.fab8ff92.chunk.css.map": "/mffais.github.io/static/css/2.fab8ff92.chunk.css.map",
-    "static/css/main.e8a10119.chunk.css.map": "/mffais.github.io/static/css/main.e8a10119.chunk.css.map",
-    "static/js/2.8d3ae387.chunk.js.LICENSE.txt": "/mffais.github.io/static/js/2.8d3ae387.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/mffais.github.io/static/media/rubik-latin-900italic.7f45ff04.woff2"
+    "main.css": "/static/css/main.e8a10119.chunk.css",
+    "main.js": "/static/js/main.dec5ba82.chunk.js",
+    "main.js.map": "/static/js/main.dec5ba82.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.73d637fa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.73d637fa.js.map",
+    "static/css/2.dcff805e.chunk.css": "/static/css/2.dcff805e.chunk.css",
+    "static/js/2.6d0a4701.chunk.js": "/static/js/2.6d0a4701.chunk.js",
+    "static/js/2.6d0a4701.chunk.js.map": "/static/js/2.6d0a4701.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.dcff805e.chunk.css.map": "/static/css/2.dcff805e.chunk.css.map",
+    "static/css/main.e8a10119.chunk.css.map": "/static/css/main.e8a10119.chunk.css.map",
+    "static/js/2.6d0a4701.chunk.js.LICENSE.txt": "/static/js/2.6d0a4701.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/rubik-latin-900italic.7f45ff04.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.a40f1a95.js",
-    "static/css/2.fab8ff92.chunk.css",
-    "static/js/2.8d3ae387.chunk.js",
+    "static/js/runtime-main.73d637fa.js",
+    "static/css/2.dcff805e.chunk.css",
+    "static/js/2.6d0a4701.chunk.js",
     "static/css/main.e8a10119.chunk.css",
-    "static/js/main.03f9fda8.chunk.js"
+    "static/js/main.dec5ba82.chunk.js"
   ]
 }
