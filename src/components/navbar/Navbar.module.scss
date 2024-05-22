@@ -96,6 +96,9 @@
   a:last-child {
     margin-left: auto;
   }
+  a:nth-child(2) {
+    margin-left: auto;
+  }
   @media (max-width: $screenPhone) {
     width: calc(100% - 48px);
     padding: 0 24px;
