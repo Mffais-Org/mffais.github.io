@@ -15,9 +15,10 @@ export const MainWrapper = styled.div`
   max-width: 1312px;
   display: flex;
   flex-direction: column;
-  gap: 200px;
+  gap: 40px;
   align-items: center;
   @media ${devices.laptop} {
+    gap: 200px;
   }
 `;
 
@@ -26,8 +27,7 @@ export const HeroContainer = styled.div`
   flex-direction: column;
   gap: 16px;
   max-width: 960px;
-  width: 100%;
-  align-items: flex-start;
+  padding: 24px;
   @media ${devices.laptop} {
     gap: 40px;
     align-items: center;
@@ -71,6 +71,7 @@ export const FeaturesMainContainer = styled.div`
   display: flex;
   flex-direction: column;
   gap: 48px;
+  padding: 24px;
   @media ${devices.laptop} {
     gap: 224px;
   }
@@ -85,16 +86,6 @@ export const FeaturesContainer = styled.div`
   }
 `;
 
-export const FeaturesContainer2 = styled.div`
-  display: flex;
-  flex-direction: column-reverse;
-  gap: 24px;
-  @media ${devices.laptop} {
-    gap: 80px;
-    flex-direction: column;
-  }
-`;
-
 export const TopFeaturesContainer = styled.div`
   display: flex;
   flex-direction: column;
@@ -106,6 +97,16 @@ export const TopFeaturesContainer = styled.div`
   }
 `;
 
+export const TopFeaturesContainer2 = styled.div`
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 24px;
+  width: 100%;
+  @media ${devices.laptop} {
+    flex-direction: row;
+    gap: 80px;
+  }
+`;
 export const TitleSubtitleContainer = styled.div`
   display: flex;
   flex-direction: column;

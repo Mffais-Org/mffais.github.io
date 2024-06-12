@@ -4,7 +4,6 @@ import {
   BottomFeaturesContainer,
   Chip,
   FeaturesContainer,
-  FeaturesContainer2,
   FeaturesMainContainer,
   FeaturesSubTitle,
   FeaturesTitle,
@@ -14,6 +13,7 @@ import {
   SingleFeatureTitle,
   TitleSubtitleContainer,
   TopFeaturesContainer,
+  TopFeaturesContainer2,
   VideoContainer,
 } from "./AppGuideScreen.style";
 
@@ -30,9 +30,10 @@ export const FeaturesSection = () => {
             <FeaturesSubTitle>{data.topSection.subtitle}</FeaturesSubTitle>
           </TitleSubtitleContainer>
           <VideoContainer>
-            <img
-              src="/img/videoTestImage.png"
-              className="app-store"
+            <video
+              poster="/img/finances-video-thumbnail.png"
+              controls
+              src="/video/finances-video.mp4"
               style={{ width: "100%", height: "100%" }}
             />
           </VideoContainer>
@@ -47,12 +48,13 @@ export const FeaturesSection = () => {
           ))}
         </BottomFeaturesContainer>
       </FeaturesContainer>
-      <FeaturesContainer2>
-        <TopFeaturesContainer>
+      <FeaturesContainer>
+        <TopFeaturesContainer2>
           <VideoContainer>
-            <img
-              src="/img/videoTestImage.png"
-              className="app-store"
+            <video
+              poster="/img/income-video-thumbnail.png"
+              controls
+              src="/video/income-video.mp4"
               style={{ width: "100%", height: "100%" }}
             />
           </VideoContainer>
@@ -61,17 +63,17 @@ export const FeaturesSection = () => {
             <FeaturesTitle>{data.bottomSection.title}</FeaturesTitle>
             <FeaturesSubTitle>{data.bottomSection.subtitle}</FeaturesSubTitle>
           </TitleSubtitleContainer>
-        </TopFeaturesContainer>
+        </TopFeaturesContainer2>
         <BottomFeaturesContainer>
           {data.bottomSection.features.map((feature) => (
-            <SingleFeature>
+            <SingleFeature key={feature.title}>
               <SingleFeatureLogo>{feature.logo}</SingleFeatureLogo>
               <SingleFeatureTitle>{feature.title}</SingleFeatureTitle>
               <SingleFeatureSubtitle>{feature.subtitle}</SingleFeatureSubtitle>
             </SingleFeature>
           ))}
         </BottomFeaturesContainer>
-      </FeaturesContainer2>
+      </FeaturesContainer>
     </FeaturesMainContainer>
   );
 };
