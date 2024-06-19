@@ -10,8 +10,7 @@ export const AppGuide = () => {
   return (
     <>
       <Navbar featuresRef={featuresRef} moneyFlowRef={moneyFlowRef} />
-      <LanguageSwitcher />
-
+      {/* <LanguageSwitcher /> */}
       <AppGuideScreen />
     </>
   );

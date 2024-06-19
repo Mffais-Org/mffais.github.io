@@ -32,7 +32,7 @@ export const CardsGuideSection = () => {
         <Card
           title="Video tutorial"
           description="Watch our video tutorial for a quick and easy walkthrough."
-          imageSrc="/img/descriptionCardImageDesktop4.jpg"
+          imageSrc="/img/descriptionCardImageDesktop5.jpg"
         />
       </Container>
     </MainContainer>

@@ -20,15 +20,15 @@ export const Container = styled.div`
   flex-direction: column;
   gap: 24px;
   max-width: 1312px;
-  height: 488px;
   margin: auto;
   @media ${devices.laptop} {
     flex-direction: row;
+    height: 488px;
   }
 `;
 
 export const MainCardContainer = styled.div`
-  padding: 40px 40px 0 40px;
+  /* padding: 40px 40px 0 40px; */
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -42,6 +42,17 @@ export const MainCardContainer = styled.div`
   }
 `;
 
+export const TopSection = styled.div`
+  padding: 40px 40px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+`;
+
+export const ImageContainer = styled.div`
+  padding: 0 20px;
+`;
+
 export const Title = styled.span`
   font-size: 20px;
   font-weight: 500;
@@ -50,8 +61,8 @@ export const Title = styled.span`
   }
 `;
 export const Description = styled.span`
-  line-height: 34px;
   font-size: 16px;
+  line-height: 34px;
   @media ${devices.laptop} {
     font-size: 20px;
   }
