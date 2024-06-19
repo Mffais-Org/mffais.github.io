@@ -1,0 +1,237 @@
+{
+  "homePage": {
+    "desc": "Mffais padeda stebėti pinigų srautus ir suteikia įžvalgų apie būsimas išlaidas ir santaupas.",
+    "cardsTitle": "funkcijos",
+    "cardsDesc": "Stebėkite savo pinigų srautus ir sužinokite apie būsimas išlaidas bei santaupas",
+    "card1Title": "Nustatykite savo Mffais paskyrą",
+    "card1Desc": "Įveskite savo banko likutį ir pridėkite visas būsimas pajamas ir išlaidas.",
+    "card2Title": "Susikoncentruokite į savo ateitį",
+    "card2Desc1": "Mffais apskaičiuos jūsų būsimą pinigų srautą prieš 365 dienas.",
+    "card2Desc2": "Mes jums pasakysime jūsų mažiausią likutį ir kiek pinigų turėsite po metų.",
+    "card3Title": "Išvalykite savo operacijas",
+    "card3Desc": "Išvalę banko sąskaitą, būtinai išvalykite jas ir iš Mffais.",
+    "image1Desc1": "Mffais jums pasakys, kiek išleisti...",
+    "image1Desc2": "...arba kiek sutaupyti, kad liktų negraži",
+    "image2Title": "Pinigų srautas",
+    "image2Desc1": "Viena vieta, kur vartotojai gali redaguoti ir atsiskaityti",
+    "image2Desc2": "savo būsimus sandorius – iki metų ateityje.",
+    "image2Desc3": "Terminuotos operacijos pažymimos automatiškai, kad sumažintų pažinimo krūvį.",
+    "image3Desc": "Pranešimai apie terminą padeda išlaikyti pinigų srautą",
+    "image4Desc": "Stebėkite savo pinigų srautus ir sužinokite apie būsimas išlaidas bei santaupas."
+  },
+  "appGuide": {
+    "title": "Mffais vadovas",
+    "desc": "Kad išnaudotumėte visas mūsų programos galimybes, perskaitykite mūsų ekspertų patarimus, kurie padės jums.",
+    "card1Title": "Nustatykite Mffais balansą",
+    "card1Desc": "Įveskite savo banko likutį ir pridėkite visas būsimas pajamas ir išlaidas, apie kurias žinote.",
+    "card2Title": "Atnaujinkite savo balansą",
+    "card2Desc": "Kai gaunate pajamas, pažymėkite jas kaip gautas. ",
+    "card3Title": "Išvalykite savo operacijas",
+    "card3Desc": "Išvalykite savo operacijas ir palyginkite Mffais balansą su banko balansu, kad gautumėte paslėptas išlaidas",
+    "card4Title": "Pinigų srautas",
+    "card4Desc": "Patikrinkite ir redaguokite būsimas operacijas – iki metų ateityje.",
+    "card5Title": "Video pamoka",
+    "card5Desc": "Peržiūrėkite mūsų vaizdo įrašą, kad galėtumėte greitai ir lengvai pereiti.",
+    "feature1Chip": "Kolegijos studentams",
+    "feature1Title": "Supaprastinkite savo kolegijos finansus",
+    "feature1Desc": "Lengvai planuokite ir stebėkite savo studentų išlaidas – nuo ​​studijų ir vadovėlių iki bendrabučio reikmenų ir maitinimo. ",
+    "feature1Card1Title": "Stebėkite pasikartojančias išlaidas",
+    "feature1Card1Desc": "Lengvai valdykite dideles išlaidas, pvz., už mokslą, vadovėlius ir nuomą.",
+    "feature1Card2Title": "Biudžetas kintamoms išlaidoms",
+    "feature1Card2Desc": "Suplanuokite maistą, pramogas ir ekstremalias situacijas, prireikus pakoreguokite.",
+    "feature1Card3Title": "Tvarkyti studentų paskolas",
+    "feature1Card3Desc": "Paskirstykite vienkartines paskolos įmokas mėnesiams, kad efektyviai padengtumėte išlaidas.",
+    "feature1Card4Title": "Pinigų srautų stebėjimas",
+    "feature1Card4Desc": "Naudokite pinigų srauto ekraną, kad įsitikintumėte, jog esate pasirengę būsimoms išlaidoms.",
+    "feature1Card5Title": "Semestro išlaidų prognozavimas",
+    "feature1Card5Desc": "Iš anksto planuokite semestro išlaidas ir prisitaikykite prie pajamų pokyčių.",
+    "feature1Card6Title": "Pinigų valdymo patarimai",
+    "feature1Card6Desc": "Gaukite patarimų, kaip išvengti įprastų finansinių spąstų ir strategijų, kaip sutaupyti pinigų turint ribotą biudžetą.",
+    "feature2Chip": "Žmonėms, turintiems kelis darbus / koncertus",
+    "feature2Title": "Stebėkite visus savo pajamų srautus",
+    "feature2Desc": "Atsisveikinkite su daugybe skaičiuoklių ar programų žongliravimo vargo. ",
+    "feature2Card1Title": "Kelių pajamų srautų nustatymas",
+    "feature2Card1Desc": "Įveskite įvairius pajamų šaltinius su skirtingu dažnumu (pvz., savaitės koncertai, mėnesiniai laisvai samdomi darbuotojai).",
+    "feature2Card2Title": "Subalansuokite pajamas ir išlaidas",
+    "feature2Card2Desc": "Įveskite įvairius pajamų šaltinius su skirtingu dažnumu (pvz., savaitės koncertai, mėnesiniai laisvai samdomi darbuotojai).",
+    "feature2Card3Title": "Įsitikinkite, kad visos sąskaitos yra padengtos",
+    "feature2Card3Desc": "Įveskite įvairius pajamų šaltinius su skirtingu dažnumu (pvz., savaitės koncertai, mėnesiniai laisvai samdomi darbuotojai).",
+    "feature2Card4Title": "Atidėkite pinigų mokesčiams ir nereguliarios išlaidoms",
+    "feature2Card4Desc": "Įveskite įvairius pajamų šaltinius su skirtingu dažnumu (pvz., savaitės koncertai, mėnesiniai laisvai samdomi darbuotojai).",
+    "feature2Card5Title": "Koreguokite pinigų srautų kintamumą",
+    "feature2Card5Desc": "Finansinio stabilumo strategijos",
+    "feature2Card6Title": "Finansinio stabilumo strategijos",
+    "feature2Card6Desc": "Įveskite įvairius pajamų šaltinius su skirtingu dažnumu (pvz., savaitės koncertai, mėnesiniai laisvai samdomi darbuotojai)."
+  },
+  "subFooter": {
+    "giveItATry": "Pabandyk",
+    "haveAnyQuestions": "Turite klausimų?",
+    "buttonText": "Susisiekite su palaikymo komanda"
+  },
+  "headerAndFooter": {
+    "features": "funkcijos",
+    "moneyFlow": "Pinigų srautas",
+    "privacyPolicy": "Privatumo politika",
+    "termsAndConditions": "Taisyklės ir sąlygos"
+  },
+  "privacyPolicy": {
+    "mainTitle": "Mffais taisyklės ir sąlygos",
+    "title1": "Mffais Master Privatumo politika",
+    "paragraph1": {
+      "row1": "Ši privatumo politika nustato, kaip renkama ir naudojama asmeninė informacija, kuri pateikiama interneto svetainėje www.acorns.com (toliau – svetainė) ir mūsų mobiliojoje programėlėje (bendrai – „Mffais“). ",
+      "row2": "Mffais įsipareigoja išlaikyti bet kokios asmeninės informacijos apie mūsų vartotojus konfidencialumą, vientisumą ir saugumą. ",
+      "row3": "„Mffais“ pabrėžia savo privatumo ir saugumo standartus, kad apsaugotų nuo tapatybės vagystės ir užtikrintų jūsų asmeninės informacijos saugumą. "
+    },
+    "title2": "Surinkta asmeninė informacija",
+    "paragraph2": {
+      "row1": "Mes renkame iš jūsų šią asmeninę informaciją:",
+      "row2": "kontaktinė informacija, tokia kaip vardas, el. pašto adresas, pašto adresas, telefono numeris;",
+      "row3": "atsiskaitymo informacija, pvz., kredito kortelės numeris ir atsiskaitymo adresas;",
+      "row4": "finansinė informacija, pvz., banko ar tarpininkavimo sąskaitų numeriai, investicijų tipai;",
+      "row5": "Socialinio draudimo numeris;",
+      "row6": "vairuotojo pažymėjimo numeris;",
+      "row7": "unikalūs identifikatoriai, tokie kaip vartotojo vardas, sąskaitos numeris, slaptažodis;",
+      "row8": "informacija apie pageidavimus, pvz., produktų pageidavimų sąrašus, užsakymų istoriją ir rinkodaros nuostatas; ",
+      "row9": "demografinė informacija, pvz., amžius, išsilavinimas, lytis, pomėgiai ir pašto kodas.",
+      "row10": "Kai lankotės Svetainėje arba atsisiunčiate ir naudojatės mūsų paslaugomis, mes galime automatiškai rinkti tam tikrą informaciją, kurią mums siunčia jūsų kompiuteris, mobilusis įrenginys ar bet kuris kitas įrenginys. "
+    },
+    "title3": "Informacijos naudojimas ir dalijimasis",
+    "paragraph3": {
+      "row1": "Mffais naudoja ir atskleidžia jūsų asmeninę informaciją tik taip:",
+      "row2": "analizuoti svetainės naudojimą ir tobulinti Paslaugą;",
+      "row3": "pristatyti jums bet kokius administracinius pranešimus, pinigų perspėjimus ir pranešimus, susijusius su jūsų naudojimusi Paslauga;",
+      "row4": "įvykdyti jūsų užklausas dėl tam tikrų produktų ir paslaugų;",
+      "row5": "rinkos tyrimams, projektų planavimui, trikčių šalinimui ir klaidų, sukčiavimo ar kitos nusikalstamos veiklos aptikimui ir apsaugai nuo jų;",
+      "row6": "trečiųjų šalių rangovams, teikiantiems paslaugas Mffais ir kuriems taikomi tie patys privatumo apribojimai;",
+      "row7": "vykdyti Mffais naudojimo sąlygas; ",
+      "row8": "Jei prie Paslaugos prisijungiate taip, kaip jums suteikė vienas iš mūsų bendro prekės ženklo partnerių, naudodami bendro prekės ženklo URL, jūsų el. pašto adresas, naudotas registruojantis Paslaugoje, gali būti pateiktas tam bendro prekės ženklo partneriui.",
+      "row9": "Be to, retkarčiais galime pasiūlyti akcijas su įvairiomis įmonėmis, svetainėmis, mobiliosiomis programomis ar trečiosiomis šalimis, kurios gali apimti galimybes užsidirbti indėlių savo Mffais paskyroje. ",
+      "row10": "Galime naudoti jūsų pateiktą informaciją, kad sujungtume jus su žmonėmis, kuriuos galbūt jau pažįstate. ",
+      "row11": "Mes taip pat galime atskleisti jūsų asmeninę informaciją, kaip reikalaujama pagal įstatymus, pavyzdžiui, siekdami įvykdyti teismo šaukimą ar panašų teisinį procesą ir kai sąžiningai tikime, kad atskleidimas yra būtinas siekiant apsaugoti mūsų teises, apsaugoti jūsų ar kitų saugumą, ištirti ",
+      "row12": "Jei „Mffais Incorporated“ dalyvauja sujungiant, įsigyjant ar parduodant visą savo turtą arba jo dalį, jums bus pranešta el. paštu ir (arba) aiškiai matomu pranešimu mūsų svetainėje apie bet kokius jūsų asmeninės informacijos nuosavybės ar naudojimo pasikeitimus. "
+    },
+    "title4": "Vartotojo prieiga ir pasirinkimas",
+    "paragraph4": {
+      "row1": "Jei pasikeičia jūsų asmeninė informacija arba jei nebenorite mūsų paslaugų, galite ją pataisyti arba atnaujinti atlikdami pakeitimus mūsų klientų informacijos puslapyje arba el. paštu išsiųsdami „Acorns“ klientų aptarnavimo skyrių.",
+      "row2": "Mes saugosime ir naudosime jūsų informaciją, jei tai būtina, kad įvykdytume savo teisinius ir (arba) reglamentuojančius įsipareigojimus, spręstume ginčus ir vykdytume savo sutartis.",
+      "row3": "Jei norite užsiprenumeruoti mūsų naujienlaiškį (-ius), mes naudosime jūsų vardą ir el. pašto adresą, kad atsiųstume jums naujienlaiškį. "
+    },
+    "title5": "Slapukai / sekimo technologijos",
+    "paragraph5": {
+      "row1": "Slapukas yra nedidelis tekstinis failas, kuris saugomas vartotojo kompiuteryje įrašų saugojimo tikslais. ",
+      "row2": "Naudojame ir sesijos ID slapukus, ir nuolatinius slapukus. ",
+      "row3": "Jei atmesite slapukus, vis tiek galėsite naudotis Svetaine, tačiau jūsų galimybės naudotis kai kuriomis Svetainės sritimis, pavyzdžiui, konkursais ar apklausomis, gali būti apribotos.",
+      "row4": "Mūsų partnerių, filialų, sekimo komunalinių paslaugų įmonių ir (arba) paslaugų teikėjų slapukų naudojimui mūsų privatumo politika netaikoma. ",
+      "row5": "Mes naudojame (ir (arba) mūsų trečiosios šalies reklamos partneris naudoja) programinės įrangos technologiją, vadinamą aiškiais gifais (kartais vadinamais žiniatinklio signalais arba žiniatinklio klaidomis), kuri padeda mums geriau valdyti svetainės turinį, informuodama, koks turinys yra efektyvus. "
+    },
+    "title6": "Pastaba dėl nesekimo",
+    "paragraph6": {
+      "row1": "Nesekti (DNT) yra privatumo nuostata, kurią vartotojai gali nustatyti tam tikrose žiniatinklio naršyklėse. "
+    },
+    "title7": "Saugumas",
+    "paragraph7": {
+      "row1": "Jūsų asmeninės informacijos saugumas mums yra svarbus. ",
+      "row2": "Mes laikomės visuotinai priimtų standartų, kad apsaugotume mums pateiktą asmeninę informaciją tiek perdavimo metu, tiek ją gavus. "
+    },
+    "title8": "Šios privatumo politikos pakeitimai",
+    "paragraph8": {
+      "row1": "Galime atnaujinti šią privatumo politiką, kad atspindėtų mūsų informacijos praktikos pokyčius. "
+    },
+    "title9": "Susisiekite su mumis",
+    "paragraph9": {
+      "row1": "Jei turite klausimų apie mūsų privatumo politiką, susisiekite su Mffais klientų aptarnavimo tarnyba šiuo adresu:",
+      "row2": "privacy@mffais.com",
+      "row3": "Mffais"
+    }
+  },
+  "termsAndConditions": {
+    "mainTitle": "Mffais taisyklės ir sąlygos",
+    "title1": "Sveiki",
+    "paragraph1": {
+      "row1": "Sveiki atvykę į Mffais svetainę!",
+      "row2": "Šiose sąlygose išdėstytos „Mffais“ svetainės, esančios mūsų svetainėje, naudojimo taisyklės ir nuostatai.",
+      "row3": "Prisijungdami prie šios svetainės manome, kad sutinkate su šiomis sąlygomis. ",
+      "row4": "Šioms Sąlygoms ir sąlygoms, Privatumo pareiškimui ir Atsisakymo pareiškimui bei visoms sutartims taikoma ši terminija: „Klientas“, „Jūs“ ir „Jūsų“ reiškia jus, asmenį, prisijungusį prie šios svetainės ir atitinkantį Bendrovės sąlygas. "
+    },
+    "title2": "Slapukai",
+    "paragraph2": {
+      "row1": "Mes naudojame slapukus. ",
+      "row2": "Dauguma interaktyvių svetainių naudoja slapukus, kad galėtume gauti kiekvieno apsilankymo vartotojo informaciją. "
+    },
+    "title3": "Licencija",
+    "paragraph3": {
+      "row1": "Jei nenurodyta kitaip, „Mffais“ ir (arba) jos licencijų išdavėjai priklauso visos „Mffais“ svetainėje esančios medžiagos intelektinės nuosavybės teisės.  ",
+      "row2": "Tu neturėtum:",
+      "row3": "• Perpublikuoti medžiagą iš Mffais svetainės;",
+      "row4": "• Parduokite, išsinuomokite ar sub•licencijuokite medžiagą iš „Mffais“ svetainės;",
+      "row5": "• Atgaminti, kopijuoti arba kopijuoti medžiagą iš Mffais svetainės;",
+      "row6": "• Perskirstyti turinį iš Mffais svetainės;",
+      "row7": "Ši Sutartis įsigalioja jos sudarymo dieną. ",
+      "row8": "Kai kurios šios svetainės dalys suteikia vartotojams galimybę skelbti ir keistis nuomonėmis bei informacija tam tikrose svetainės srityse. ",
+      "row9": "Mffais pasilieka teisę stebėti visus Komentarus ir pašalinti visus Komentarus, kurie gali būti laikomi netinkamais, įžeidžiančiais arba pažeidžiančiais šias Sąlygas.",
+      "row10": "Jūs garantuojate ir pareiškiate, kad:",
+      "row11": "• Jūs turite teisę skelbti Komentarus mūsų svetainėje ir turite visas tam reikalingas licencijas ir sutikimus;",
+      "row12": "• Komentarai nepažeidžia jokių intelektinės nuosavybės teisių, įskaitant, bet neapsiribojant, bet kurios trečiosios šalies autorių teises, patentą ar prekės ženklą;",
+      "row13": "• Komentaruose nėra jokios šmeižikiškos, šmeižikiškos, įžeidžiančios, nepadorios ar kitaip neteisėtos medžiagos, kuri pažeidžia privatumą;",
+      "row14": "• Komentarai nebus naudojami siekiant paskatinti ar reklamuoti verslą ar papročius arba pristatyti komercinę veiklą ar neteisėtą veiklą;",
+      "row15": "Jūs suteikiate Mffais neišskirtinę licenciją naudoti, atkurti, redaguoti ir leisti kitiems naudoti, atgaminti ir redaguoti bet kokius jūsų komentarus bet kokia forma, formatu ar laikmena."
+    },
+    "title4": "Hipersaitas į mūsų turinį",
+    "paragraph4": {
+      "row1": "Šios organizacijos gali pateikti nuorodas į mūsų svetainę be išankstinio raštiško sutikimo:",
+      "row2": "• Vyriausybės įstaigos;",
+      "row3": "• Paieškos sistemos;",
+      "row4": "• Naujienų organizacijos;",
+      "row5": "• Interneto katalogų platintojai gali pateikti nuorodas į mūsų svetainę taip pat, kaip ir į kitų sąraše esančių įmonių svetaines; ",
+      "row6": "• Visos sistemos akredituotos įmonės, išskyrus ne pelno organizacijas, labdaros prekybos centrus ir labdaros lėšų rinkimo grupes, kurios negali pateikti hipersaitų į mūsų svetainę.",
+      "row7": "Šios organizacijos gali pateikti nuorodas į mūsų pagrindinį puslapį, leidinius ar kitą Svetainės informaciją, jei nuoroda: (a) jokiu būdu nėra apgaulinga; ",
+      "row8": "Galime svarstyti ir patvirtinti kitas susiejimo užklausas iš šių tipų organizacijų:",
+      "row9": "• plačiai • žinomi vartotojų ir (arba) verslo informacijos šaltiniai;",
+      "row10": "• dot.com bendruomenės svetainės;",
+      "row11": "• asociacijos ar kitos grupės, atstovaujančios labdaros organizacijoms;",
+      "row12": "• internetinių žinynų platintojai;",
+      "row13": "• interneto portalai;",
+      "row14": "• buhalterinės apskaitos, teisės ir konsultacijų įmonės; ",
+      "row15": "• švietimo įstaigos ir prekybos asociacijos.",
+      "row16": "Patvirtinsime šių organizacijų susiejimo užklausas, jei nuspręsime, kad: (a) nuoroda nesukels mūsų nepalankios nuomonės sau ar mūsų akredituotoms įmonėms; ",
+      "row17": "Šios organizacijos gali pateikti nuorodas į mūsų pagrindinį puslapį, jei nuoroda: (a) jokiu būdu nėra apgaulinga; ",
+      "row18": "Jei esate viena iš organizacijų, išvardytų 2 pastraipoje ir norite pateikti nuorodą į mūsų svetainę, turite apie tai mus informuoti atsiųsdami el. laišką adresu Mffais. ",
+      "row19": "Patvirtintos organizacijos gali pateikti hipersaitą į mūsų svetainę taip:",
+      "row20": "• naudojant mūsų įmonės pavadinimą; ",
+      "row21": "• Naudojant vienodą išteklių ieškiklį, su kuriuo susieta; ",
+      "row22": "• Naudojant bet kokį kitą mūsų svetainės, su kuria susieta nuoroda, aprašą, kuris yra prasmingas susiejančios šalies svetainės turinio kontekste ir formate.",
+      "row23": "Jei nėra prekės ženklo licencijos sutarties, susiejant nebus leidžiama naudoti Mffais logotipo ar kitų meno kūrinių."
+    },
+    "title5": "iFrames",
+    "paragraph5": {
+      "row1": "Be išankstinio patvirtinimo ir raštiško leidimo negalite aplink mūsų tinklalapius kurti rėmelių, kurie kaip nors pakeistų mūsų svetainės vizualinį pateikimą ar išvaizdą."
+    },
+    "title6": "Turinio atsakomybė",
+    "paragraph6": {
+      "row1": "Mes neprisiimame atsakomybės už bet kokį turinį, kuris rodomas jūsų svetainėje. "
+    },
+    "title7": "Jūsų privatumas",
+    "paragraph7": {
+      "row1": "Prašome perskaityti mūsų privatumo politiką"
+    },
+    "title8": "Teisių rezervavimas",
+    "paragraph8": {
+      "row1": "Pasiliekame teisę prašyti, kad pašalintumėte visas nuorodas arba bet kurią konkrečią nuorodą į mūsų svetainę. "
+    },
+    "title9": "Nuorodų pašalinimas iš mūsų svetainės",
+    "paragraph9": {
+      "row1": "Jei mūsų svetainėje radote kokią nors nuorodą, kuri dėl kokios nors priežasties yra įžeidžianti, galite bet kuriuo metu susisiekti ir informuoti mus. ",
+      "row2": "Mes neužtikriname, kad informacija šioje svetainėje yra teisinga, negarantuojame jos išsamumo ar tikslumo; "
+    },
+    "title10": "Atsisakymas",
+    "paragraph10": {
+      "row1": "Kiek tai leidžia taikytini įstatymai, neįtraukiame jokių pareiškimų, garantijų ir sąlygų, susijusių su mūsų svetaine ir šios svetainės naudojimu. ",
+      "row2": "• apriboti arba panaikinti mūsų arba jūsų atsakomybę už mirtį ar asmens sužalojimą;",
+      "row3": "• apriboti arba panaikinti mūsų arba jūsų atsakomybę už sukčiavimą arba apgaulingą klaidinantį pateikimą;",
+      "row4": "• apriboti bet kokius mūsų ar jūsų įsipareigojimus bet kokiu būdu, kuris neleidžiamas pagal galiojančius įstatymus; ",
+      "row5": "• neįtraukti jokių mūsų ar jūsų įsipareigojimų, kurie negali būti pašalinti pagal galiojančius įstatymus.",
+      "row6": "Atsakomybės apribojimai ir draudimai, nustatyti šiame skirsnyje ir kitur šiame atsakomybės atsisakyme: (a) taikomi ankstesnėje pastraipoje; ",
+      "row7": "Kol svetainė ir svetainėje esanti informacija bei paslaugos teikiamos nemokamai, mes neatsakome už bet kokio pobūdžio nuostolius ar žalą."
+    }
+  }
+}

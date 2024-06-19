@@ -1,0 +1,248 @@
+{
+  "homePage": {
+    "desc": "Mffais helps you track cash flow and provides insight into future spending and savings.",
+    "cardsTitle": "Features",
+    "cardsDesc": "Track your cash flow and get an insight into future spending and savings",
+
+    "card1Title": "Setup your Mffais account",
+    "card1Desc": "Enter your bank balance and add all future incomes and expenses.",
+    "card2Title": "Focus on your future",
+    "card2Desc1": "Mffais will calculate your future money flow 365 days in advance.",
+    "card2Desc2": "We will tell you your lowest balance and how much money you’ll have after a year.",
+    "card3Title": "Clear your transactions",
+    "card3Desc": "After transactions clear your bank account, make sure to clear them from Mffais as well.",
+
+    "image1Desc1": "Mffais tells you how much to spend...",
+    "image1Desc2": "...or how much to save to stay in the black",
+
+    "image2Title": "Money flow",
+    "image2Desc1": "A single place where users can edit and checkout",
+    "image2Desc2": "their future transactions - up to a year in the future.",
+    "image2Desc3": "Due transactions are marked automatically to reduce cognitive load.",
+
+    "image3Desc": "Due date notifications help you stay on top of your cash flow",
+
+    "image4Desc": "Track your cash flow and get an insight into future spending and savings."
+  },
+
+  "appGuide": {
+    "title": "Mffais guide",
+    "desc": "To ensure you make the most out of our app, read our expert tips to guide you along the way.",
+
+    "card1Title": "Setup your Mffais balance",
+    "card1Desc": "Enter your bank balance and add all future incomes and expenses you’re aware of.",
+    "card2Title": "Keep your balance up to date",
+    "card2Desc": "When you receive an income, mark it as received. When you pay an expense, mark it as spent.",
+    "card3Title": "Clear your transactions",
+    "card3Desc": "Clear your transactions and compare your Mffais balance to your bank—to catch hidden costs",
+    "card4Title": "Money flow",
+    "card4Desc": "Check and edit future transactions — up to a year in the future.",
+    "card5Title": "Video tutorial",
+    "card5Desc": "Watch our video tutorial for a quick and easy walkthrough.",
+
+    "feature1Chip": "For College Students",
+    "feature1Title": "Simplify your college finances",
+    "feature1Desc": "Easily plan and track your student expenses, from tuition and textbooks to dorm supplies and dining out. Our intuitive interface lets you input future incomes and expenses, providing valuable insights into your cash flow for the semester and beyond.",
+    "feature1Card1Title": "Track recurring expenses",
+    "feature1Card1Desc": "Manage significant costs like tuition, textbooks, and rent with ease.",
+    "feature1Card2Title": "Budget for variable expenses",
+    "feature1Card2Desc": "Plan for food, entertainment, and emergencies, adjusting as needed.",
+    "feature1Card3Title": "Manage student loans",
+    "feature1Card3Desc": "Spread out lump sum loan payments over months to cover expenses efficiently.",
+    "feature1Card4Title": "Money Flow Monitoring",
+    "feature1Card4Desc": "Use the Money Flow screen to ensure you're prepared for upcoming expenses.",
+    "feature1Card5Title": "Semester Expense Forecasting",
+    "feature1Card5Desc": "Plan ahead for semester expenses and adjust for changes in income.",
+    "feature1Card6Title": "Money Management Tips",
+    "feature1Card6Desc": "Receive advice on avoiding common financial pitfalls and strategies for saving money on a tight budget.",
+
+    "feature2Chip": "For People with Multiple Jobs/Gigs",
+    "feature2Title": "Track all your income streams",
+    "feature2Desc": "Say goodbye to the hassle of juggling multiple spreadsheets or apps. With Mffais, you can easily input and categorize income from different sources, giving you a comprehensive overview of your cash flow at a glance.",
+    "feature2Card1Title": "Setting up multiple-income streams",
+    "feature2Card1Desc": "Enter various income sources with different frequencies (e.g., weekly gigs, monthly freelance payments).",
+    "feature2Card2Title": "Balance income and expenses",
+    "feature2Card2Desc": "Enter various income sources with different frequencies (e.g., weekly gigs, monthly freelance payments).",
+    "feature2Card3Title": "Ensure all bills are covered",
+    "feature2Card3Desc": "Enter various income sources with different frequencies (e.g., weekly gigs, monthly freelance payments).",
+    "feature2Card4Title": "Set aside money for taxes and irregular expenses",
+    "feature2Card4Desc": "Enter various income sources with different frequencies (e.g., weekly gigs, monthly freelance payments).",
+    "feature2Card5Title": "Adjust for cash flow variability",
+    "feature2Card5Desc": "Strategies for financial stability",
+    "feature2Card6Title": "Strategies for financial stability",
+    "feature2Card6Desc": "Enter various income sources with different frequencies (e.g., weekly gigs, monthly freelance payments)."
+  },
+  "subFooter": {
+    "giveItATry": "Give it a try",
+    "haveAnyQuestions": "Have any questions?",
+    "buttonText": "Contact support"
+  },
+  "headerAndFooter": {
+    "features": "Features",
+    "moneyFlow": "Money flow",
+    "privacyPolicy": "Privacy Policy",
+    "termsAndConditions": "Terms and conditions"
+  },
+
+  "privacyPolicy": {
+    "mainTitle": "Mffais Terms and Conditions",
+    "title1": "Mffais Master Privacy Policy",
+    "paragraph1": {
+      "row1": "This Privacy Policy sets forth how personal information is collected and used, that is provided on Internet Web site located at www.acorns.com (the “Site”) and our mobile application (collectively, “Mffais”). Unless otherwise indicated, this Privacy Policy only applies to personal information collected through Mffais or any of their respective affiliates (together, for purposes hereof, “Mffais”). By using the Mffais, you agree to be bound by this Privacy Policy and our Terms of Use, as they may be amended from time to time in the future (see 'Change to this Privacy Policy' below).",
+      "row2": "Mffais is committed to maintaining the confidentiality, integrity and security of any personal information about our users. This Privacy Policy explains how we protect personal information provided through the Mffais and how we use that information in connection with our service offered through the Mffais (the 'Service'). 'Personal information' for purposes of this Privacy Policy means information that identifies you, such as your name, address, phone number, fax number or email address.",
+      "row3": "Mffais stresses its privacy and security standards to guard against identity theft and provide security for your personal information. We regularly re-evaluate our privacy and security policies and adapt them as necessary to deal with new challenges."
+    },
+    "title2": "Personal Information Collected",
+    "paragraph2": {
+      "row1": "We collect the following personal information from you:",
+      "row2": "contact information such as name, email address, mailing address, phone number;",
+      "row3": "billing information such as credit card number, and billing address;",
+      "row4": "financial information such as bank or brokerage account numbers, types of investments;",
+      "row5": "Social Security number;",
+      "row6": "driver's license number;",
+      "row7": "unique identifiers such as username, account number, password;",
+      "row8": "preferences information such as product wish lists, order history, and marketing preferences; and",
+      "row9": "demographic information such as age, education, gender, interests, and zip code.",
+      "row10": "When you visit the Site or download and use our Services, we may automatically collect certain information sent to us by your computer, mobile device, or any other device. This information may include the type of device you use, operating system, the device identifier (or 'UDID'), your IP address, location, mobile network information, and standard web log information, such as your browser type traffic to and from our site, the pages you accessed on our website, and other available information. We may also collect information about your use and interaction with the Site, our mobile application, or our Services. For example, we may evaluate your computer, mobile phone, or other access device to identify any malicious software or activity that may affect the availability of the Services. When you use the Services, we may also store information based on your usage history. This includes, but is not limited to, details of your purchases, content you viewed, event information, click stream information, and cookies that may uniquely identify your browser or your account."
+    },
+    "title3": "Information Use and Sharing",
+    "paragraph3": {
+      "row1": "Mffais uses and discloses your personal information only as follows:",
+      "row2": "to analyze site usage and improve the Service;",
+      "row3": "to deliver to you any administrative notices, money alerts, and communications relevant to your use of the Service;",
+      "row4": "to fulfill your requests for certain products and services;",
+      "row5": "for market research, project planning, troubleshooting problems, and detecting and protecting against error, fraud, or other criminal activity;",
+      "row6": "to third-party contractors that provide services to Mffais and are bound by these same privacy restrictions;",
+      "row7": "to enforce Mffais's Terms of Use; and as otherwise set forth in this Privacy Policy.",
+      "row8": "In the event that you access the Service as brought to you by one of our co-brand partners, through a co-branded URL, your email address used for registration on the Service may be provided to that co-brand partner.",
+      "row9": "In addition, we may, from time to time, offer promotions with various businesses, websites, mobile applications or third parties, which may include opportunities for you to earn deposits within your Mffais account. Each such promotion will be subject to and governed by our Terms of Use, this Privacy Policy, and any applicable rules or terms and conditions we may post online, post in our mobile application, include within e-mail or other communications, or otherwise make available to you. To the extent you elect to participate in any such promotion or otherwise make any purchase subject to a promotion, we may share personal information such as name, e-mail address, purchase dates, and other related information with the applicable third party for the limited purpose of allowing the parties the make the promotion available and track participation within such promotion.",
+      "row10": "We may use information you provide to connect you with people you may already know. For example, through our mobile application we may identify contacts within your address book as potential new users of Mffais. We may match the contact information you provide to the information provided by other users to improve the Service, including making it easier to find contacts you may refer to Mffais that are not already customers.",
+      "row11": "We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.",
+      "row12": "If Mffais Incorporated is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information."
+    },
+    "title4": "User Access and Choice",
+    "paragraph4": {
+      "row1": "If the personal information on file for you changes, or if you no longer desire our service, you may correct or update it by making the change on our customer information page or by emailing Acorns Customer Service.",
+      "row2": "We will retain and use your information as necessary to comply with our legal and/or regulatory obligations, resolve disputes, and enforce our agreements.",
+      "row3": "If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at the information below."
+    },
+    "title5": "Cookies / Tracking Technologies",
+    "paragraph5": {
+      "row1": "A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on the Site. We do not link the information we store in cookies to any personally identifiable information you submit while on the Site.",
+      "row2": "We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory.",
+      "row3": "If you reject cookies, you may still use the Site, but your ability to use some areas of the Site, such as contests or surveys, may be limited.",
+      "row4": "The use of cookies by our partners, affiliates, tracking utility company, and/or service providers is not covered by our Privacy Policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, and/or service providers use session ID cookies to make it easier for you to navigate the Site.",
+      "row5": "We employ (and/or our third-party advertising partner employs) a software technology called clear gifs (sometimes known as web beacons or web bugs), that help us better manage content on the Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information."
+    },
+    "title6": "Notice Concerning Do Not Track",
+    "paragraph6": {
+      "row1": "Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. At this time, we do not recognize or respond to DNT signals."
+    },
+    "title7": "Security",
+    "paragraph7": {
+      "row1": "The security of your personal information is important to us. When you enter sensitive information, such as a credit card number or financial information, on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).",
+      "row2": "We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on the Site, please contact us."
+    },
+    "title8": "Changes to this Privacy Policy",
+    "paragraph8": {
+      "row1": "We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices."
+    },
+    "title9": "Contact Us",
+    "paragraph9": {
+      "row1": "If you have any questions about our Privacy Policy, please contact Mffais Customer Service at:",
+      "row2": "privacy@mffais.com",
+      "row3": "Mffais"
+    }
+  },
+
+  "termsAndConditions": {
+    "mainTitle": "Mffais Terms and Conditions",
+    "title1": "Welcome",
+    "paragraph1": {
+      "row1": "Welcome to Mffais Website!",
+      "row2": "These terms and conditions outline the rules and regulations for the use of Mffais's Website, located at our website.",
+      "row3": "By accessing this website we assume you accept these terms and conditions. Do not continue to use Mffais Website if you do not agree to take all of the terms and conditions stated on this page.",
+      "row4": "The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: 'Client', 'You' and 'Your' refers to you, the person log on this website and compliant to the Company’s terms and conditions. 'The Company', 'Ourselves', 'We', 'Our' and 'Us', refers to our Company. 'Party', 'Parties', or 'Us', refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same."
+    },
+    "title2": "Cookies",
+    "paragraph2": {
+      "row1": "We employ the use of cookies. By accessing Mffais Website, you agreed to use cookies in agreement with the Mffais's Privacy Policy.",
+      "row2": "Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies."
+    },
+    "title3": "License",
+    "paragraph3": {
+      "row1": "Unless otherwise stated, Mffais and/or its licensors own the intellectual property rights for all material on Mffais Website. All intellectual property rights are reserved. You may access this from Mffais Website for your own personal use subjected to restrictions set in these terms and conditions. ",
+      "row2": "You must not:",
+      "row3": "• Republish material from Mffais Website;",
+      "row4": "• Sell, rent or sub•license material from Mffais Website;",
+      "row5": "• Reproduce, duplicate or copy material from Mffais Website;",
+      "row6": "• Redistribute content from Mffais Website;",
+      "row7": "This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the Terms And Conditions Generator and the Privacy Policy Generator.",
+      "row8": "Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Mffais does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Mffais,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Mffais shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.",
+      "row9": "Mffais reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.",
+      "row10": "You warrant and represent that:",
+      "row11": "• You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;",
+      "row12": "• The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;",
+      "row13": "• The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy;",
+      "row14": "• The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity;",
+      "row15": "You hereby grant Mffais a non•exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media"
+    },
+    "title4": "Hyperlinking to our Content",
+    "paragraph4": {
+      "row1": "The following organizations may link to our Website without prior written approval:",
+      "row2": "• Government agencies;",
+      "row3": "• Search engines;",
+      "row4": "• News organizations;",
+      "row5": "• Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and",
+      "row6": "• System wide Accredited Businesses except soliciting non•profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.",
+      "row7": "These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party’s site.",
+      "row8": "We may consider and approve other link requests from the following types of organizations:",
+      "row9": "• commonly•known consumer and/or business information sources;",
+      "row10": "• dot.com community sites;",
+      "row11": "• associations or other groups representing charities;",
+      "row12": "• online directory distributors;",
+      "row13": "• internet portals;",
+      "row14": "• accounting, law and consulting firms; and",
+      "row15": "• educational institutions and trade associations.",
+      "row16": "We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of Mffais; and (d) the link is in the context of general resource information.",
+      "row17": "These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.",
+      "row18": "If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e•mail to Mffais. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2•3 weeks for a response.",
+      "row19": "Approved organizations may hyperlink to our Website as follows:",
+      "row20": "• By use of our corporate name; or",
+      "row21": "• By use of the uniform resource locator being linked to; or",
+      "row22": "• By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.",
+      "row23": "No use of Mffais's logo or other artwork will be allowed for linking absent a trademark license agreement."
+    },
+    "title5": "iFrames",
+    "paragraph5": {
+      "row1": "Without prior approval and written permission, you may not create frames around our Webpages that alter in any way the visual presentation or appearance of our Website."
+    },
+    "title6": "Content Liability",
+    "paragraph6": {
+      "row1": "We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights."
+    },
+    "title7": "Your Privacy",
+    "paragraph7": {
+      "row1": "Please read our Privacy Policy"
+    },
+    "title8": "Reservation of Rights",
+    "paragraph8": {
+      "row1": "We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it’s linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions."
+    },
+    "title9": "Removal of links from our website",
+    "paragraph9": {
+      "row1": "If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly.",
+      "row2": "We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date."
+    },
+    "title10": "Disclaimer",
+    "paragraph10": {
+      "row1": "To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:",
+      "row2": "• limit or exclude our or your liability for death or personal injury;",
+      "row3": "• limit or exclude our or your liability for fraud or fraudulent misrepresentation;",
+      "row4": "• limit any of our or your liabilities in any way that is not permitted under applicable law; or",
+      "row5": "• exclude any of our or your liabilities that may not be excluded under applicable law.",
+      "row6": "The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.",
+      "row7": "As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature."
+    }
+  }
+}

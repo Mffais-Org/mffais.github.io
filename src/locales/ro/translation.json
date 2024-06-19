@@ -1,0 +1,237 @@
+{
+  "homePage": {
+    "desc": "Mffais vă ajută să urmăriți fluxul de numerar și vă oferă o perspectivă asupra cheltuielilor și economiilor viitoare.",
+    "cardsTitle": "Caracteristici",
+    "cardsDesc": "Urmăriți-vă fluxul de numerar și obțineți o perspectivă asupra cheltuielilor și economiilor viitoare",
+    "card1Title": "Configurați-vă contul Mffais",
+    "card1Desc": "Introduceți soldul dvs. bancar și adăugați toate veniturile și cheltuielile viitoare.",
+    "card2Title": "Concentrează-te pe viitorul tău",
+    "card2Desc1": "Mffais va calcula viitorul dvs. flux de bani cu 365 de zile înainte.",
+    "card2Desc2": "Vă vom spune cel mai mic sold și câți bani veți avea după un an.",
+    "card3Title": "Ștergeți tranzacțiile",
+    "card3Desc": "După ce tranzacțiile vă ștergeți contul bancar, asigurați-vă că le ștergeți și de la Mffais.",
+    "image1Desc1": "Mffais îți spune cât să cheltuiești...",
+    "image1Desc2": "...sau cât să economisești pentru a rămâne în negru",
+    "image2Title": "Fluxul de bani",
+    "image2Desc1": "Un singur loc în care utilizatorii pot edita și finaliza achiziția",
+    "image2Desc2": "tranzacțiile lor viitoare - până la un an în viitor.",
+    "image2Desc3": "Tranzacțiile scadente sunt marcate automat pentru a reduce sarcina cognitivă.",
+    "image3Desc": "Notificările privind data scadentă vă ajută să rămâneți la curent cu fluxul de numerar",
+    "image4Desc": "Urmăriți-vă fluxul de numerar și obțineți o perspectivă asupra cheltuielilor și economiilor viitoare."
+  },
+  "appGuide": {
+    "title": "Mffais ghid",
+    "desc": "Pentru a vă asigura că profitați la maximum de aplicația noastră, citiți sfaturile noastre de experți pentru a vă ghida pe parcurs.",
+    "card1Title": "Configurați soldul dvs. Mffais",
+    "card1Desc": "Introduceți soldul dvs. bancar și adăugați toate veniturile și cheltuielile viitoare de care știți.",
+    "card2Title": "Ține-ți soldul la zi",
+    "card2Desc": "Când primiți un venit, marcați-l ca primit. ",
+    "card3Title": "Ștergeți tranzacțiile",
+    "card3Desc": "Ștergeți tranzacțiile și comparați soldul dvs. Mffais cu banca dvs. - pentru a surprinde costurile ascunse",
+    "card4Title": "Fluxul de bani",
+    "card4Desc": "Verificați și editați tranzacțiile viitoare - până la un an în viitor.",
+    "card5Title": "Tutorial video",
+    "card5Desc": "Urmăriți tutorialul nostru video pentru o prezentare rapidă și ușoară.",
+    "feature1Chip": "Pentru studenți",
+    "feature1Title": "Simplificați-vă finanțele colegiului",
+    "feature1Desc": "Planificați și urmăriți cu ușurință cheltuielile studenților, de la școlarizare și manuale până la rechizite pentru cămin și mesele în oraș. ",
+    "feature1Card1Title": "Urmăriți cheltuielile recurente",
+    "feature1Card1Desc": "Gestionați cu ușurință costurile semnificative, cum ar fi școlarizarea, manualele și chiria.",
+    "feature1Card2Title": "Bugetul pentru cheltuieli variabile",
+    "feature1Card2Desc": "Planificați mâncarea, divertismentul și situațiile de urgență, ajustându-vă după cum este necesar.",
+    "feature1Card3Title": "Gestionați împrumuturile pentru studenți",
+    "feature1Card3Desc": "Distribuiți plățile forfetare pentru împrumuturi pe luni pentru a acoperi eficient cheltuielile.",
+    "feature1Card4Title": "Monitorizarea fluxului de bani",
+    "feature1Card4Desc": "Utilizați ecranul Flux de bani pentru a vă asigura că sunteți pregătit pentru cheltuielile viitoare.",
+    "feature1Card5Title": "Prognoza cheltuielilor semestriale",
+    "feature1Card5Desc": "Planificați din timp pentru cheltuielile semestriale și ajustați pentru modificările veniturilor.",
+    "feature1Card6Title": "Sfaturi de gestionare a banilor",
+    "feature1Card6Desc": "Primiți sfaturi despre evitarea capcanelor financiare comune și strategii de economisire a banilor cu un buget restrâns.",
+    "feature2Chip": "Pentru persoanele cu mai multe locuri de muncă/gigi",
+    "feature2Title": "Urmăriți toate fluxurile dvs. de venit",
+    "feature2Desc": "Spuneți la revedere de la necazul de a jongla cu mai multe foi de calcul sau aplicații. ",
+    "feature2Card1Title": "Configurarea fluxurilor de venituri multiple",
+    "feature2Card1Desc": "Introduceți diverse surse de venit cu frecvențe diferite (de exemplu, concerte săptămânale, plăți lunare pentru independenți).",
+    "feature2Card2Title": "Echilibrați veniturile și cheltuielile",
+    "feature2Card2Desc": "Introduceți diverse surse de venit cu frecvențe diferite (de exemplu, concerte săptămânale, plăți lunare pentru independenți).",
+    "feature2Card3Title": "Asigurați-vă că toate facturile sunt acoperite",
+    "feature2Card3Desc": "Introduceți diverse surse de venit cu frecvențe diferite (de exemplu, concerte săptămânale, plăți lunare pentru independenți).",
+    "feature2Card4Title": "Pune bani deoparte pentru impozite și cheltuieli neregulate",
+    "feature2Card4Desc": "Introduceți diverse surse de venit cu frecvențe diferite (de exemplu, concerte săptămânale, plăți lunare pentru independenți).",
+    "feature2Card5Title": "Ajustați pentru variabilitatea fluxului de numerar",
+    "feature2Card5Desc": "Strategii pentru stabilitatea financiară",
+    "feature2Card6Title": "Strategii pentru stabilitatea financiară",
+    "feature2Card6Desc": "Introduceți diverse surse de venit cu frecvențe diferite (de exemplu, concerte săptămânale, plăți lunare pentru independenți)."
+  },
+  "subFooter": {
+    "giveItATry": "Incearca",
+    "haveAnyQuestions": "Ai întrebări?",
+    "buttonText": "Contactați asistența"
+  },
+  "headerAndFooter": {
+    "features": "Caracteristici",
+    "moneyFlow": "Fluxul de bani",
+    "privacyPolicy": "Politica de confidențialitate",
+    "termsAndConditions": "Termeni și condiții"
+  },
+  "privacyPolicy": {
+    "mainTitle": "Termenii și condițiile Mffais",
+    "title1": "Politica de confidențialitate Mffais Master",
+    "paragraph1": {
+      "row1": "Această Politică de confidențialitate stabilește modul în care informațiile personale sunt colectate și utilizate, care sunt furnizate pe site-ul web de Internet situat la www.acorns.com („Site-ul”) și aplicația noastră mobilă (colectiv, „Mffais”). ",
+      "row2": "Mffais se angajează să mențină confidențialitatea, integritatea și securitatea oricăror informații personale despre utilizatorii noștri. ",
+      "row3": "Mffais subliniază standardele sale de confidențialitate și securitate pentru a se proteja împotriva furtului de identitate și pentru a oferi securitate pentru informațiile dumneavoastră personale. "
+    },
+    "title2": "Informații personale colectate",
+    "paragraph2": {
+      "row1": "Colectăm de la dvs. următoarele informații personale:",
+      "row2": "informații de contact, cum ar fi numele, adresa de e-mail, adresa poștală, numărul de telefon;",
+      "row3": "informații de facturare, cum ar fi numărul cardului de credit și adresa de facturare;",
+      "row4": "informații financiare, cum ar fi numere de cont bancar sau de brokeraj, tipuri de investiții;",
+      "row5": "Cod numeric personal;",
+      "row6": "Numărul permisului de conducere;",
+      "row7": "identificatori unici, cum ar fi numele de utilizator, numărul de cont, parola;",
+      "row8": "informații despre preferințe, cum ar fi listele de dorințe de produse, istoricul comenzilor și preferințele de marketing; ",
+      "row9": "informații demografice, cum ar fi vârsta, educația, sexul, interesele și codul poștal.",
+      "row10": "Când vizitați Site-ul sau descărcați și folosiți Serviciile noastre, este posibil să colectăm automat anumite informații trimise către noi de computerul dumneavoastră, dispozitivul mobil sau orice alt dispozitiv. "
+    },
+    "title3": "Utilizarea și partajarea informațiilor",
+    "paragraph3": {
+      "row1": "Mffais utilizează și dezvăluie informațiile dumneavoastră personale numai după cum urmează:",
+      "row2": "pentru a analiza utilizarea site-ului și a îmbunătăți Serviciul;",
+      "row3": "pentru a vă transmite orice notificări administrative, alerte de bani și comunicări relevante pentru utilizarea Serviciului;",
+      "row4": "pentru a vă îndeplini solicitările pentru anumite produse și servicii;",
+      "row5": "pentru cercetarea pieței, planificarea proiectelor, depanarea problemelor și detectarea și protejarea împotriva erorilor, fraudei sau a altor activități criminale;",
+      "row6": "contractanților terți care furnizează servicii către Mffais și sunt supuși acestor restricții de confidențialitate;",
+      "row7": "pentru a aplica Termenii de utilizare ai Mffais; ",
+      "row8": "În cazul în care accesați Serviciul așa cum v-a fost adus de unul dintre partenerii noștri de co-brand, printr-o adresă URL de co-brand, adresa dvs. de e-mail utilizată pentru înregistrarea la Serviciu poate fi furnizată acelui partener de co-brand.",
+      "row9": "În plus, putem, din când în când, să oferim promoții cu diverse afaceri, site-uri web, aplicații mobile sau terțe părți, care pot include oportunități pentru ca dvs. să câștigați depozite în contul dvs. Mffais. ",
+      "row10": "Este posibil să folosim informațiile pe care le furnizați pentru a vă conecta cu persoane pe care poate le cunoașteți deja. ",
+      "row11": "De asemenea, putem dezvălui informațiile dumneavoastră cu caracter personal conform cerințelor legii, cum ar fi pentru a respecta o citație sau un proces legal similar și când credem cu bună-credință că dezvăluirea este necesară pentru a ne proteja drepturile, a vă proteja siguranța sau a altora, a investiga ",
+      "row12": "Dacă Mffais Incorporated este implicată într-o fuziune, achiziție sau vânzare a tuturor sau a unei părți din activele sale, veți fi notificat prin e-mail și/sau printr-o notificare vizibilă pe site-ul nostru cu privire la orice schimbare a dreptului de proprietate sau a utilizării informațiilor dumneavoastră personale, după cum "
+    },
+    "title4": "Acces utilizator și alegere",
+    "paragraph4": {
+      "row1": "Dacă informațiile personale din fișier se modifică sau dacă nu mai doriți serviciul nostru, le puteți corecta sau actualiza făcând modificarea pe pagina noastră de informații despre clienți sau trimițând un e-mail Serviciului Clienți Acorns.",
+      "row2": "Vom păstra și folosi informațiile dvs. după cum este necesar pentru a ne conforma cu obligațiile noastre legale și/sau de reglementare, pentru a rezolva disputele și pentru a pune în aplicare acordurile noastre.",
+      "row3": "Dacă doriți să vă abonați la buletinele noastre informative, vom folosi numele și adresa dvs. de e-mail pentru a vă trimite newsletter-ul. "
+    },
+    "title5": "Cookie-uri / Tehnologii de urmărire",
+    "paragraph5": {
+      "row1": "Un cookie este un fișier text mic care este stocat pe computerul unui utilizator în scopul păstrării înregistrărilor. ",
+      "row2": "Folosim atât cookie-uri de identificare de sesiune, cât și cookie-uri persistente. ",
+      "row3": "Dacă respingeți cookie-urile, puteți utiliza în continuare Site-ul, dar capacitatea dumneavoastră de a utiliza anumite zone ale Site-ului, cum ar fi concursuri sau sondaje, poate fi limitată.",
+      "row4": "Utilizarea cookie-urilor de către partenerii noștri, afiliații, compania de utilități de urmărire și/sau furnizorii de servicii nu este acoperită de Politica noastră de confidențialitate. ",
+      "row5": "Folosim (și/sau partenerul nostru de publicitate terță parte folosește) o tehnologie software numită clear gifs (uneori cunoscută sub numele de web beacons sau web bugs), care ne ajută să gestionăm mai bine conținutul de pe Site informându-ne ce conținut este eficient. "
+    },
+    "title6": "Notă privind nu urmăriți",
+    "paragraph6": {
+      "row1": "Do Not Track („DNT”) este o preferință de confidențialitate pe care utilizatorii o pot seta în anumite browsere web. "
+    },
+    "title7": "Securitate",
+    "paragraph7": {
+      "row1": "Securitatea informațiilor dumneavoastră personale este importantă pentru noi. ",
+      "row2": "Respectăm standardele general acceptate pentru a proteja informațiile personale transmise nouă, atât în ​​timpul transmiterii, cât și odată ce le primim. "
+    },
+    "title8": "Modificări ale acestei Politici de confidențialitate",
+    "paragraph8": {
+      "row1": "Este posibil să actualizăm această politică de confidențialitate pentru a reflecta modificările aduse practicilor noastre privind informațiile. "
+    },
+    "title9": "Contactaţi-ne",
+    "paragraph9": {
+      "row1": "Dacă aveți întrebări despre politica noastră de confidențialitate, vă rugăm să contactați Serviciul Clienți Mffais la:",
+      "row2": "privacy@mffais.com",
+      "row3": "Mffais"
+    }
+  },
+  "termsAndConditions": {
+    "mainTitle": "Termenii și condițiile Mffais",
+    "title1": "Bine ati venit",
+    "paragraph1": {
+      "row1": "Bine ați venit pe site-ul Mffais!",
+      "row2": "Acești termeni și condiții descriu regulile și reglementările de utilizare a site-ului Mffais, aflat pe site-ul nostru.",
+      "row3": "Prin accesarea acestui site presupunem că acceptați acești termeni și condiții. ",
+      "row4": "Următoarea terminologie se aplică acestor Termeni și Condiții, Declarație de confidențialitate și Notificare de declinare a răspunderii și tuturor Acordurilor: „Client”, „Tu” și „Tu” se referă la tine, persoana care se conectează pe acest site web și respectă termenii și condițiile Companiei. "
+    },
+    "title2": "Cookie-uri",
+    "paragraph2": {
+      "row1": "Folosim cookie-uri. ",
+      "row2": "Majoritatea site-urilor web interactive folosesc cookie-uri pentru a ne permite să recuperăm detaliile utilizatorului pentru fiecare vizită. "
+    },
+    "title3": "Licență",
+    "paragraph3": {
+      "row1": "Dacă nu se specifică altfel, Mffais și/sau licențiatorii săi dețin drepturile de proprietate intelectuală pentru tot materialul de pe site-ul Mffais.  ",
+      "row2": "Trebuie să nu:",
+      "row3": "• Republicați material de pe site-ul Mffais;",
+      "row4": "• Vinde, închiriază sau sub•licențiază material de pe site-ul Mffais;",
+      "row5": "• Reproduceți, duplicați sau copiați material de pe site-ul Mffais;",
+      "row6": "• Redistribuiți conținut de pe site-ul Mffais;",
+      "row7": "Prezentul acord va începe la data prezentului. ",
+      "row8": "Părți ale acestui site web oferă utilizatorilor posibilitatea de a posta și de a face schimb de opinii și informații în anumite zone ale site-ului web. ",
+      "row9": "Mffais își rezervă dreptul de a monitoriza toate Comentariile și de a elimina orice Comentarii care pot fi considerate nepotrivite, ofensatoare sau care cauzează încălcarea acestor Termeni și Condiții.",
+      "row10": "Garantați și declarați că:",
+      "row11": "• Aveți dreptul de a posta Comentariile pe site-ul nostru web și aveți toate licențele și consimțământul necesare pentru a face acest lucru;",
+      "row12": "• Comentariile nu invadează niciun drept de proprietate intelectuală, inclusiv, fără limitare, drepturile de autor, brevetul sau marcă comercială a oricărei terțe părți;",
+      "row13": "• Comentariile nu conțin niciun material defăimător, calomnios, ofensator, indecent sau ilegal, care este o invazie a vieții private;",
+      "row14": "• Comentariile nu vor fi folosite pentru a solicita sau promova afaceri sau personalizate sau pentru a prezenta activități comerciale sau activități ilegale;",
+      "row15": "Prin prezenta, acordați Mffais o licență neexclusivă de utilizare, reproducere, editare și autorizare pe alții să utilizeze, reproduce și edita oricare dintre Comentariile dvs. în orice formă, formate sau media"
+    },
+    "title4": "Hyperlink la Conținutul nostru",
+    "paragraph4": {
+      "row1": "Următoarele organizații se pot conecta la site-ul nostru web fără aprobare prealabilă scrisă:",
+      "row2": "• Agentii guvernamentale;",
+      "row3": "• Motoare de căutare;",
+      "row4": "• Organizații de știri;",
+      "row5": "• Distribuitorii de directoare online pot face linkuri către site-ul nostru web în același mod în care fac hyperlink către site-urile altor companii listate; ",
+      "row6": "• Întreprinderi acreditate la nivelul întregului sistem, cu excepția organizațiilor non-profit, a centrelor comerciale de caritate și a grupurilor de strângere de fonduri de caritate care nu pot face linkuri către site-ul nostru Web.",
+      "row7": "Aceste organizații pot trimite către pagina noastră de pornire, către publicații sau către alte informații despre site-ul web, atâta timp cât linkul: (a) nu este în niciun fel înșelător; ",
+      "row8": "Putem lua în considerare și aproba alte solicitări de linkuri de la următoarele tipuri de organizații:",
+      "row9": "• surse de informații despre consumatori și/sau afaceri cunoscute;",
+      "row10": "• site-urile comunității dot.com;",
+      "row11": "• asociații sau alte grupuri care reprezintă organizații de caritate;",
+      "row12": "• distribuitori de directoare online;",
+      "row13": "• portaluri de internet;",
+      "row14": "• firme de contabilitate, avocatura si consultanta; ",
+      "row15": "• instituţii de învăţământ şi asociaţii comerciale.",
+      "row16": "Vom aproba solicitările de linkuri de la aceste organizații dacă decidem că: (a) linkul nu ne-ar face să arătăm nefavorabil pentru noi înșine sau pentru afacerile noastre acreditate; ",
+      "row17": "Aceste organizații pot face legătura către pagina noastră de pornire atâta timp cât linkul: (a) nu este în niciun fel înșelător; ",
+      "row18": "Dacă sunteți una dintre organizațiile enumerate în paragraful 2 de mai sus și sunteți interesat să vă conectați la site-ul nostru, trebuie să ne informați trimițând un e-mail către Mffais. ",
+      "row19": "Organizațiile aprobate pot face hyperlink către site-ul nostru web după cum urmează:",
+      "row20": "• Prin utilizarea numelui nostru corporativ; ",
+      "row21": "• Prin utilizarea locatorului uniform de resurse la care este legat; ",
+      "row22": "• Prin utilizarea oricărei alte descrieri a site-ului nostru la care este legată, care are sens în contextul și formatul conținutului de pe site-ul părții care face legătura.",
+      "row23": "Nicio utilizare a siglei Mffais sau a altor lucrări de artă nu va fi permisă pentru conectarea în absența unui acord de licență a mărcii comerciale."
+    },
+    "title5": "iFrame",
+    "paragraph5": {
+      "row1": "Fără aprobarea prealabilă și permisiunea scrisă, nu puteți crea cadre în jurul paginilor noastre Web care să modifice în vreun fel prezentarea vizuală sau aspectul site-ului nostru."
+    },
+    "title6": "Răspunderea conținutului",
+    "paragraph6": {
+      "row1": "Nu vom fi trași la răspundere pentru niciun conținut care apare pe site-ul dvs. "
+    },
+    "title7": "Confidențialitatea ta",
+    "paragraph7": {
+      "row1": "Vă rugăm să citiți Politica noastră de confidențialitate"
+    },
+    "title8": "Rezervarea drepturilor",
+    "paragraph8": {
+      "row1": "Ne rezervăm dreptul de a solicita să eliminați toate linkurile sau orice link anume către site-ul nostru. "
+    },
+    "title9": "Eliminarea link-urilor de pe site-ul nostru",
+    "paragraph9": {
+      "row1": "Dacă găsiți pe site-ul nostru vreun link care este ofensator din orice motiv, sunteți liber să ne contactați și să ne informați în orice moment. ",
+      "row2": "Nu ne asigurăm că informațiile de pe acest site web sunt corecte, nu garantăm caracterul complet sau acuratețea acestora; "
+    },
+    "title10": "Disclaimer",
+    "paragraph10": {
+      "row1": "În măsura maximă permisă de legea aplicabilă, excludem toate declarațiile, garanțiile și condițiile referitoare la site-ul nostru web și la utilizarea acestui site. ",
+      "row2": "• limita sau exclude răspunderea noastră sau a dumneavoastră pentru deces sau vătămare corporală;",
+      "row3": "• limitați sau excludeți răspunderea noastră sau a dumneavoastră pentru fraudă sau declarații false frauduloase;",
+      "row4": "• limitați oricare dintre responsabilitățile noastre sau ale dumneavoastră în orice mod care nu este permis de legea aplicabilă; ",
+      "row5": "• excludeți oricare dintre responsabilitățile noastre sau ale dumneavoastră, care ar putea să nu fie excluse conform legislației în vigoare.",
+      "row6": "Limitările și interdicțiile de răspundere stabilite în această secțiune și în altă parte în această declinare a răspunderii: (a) sunt supuse paragrafului precedent; ",
+      "row7": "Atâta timp cât site-ul web și informațiile și serviciile de pe site sunt furnizate gratuit, nu vom fi răspunzători pentru nicio pierdere sau daune de orice natură."
+    }
+  }
+}

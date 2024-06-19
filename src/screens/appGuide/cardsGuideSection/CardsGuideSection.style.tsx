@@ -20,6 +20,7 @@ export const Container = styled.div`
   flex-direction: column;
   gap: 24px;
   max-width: 1312px;
+  height: 488px;
   margin: auto;
   @media ${devices.laptop} {
     flex-direction: row;
@@ -43,11 +44,13 @@ export const MainCardContainer = styled.div`
 
 export const Title = styled.span`
   font-size: 20px;
+  font-weight: 500;
   @media ${devices.laptop} {
     font-size: 26px;
   }
 `;
 export const Description = styled.span`
+  line-height: 34px;
   font-size: 16px;
   @media ${devices.laptop} {
     font-size: 20px;

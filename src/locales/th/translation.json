@@ -1,0 +1,237 @@
+{
+  "homePage": {
+    "desc": "Mffais vám pomáha sledovať peňažný tok a poskytuje prehľad o budúcich výdavkoch a úsporách.",
+    "cardsTitle": "Vlastnosti",
+    "cardsDesc": "Sledujte svoje peňažné toky a získajte prehľad o budúcich výdavkoch a úsporách",
+    "card1Title": "Nastavte si účet Mffais",
+    "card1Desc": "Zadajte svoj bankový zostatok a pridajte všetky budúce príjmy a výdavky.",
+    "card2Title": "Sústreďte sa na svoju budúcnosť",
+    "card2Desc1": "Mffais vypočíta váš budúci peňažný tok 365 dní vopred.",
+    "card2Desc2": "Povieme vám váš najnižší zostatok a koľko peňazí budete mať po roku.",
+    "card3Title": "Vymažte svoje transakcie",
+    "card3Desc": "Keď transakcie vyčistia váš bankový účet, nezabudnite ich vymazať aj z Mffais.",
+    "image1Desc1": "Mffais vám povie, koľko minúť...",
+    "image1Desc2": "...alebo koľko ušetriť, aby ste zostali v pluse",
+    "image2Title": "Tok peňazí",
+    "image2Desc1": "Jediné miesto, kde môžu používatelia upravovať a platiť",
+    "image2Desc2": "ich budúce transakcie – až o rok v budúcnosti.",
+    "image2Desc3": "Splatné transakcie sú označené automaticky, aby sa znížila kognitívna záťaž.",
+    "image3Desc": "Upozornenia na dátum splatnosti vám pomôžu udržať si prehľad o vašich peňažných tokoch",
+    "image4Desc": "Sledujte svoje peňažné toky a získajte prehľad o budúcich výdavkoch a úsporách."
+  },
+  "appGuide": {
+    "title": "Mffaisov sprievodca",
+    "desc": "Aby ste sa uistili, že z našej aplikácie vyťažíte maximum, prečítajte si naše odborné tipy, ktoré vás prevedú cestou.",
+    "card1Title": "Nastavte si zostatok Mffais",
+    "card1Desc": "Zadajte svoj bankový zostatok a pridajte všetky budúce príjmy a výdavky, o ktorých viete.",
+    "card2Title": "Udržujte svoj zostatok aktuálny",
+    "card2Desc": "Keď dostanete príjem, označte ho ako prijatý. ",
+    "card3Title": "Vymažte svoje transakcie",
+    "card3Desc": "Vyčistite svoje transakcie a porovnajte svoj zostatok v Mffais so svojou bankou – aby ste zachytili skryté náklady",
+    "card4Title": "Tok peňazí",
+    "card4Desc": "Kontrolujte a upravujte budúce transakcie – až o rok v budúcnosti.",
+    "card5Title": "Video tutoriál",
+    "card5Desc": "Pozrite si náš video tutoriál, kde nájdete rýchly a jednoduchý návod.",
+    "feature1Chip": "Pre vysokoškolákov",
+    "feature1Title": "Zjednodušte si financie na vysokej škole",
+    "feature1Desc": "Jednoducho plánujte a sledujte svoje študentské výdavky, od školného a učebníc až po potreby pre internáty a stolovanie. ",
+    "feature1Card1Title": "Sledujte opakujúce sa výdavky",
+    "feature1Card1Desc": "Ľahko spravujte značné náklady, ako je školné, učebnice a prenájom.",
+    "feature1Card2Title": "Rozpočet na variabilné výdavky",
+    "feature1Card2Desc": "Naplánujte si jedlo, zábavu a núdzové situácie a upravte podľa potreby.",
+    "feature1Card3Title": "Spravujte študentské pôžičky",
+    "feature1Card3Desc": "Rozložte si jednorazové splátky úveru na mesiace, aby ste efektívne pokryli výdavky.",
+    "feature1Card4Title": "Monitorovanie toku peňazí",
+    "feature1Card4Desc": "Použite obrazovku toku peňazí, aby ste sa uistili, že ste pripravení na nadchádzajúce výdavky.",
+    "feature1Card5Title": "Prognóza výdavkov na semester",
+    "feature1Card5Desc": "Plánujte dopredu výdavky na semester a prispôsobte sa zmenám v príjmoch.",
+    "feature1Card6Title": "Tipy na správu peňazí",
+    "feature1Card6Desc": "Získajte rady, ako sa vyhnúť bežným finančným nástrahám a stratégiám šetrenia peňazí pri napätom rozpočte.",
+    "feature2Chip": "Pre ľudí s viacerými prácami/vystúpeniami",
+    "feature2Title": "Sledujte všetky svoje príjmy",
+    "feature2Desc": "Rozlúčte sa so žonglovaním s viacerými tabuľkami alebo aplikáciami. ",
+    "feature2Card1Title": "Nastavenie tokov s viacerými príjmami",
+    "feature2Card1Desc": "Zadajte rôzne zdroje príjmu s rôznou frekvenciou (napr. týždenné koncerty, mesačné platby na voľnej nohe).",
+    "feature2Card2Title": "Vyrovnajte príjmy a výdavky",
+    "feature2Card2Desc": "Zadajte rôzne zdroje príjmu s rôznou frekvenciou (napr. týždenné koncerty, mesačné platby na voľnej nohe).",
+    "feature2Card3Title": "Uistite sa, že sú pokryté všetky účty",
+    "feature2Card3Desc": "Zadajte rôzne zdroje príjmu s rôznou frekvenciou (napr. týždenné koncerty, mesačné platby na voľnej nohe).",
+    "feature2Card4Title": "Odkladajte si peniaze na dane a nepravidelné výdavky",
+    "feature2Card4Desc": "Zadajte rôzne zdroje príjmu s rôznou frekvenciou (napr. týždenné koncerty, mesačné platby na voľnej nohe).",
+    "feature2Card5Title": "Prispôsobte sa variabilite peňažných tokov",
+    "feature2Card5Desc": "Stratégie finančnej stability",
+    "feature2Card6Title": "Stratégie finančnej stability",
+    "feature2Card6Desc": "Zadajte rôzne zdroje príjmu s rôznou frekvenciou (napr. týždenné koncerty, mesačné platby na voľnej nohe)."
+  },
+  "subFooter": {
+    "giveItATry": "Pokúsiť sa",
+    "haveAnyQuestions": "Máte nejaké otázky?",
+    "buttonText": "Kontaktujte podporu"
+  },
+  "headerAndFooter": {
+    "features": "Vlastnosti",
+    "moneyFlow": "Tok peňazí",
+    "privacyPolicy": "Zásady ochrany osobných údajov",
+    "termsAndConditions": "Podmienky"
+  },
+  "privacyPolicy": {
+    "mainTitle": "Zmluvné podmienky Mffais",
+    "title1": "Zásady ochrany osobných údajov Mffais Master",
+    "paragraph1": {
+      "row1": "Tieto zásady ochrany osobných údajov stanovujú, ako sa zhromažďujú a používajú osobné údaje, ktoré sú poskytované na internetovej stránke www.acorns.com (ďalej len „stránka“) a našej mobilnej aplikácii (spoločne „Mffais“). ",
+      "row2": "Spoločnosť Mffais sa zaväzuje zachovávať dôvernosť, integritu a bezpečnosť akýchkoľvek osobných informácií o našich používateľoch. ",
+      "row3": "Spoločnosť Mffais zdôrazňuje svoje štandardy ochrany súkromia a bezpečnosti, aby sa chránila pred krádežou identity a poskytovala bezpečnosť vašich osobných údajov. "
+    },
+    "title2": "Zhromaždené osobné údaje",
+    "paragraph2": {
+      "row1": "Zhromažďujeme od vás nasledujúce osobné údaje:",
+      "row2": "kontaktné údaje, ako je meno, e-mailová adresa, poštová adresa, telefónne číslo;",
+      "row3": "fakturačné údaje, ako je číslo kreditnej karty a fakturačná adresa;",
+      "row4": "finančné informácie, ako sú čísla bankových alebo maklérskych účtov, typy investícií;",
+      "row5": "číslo sociálneho poistenia;",
+      "row6": "číslo vodičského preukazu;",
+      "row7": "jedinečné identifikátory ako používateľské meno, číslo účtu, heslo;",
+      "row8": "informácie o preferenciách, ako sú zoznamy želaní produktov, história objednávok a marketingové preferencie; ",
+      "row9": "demografické informácie, ako je vek, vzdelanie, pohlavie, záujmy a PSČ.",
+      "row10": "Keď navštívite stránku alebo si stiahnete a používate naše služby, môžeme automaticky zhromažďovať určité informácie, ktoré nám posiela váš počítač, mobilné zariadenie alebo akékoľvek iné zariadenie. "
+    },
+    "title3": "Používanie a zdieľanie informácií",
+    "paragraph3": {
+      "row1": "Mffais používa a zverejňuje vaše osobné údaje iba takto:",
+      "row2": "analyzovať používanie stránky a zlepšovať službu;",
+      "row3": "aby sme vám doručili akékoľvek administratívne oznámenia, upozornenia týkajúce sa peňazí a komunikáciu relevantnú pre vaše používanie Služby;",
+      "row4": "na splnenie vašich požiadaviek na určité produkty a služby;",
+      "row5": "na prieskum trhu, plánovanie projektov, riešenie problémov a zisťovanie a ochranu pred chybami, podvodmi alebo inou trestnou činnosťou;",
+      "row6": "na dodávateľov tretích strán, ktorí poskytujú služby spoločnosti Mffais a sú viazaní rovnakými obmedzeniami ochrany osobných údajov;",
+      "row7": "presadzovať podmienky používania Mffais; ",
+      "row8": "V prípade, že pristupujete k Službe tak, ako vám ju priniesol jeden z našich partnerov so spoločnou značkou, prostredníctvom adresy URL so spoločnou značkou, vaša e-mailová adresa použitá na registráciu v Službe môže byť poskytnutá tomuto partnerovi spoločnej značky.",
+      "row9": "Okrem toho môžeme z času na čas ponúkať propagačné akcie s rôznymi podnikmi, webovými stránkami, mobilnými aplikáciami alebo tretími stranami, ktoré môžu zahŕňať príležitosti na zarábanie vkladov na váš účet Mffais. ",
+      "row10": "Informácie, ktoré nám poskytnete, môžeme použiť na to, aby sme vás spojili s ľuďmi, ktorých už možno poznáte. ",
+      "row11": "Môžeme tiež zverejniť vaše osobné údaje tak, ako to vyžaduje zákon, napríklad v súlade s predvolaním alebo podobným právnym procesom, a keď sa v dobrej viere domnievame, že zverejnenie je potrebné na ochranu našich práv, ochranu vašej bezpečnosti alebo bezpečnosti iných, prešetrenie ",
+      "row12": "Ak sa spoločnosť Mffais Incorporated podieľa na fúzii, akvizícii alebo predaji všetkých svojich aktív alebo ich časti, budete informovaní prostredníctvom e-mailu a/alebo výrazným oznámením na našej stránke o akejkoľvek zmene vo vlastníctve alebo použití vašich osobných údajov, pretože "
+    },
+    "title4": "Používateľský prístup a voľba",
+    "paragraph4": {
+      "row1": "Ak sa vaše osobné údaje zmenia alebo ak si už neprajete našu službu, môžete ich opraviť alebo aktualizovať vykonaním zmeny na našej stránke s informáciami o zákazníkovi alebo odoslaním e-mailu zákazníckemu servisu Acorns.",
+      "row2": "Vaše informácie budeme uchovávať a používať podľa potreby na splnenie našich zákonných a/alebo regulačných povinností, riešenie sporov a presadzovanie našich dohôd.",
+      "row3": "Ak sa chcete prihlásiť na odber našich noviniek, použijeme vaše meno a e-mailovú adresu na odoslanie newsletteru. "
+    },
+    "title5": "Súbory cookie / technológie sledovania",
+    "paragraph5": {
+      "row1": "Súbor cookie je malý textový súbor, ktorý je uložený v počítači používateľa na účely uchovávania záznamov. ",
+      "row2": "Používame súbory cookie ID relácie aj trvalé súbory cookie. ",
+      "row3": "Ak odmietnete cookies, stále môžete používať Stránku, ale vaša schopnosť používať niektoré oblasti Stránky, ako sú súťaže alebo prieskumy, môže byť obmedzená.",
+      "row4": "Na používanie súborov cookie našimi partnermi, pridruženými spoločnosťami, spoločnosťami poskytujúcimi sledovanie služieb a/alebo poskytovateľmi služieb sa nevzťahujú naše zásady ochrany osobných údajov. ",
+      "row5": "Používame (a/alebo náš reklamný partner tretej strany používa) softvérovú technológiu nazývanú jasné gify (niekedy známe ako web beacons alebo webové chyby), ktorá nám pomáha lepšie spravovať obsah na Stránke tým, že nás informuje o tom, aký obsah je účinný. "
+    },
+    "title6": "Upozornenie týkajúce sa funkcie Nesledovať",
+    "paragraph6": {
+      "row1": "Do Not Track (“DNT”) je predvoľba ochrany osobných údajov, ktorú môžu používatelia nastaviť v určitých webových prehliadačoch. "
+    },
+    "title7": "Bezpečnosť",
+    "paragraph7": {
+      "row1": "Bezpečnosť vašich osobných údajov je pre nás dôležitá. ",
+      "row2": "Dodržiavame všeobecne uznávané štandardy na ochranu osobných údajov, ktoré nám boli predložené, počas prenosu aj po ich prijatí. "
+    },
+    "title8": "Zmeny týchto zásad ochrany osobných údajov",
+    "paragraph8": {
+      "row1": "Tieto zásady ochrany osobných údajov môžeme aktualizovať, aby odrážali zmeny v našich informačných postupoch. "
+    },
+    "title9": "Kontaktuj nás",
+    "paragraph9": {
+      "row1": "Ak máte akékoľvek otázky týkajúce sa našich zásad ochrany osobných údajov, kontaktujte zákaznícky servis Mffais na adrese:",
+      "row2": "privacy@mffais.com",
+      "row3": "Mffais"
+    }
+  },
+  "termsAndConditions": {
+    "mainTitle": "Zmluvné podmienky Mffais",
+    "title1": "Vitajte",
+    "paragraph1": {
+      "row1": "Vitajte na webovej stránke Mffais!",
+      "row2": "Tieto podmienky popisujú pravidlá a predpisy pre používanie webovej stránky spoločnosti Mffais, ktorá sa nachádza na našej webovej lokalite.",
+      "row3": "Vstupom na túto webovú stránku predpokladáme, že súhlasíte s týmito podmienkami. ",
+      "row4": "Nasledujúca terminológia sa vzťahuje na tieto Zmluvné podmienky, Vyhlásenie o ochrane osobných údajov a Oznámenie o vylúčení zodpovednosti a všetky zmluvy: „Klient“, „Vy“ a „Vaše“ sa vzťahuje na vás, osobu, ktorá sa prihlasuje na túto webovú stránku a je v súlade s podmienkami spoločnosti. "
+    },
+    "title2": "Cookies",
+    "paragraph2": {
+      "row1": "Používame cookies. ",
+      "row2": "Väčšina interaktívnych webových stránok používa súbory cookie, ktoré nám umožňujú získať podrobnosti o používateľovi pri každej návšteve. "
+    },
+    "title3": "Licencia",
+    "paragraph3": {
+      "row1": "Ak nie je uvedené inak, spoločnosť Mffais a/alebo jej poskytovatelia licencií vlastnia práva duševného vlastníctva na všetok materiál na webovej stránke Mffais.  ",
+      "row2": "Nesmiete:",
+      "row3": "• Znovu publikovať materiál z webovej stránky Mffais;",
+      "row4": "• Predávať, prenajímať alebo sub-licencovať materiál z webovej stránky Mffais;",
+      "row5": "• Reprodukovať, duplikovať alebo kopírovať materiál z webovej stránky Mffais;",
+      "row6": "• Redistribuovať obsah z webovej stránky Mffais;",
+      "row7": "Táto dohoda začína plynúť dňom jej uzavretia. ",
+      "row8": "Časti tejto webovej lokality ponúkajú používateľom možnosť uverejňovať a vymieňať si názory a informácie v určitých oblastiach webovej lokality. ",
+      "row9": "Mffais si vyhradzuje právo monitorovať všetky Komentáre a odstrániť akékoľvek Komentáre, ktoré môžu byť považované za nevhodné, urážlivé alebo spôsobujúce porušenie týchto Podmienok.",
+      "row10": "Zaručujete a vyhlasujete, že:",
+      "row11": "• Máte právo uverejňovať Komentáre na našej webovej stránke a máte na to všetky potrebné licencie a súhlasy;",
+      "row12": "• Komentáre neporušujú žiadne práva duševného vlastníctva, vrátane, bez obmedzenia, autorských práv, patentov alebo ochranných známok akejkoľvek tretej strany;",
+      "row13": "• Komentáre neobsahujú žiadny hanlivý, urážlivý, urážlivý, neslušný alebo inak nezákonný materiál, ktorý je zásahom do súkromia;",
+      "row14": "• Komentáre sa nepoužijú na získavanie alebo propagovanie obchodu alebo zvykov, ani na prezentáciu komerčných aktivít alebo nezákonných aktivít;",
+      "row15": "Týmto udeľujete spoločnosti Mffais nevýhradnú licenciu na používanie, reprodukciu, úpravu a autorizáciu iných na používanie, reprodukovanie a úpravu akýchkoľvek vašich komentárov v akejkoľvek forme, formáte alebo médiu."
+    },
+    "title4": "Hypertextové prepojenie na náš obsah",
+    "paragraph4": {
+      "row1": "Nasledujúce organizácie môžu odkazovať na našu webovú stránku bez predchádzajúceho písomného súhlasu:",
+      "row2": "• Vládne agentúry;",
+      "row3": "• Vyhľadávače;",
+      "row4": "• spravodajské organizácie;",
+      "row5": "• Distribútori online adresárov môžu odkazovať na našu webovú stránku rovnakým spôsobom, akým hyperlinkujú na webové stránky iných kótovaných spoločností; ",
+      "row6": "• Celosystémovo akreditované podniky s výnimkou oslovovania neziskových organizácií, charitatívnych nákupných centier a charitatívnych fundraisingových skupín, ktoré nemusia obsahovať hypertextové odkazy na našu webovú stránku.",
+      "row7": "Tieto organizácie môžu odkazovať na našu domovskú stránku, na publikácie alebo na iné webové stránky, pokiaľ odkaz: (a) nie je žiadnym spôsobom klamlivý; ",
+      "row8": "Môžeme zvážiť a schváliť ďalšie žiadosti o prepojenie od nasledujúcich typov organizácií:",
+      "row9": "• všeobecne známe zdroje spotrebiteľských a/alebo obchodných informácií;",
+      "row10": "• stránky komunity dot.com;",
+      "row11": "• združenia alebo iné skupiny zastupujúce charitatívne organizácie;",
+      "row12": "• distribútori online adresárov;",
+      "row13": "• internetové portály;",
+      "row14": "• účtovné, právnické a poradenské firmy; ",
+      "row15": "• vzdelávacie inštitúcie a obchodné združenia.",
+      "row16": "Žiadosti o prepojenie od týchto organizácií schválime, ak sa rozhodneme, že: (a) prepojenie by nás nespôsobilo nepriaznivo pre nás alebo pre naše akreditované podniky; ",
+      "row17": "Tieto organizácie môžu odkazovať na našu domovskú stránku, pokiaľ odkaz: (a) nie je žiadnym spôsobom klamlivý; ",
+      "row18": "Ak ste jednou z organizácií uvedených v odseku 2 vyššie a máte záujem o prepojenie na našu webovú stránku, musíte nás o tom informovať zaslaním e-mailu na adresu Mffais. ",
+      "row19": "Schválené organizácie môžu odkazovať na našu webovú stránku nasledovne:",
+      "row20": "• Používaním nášho obchodného mena; ",
+      "row21": "• Používaním jednotného vyhľadávača zdrojov, na ktorý sa odkazuje; ",
+      "row22": "• Použitím akéhokoľvek iného popisu našej webovej stránky, na ktorý je odkazovaný, ktorý dáva zmysel v kontexte a formáte obsahu na stránke prepájajúcej strany.",
+      "row23": "Bez licenčnej zmluvy na ochrannú známku nebude na prepojenie povolené žiadne použitie loga Mffais ani iného umeleckého diela."
+    },
+    "title5": "iFrames",
+    "paragraph5": {
+      "row1": "Bez predchádzajúceho súhlasu a písomného povolenia nesmiete okolo našich webových stránok vytvárať rámce, ktoré akýmkoľvek spôsobom menia vizuálnu prezentáciu alebo vzhľad našej webovej stránky."
+    },
+    "title6": "Zodpovednosť za obsah",
+    "paragraph6": {
+      "row1": "Nenesieme zodpovednosť za žiadny obsah, ktorý sa objaví na vašej webovej stránke. "
+    },
+    "title7": "Vaše súkromie",
+    "paragraph7": {
+      "row1": "Prečítajte si prosím naše Zásady ochrany osobných údajov"
+    },
+    "title8": "Výhrada práv",
+    "paragraph8": {
+      "row1": "Vyhradzujeme si právo požiadať vás o odstránenie všetkých odkazov alebo akéhokoľvek konkrétneho odkazu na našu webovú stránku. "
+    },
+    "title9": "Odstránenie odkazov z našej webovej stránky",
+    "paragraph9": {
+      "row1": "Ak na našej webovej stránke nájdete akýkoľvek odkaz, ktorý je z akéhokoľvek dôvodu urážlivý, môžete nás kedykoľvek kontaktovať a informovať. ",
+      "row2": "Nezaručujeme, že informácie na tejto webovej stránke sú správne, nezaručujeme ich úplnosť alebo presnosť; "
+    },
+    "title10": "Vylúčenie zodpovednosti",
+    "paragraph10": {
+      "row1": "V maximálnom rozsahu povolenom platnými zákonmi vylučujeme všetky vyhlásenia, záruky a podmienky týkajúce sa našej webovej stránky a používania tejto webovej stránky. ",
+      "row2": "• obmedziť alebo vylúčiť našu alebo vašu zodpovednosť za smrť alebo zranenie osôb;",
+      "row3": "• obmedziť alebo vylúčiť našu alebo vašu zodpovednosť za podvod alebo podvodné skreslenie informácií;",
+      "row4": "• obmedziť akékoľvek naše alebo vaše záväzky akýmkoľvek spôsobom, ktorý nie je povolený podľa platných zákonov; ",
+      "row5": "• vylúčiť akékoľvek naše alebo vaše záväzky, ktoré nemožno vylúčiť podľa platných zákonov.",
+      "row6": "Obmedzenia a zákazy zodpovednosti uvedené v tejto časti a inde v tomto vylúčení zodpovednosti: (a) podliehajú predchádzajúcemu odseku; ",
+      "row7": "Pokiaľ sú webová stránka a informácie a služby na webovej stránke poskytované bezplatne, nenesieme zodpovednosť za stratu alebo poškodenie akéhokoľvek charakteru."
+    }
+  }
+}

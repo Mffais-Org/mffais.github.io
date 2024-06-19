@@ -6,12 +6,14 @@ import {
   Title,
 } from "./AppGuideScreen.style";
 import { SmileIcon } from "../../icons";
+import { useTranslation } from "react-i18next";
 
 export const HeroSection = () => {
+  const { t } = useTranslation();
   return (
     <HeroContainer>
       <Title>
-        Mffais guide
+        Mffais {t("guide")}
         <IconWrapper>
           <SmileIcon />
         </IconWrapper>
