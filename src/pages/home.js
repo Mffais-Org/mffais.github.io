@@ -1,10 +1,10 @@
-import React, { useRef } from 'react';
-import { Navbar, Banner } from '../components';
-import Home from '../sections/home';
-import Features from '../sections/features';
-import MoneyFlow from '../sections/moneyFlow';
-import HowMuchToSpend from '../sections/howMuchToSpend';
-import Notifications from '../sections/notifications';
+import React, { useRef } from "react";
+import { Navbar, Banner } from "../components";
+import Home from "../sections/home";
+import Features from "../sections/features";
+import MoneyFlow from "../sections/moneyFlow";
+import HowMuchToSpend from "../sections/howMuchToSpend";
+import Notifications from "../sections/notifications";
 
 export default function () {
   const featuresRef = useRef();
@@ -12,11 +12,11 @@ export default function () {
 
   return (
     <>
-      <Navbar featuresRef={ featuresRef } moneyFlowRef={ moneyFlowRef } />
+      <Navbar featuresRef={featuresRef} moneyFlowRef={moneyFlowRef} />
       <Home />
-      <Features featuresRef={ featuresRef } />
+      <Features featuresRef={featuresRef} />
       <HowMuchToSpend />
-      <MoneyFlow moneyFlowRef={ moneyFlowRef } />
+      <MoneyFlow moneyFlowRef={moneyFlowRef} />
       <Notifications />
       <Banner />
     </>

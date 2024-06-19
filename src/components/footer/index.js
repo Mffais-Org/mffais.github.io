@@ -1,20 +1,20 @@
-import React from 'react';
-import style from './Footer.module.scss';
-import { HashLink as Link } from 'react-router-hash-link';
-import { GooglePlay, AppStore } from '../../components';
+import React from "react";
+import style from "./Footer.module.scss";
+import { HashLink as Link } from "react-router-hash-link";
+import { GooglePlay, AppStore } from "../../components";
 
 export default function () {
   return (
     <>
-      <div className={ style.subFooter }>
+      <div className={style.subFooter}>
         <h4>Give it a try!</h4>
-        <div className={ style.footerLogoWrapper }>
+        <div className={style.footerLogoWrapper}>
           <GooglePlay />
           <AppStore />
         </div>
         <h4>Have any questions?</h4>
         <a
-          className={ `button ${ style.contactSupport }` }
+          className={`button ${style.contactSupport}`}
           target="_blank"
           href="mailto: support@mffais.com"
         >
@@ -22,7 +22,7 @@ export default function () {
         </a>
       </div>
       <footer>
-        <div className={ style.nav }>
+        <div className={style.nav}>
           <Link to="/#">
             <img src="/img/logo.svg" />
           </Link>
@@ -31,7 +31,7 @@ export default function () {
           <Link to="/privacy-policy/#">Privacy Policy</Link>
           <Link to="/terms-and-conditions/#">Terms and conditions</Link>
         </div>
-        <div className={ style.contactInfo }>
+        <div className={style.contactInfo}>
           <p>2436 E 4th Street, Ste #336</p>
           <p>Long Beach, CA 90814</p>
           <p>
