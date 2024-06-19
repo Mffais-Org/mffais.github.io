@@ -1,19 +1,5 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "/static/css/main.e59003cd.chunk.css",
-    "main.js": "/static/js/main.be25ebe2.chunk.js",
-    "main.js.map": "/static/js/main.be25ebe2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.73d637fa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.73d637fa.js.map",
-    "static/css/2.dcff805e.chunk.css": "/static/css/2.dcff805e.chunk.css",
-    "static/js/2.de89b403.chunk.js": "/static/js/2.de89b403.chunk.js",
-    "static/js/2.de89b403.chunk.js.map": "/static/js/2.de89b403.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.dcff805e.chunk.css.map": "/static/css/2.dcff805e.chunk.css.map",
-    "static/css/main.e59003cd.chunk.css.map": "/static/css/main.e59003cd.chunk.css.map",
-    "static/js/2.de89b403.chunk.js.LICENSE.txt": "/static/js/2.de89b403.chunk.js.LICENSE.txt",
-=======
     "main.css": "/static/css/main.e8a10119.chunk.css",
     "main.js": "/static/js/main.cd556dfe.chunk.js",
     "main.js.map": "/static/js/main.cd556dfe.chunk.js.map",
@@ -26,20 +12,13 @@
     "static/css/2.dcff805e.chunk.css.map": "/static/css/2.dcff805e.chunk.css.map",
     "static/css/main.e8a10119.chunk.css.map": "/static/css/main.e8a10119.chunk.css.map",
     "static/js/2.e1f902cb.chunk.js.LICENSE.txt": "/static/js/2.e1f902cb.chunk.js.LICENSE.txt",
->>>>>>> 3390836a77a7007699bb3edd8664eff48e95787d
     "static/media/index.css": "/static/media/rubik-latin-900italic.7f45ff04.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.73d637fa.js",
     "static/css/2.dcff805e.chunk.css",
-<<<<<<< HEAD
-    "static/js/2.de89b403.chunk.js",
-    "static/css/main.e59003cd.chunk.css",
-    "static/js/main.be25ebe2.chunk.js"
-=======
     "static/js/2.e1f902cb.chunk.js",
     "static/css/main.e8a10119.chunk.css",
     "static/js/main.cd556dfe.chunk.js"
->>>>>>> 3390836a77a7007699bb3edd8664eff48e95787d
   ]
 }
