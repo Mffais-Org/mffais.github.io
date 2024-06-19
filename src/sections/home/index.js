@@ -1,10 +1,6 @@
 import React from "react";
 import style from "./Home.module.scss";
 import { GooglePlay, Star, AppStore } from "../../components";
-import React from "react";
-import style from "./Home.module.scss";
-import { GooglePlay, Star, AppStore } from "../../components";
-import { GooglePlay, AppStore, Star } from "../../components";
 
 export default function () {
   return (
