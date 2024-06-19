@@ -1,0 +1,237 @@
+{
+  "homePage": {
+    "desc": "Mffais giúp bạn theo dõi dòng tiền và cung cấp cái nhìn sâu sắc về chi tiêu và tiết kiệm trong tương lai.",
+    "cardsTitle": "Đặc trưng",
+    "cardsDesc": "Theo dõi dòng tiền của bạn và hiểu rõ hơn về chi tiêu và tiết kiệm trong tương lai",
+    "card1Title": "Thiết lập tài khoản Mffais của bạn",
+    "card1Desc": "Nhập số dư ngân hàng của bạn và thêm tất cả các khoản thu nhập và chi phí trong tương lai.",
+    "card2Title": "Tập trung vào tương lai của bạn",
+    "card2Desc1": "Mffais sẽ tính toán dòng tiền trong tương lai của bạn trước 365 ngày.",
+    "card2Desc2": "Chúng tôi sẽ cho bạn biết số dư thấp nhất của bạn và số tiền bạn sẽ có sau một năm.",
+    "card3Title": "Xóa giao dịch của bạn",
+    "card3Desc": "Sau khi giao dịch xóa tài khoản ngân hàng của bạn, hãy đảm bảo xóa chúng khỏi Mffais.",
+    "image1Desc1": "Mffais cho bạn biết phải chi bao nhiêu...",
+    "image1Desc2": "...hoặc phải tiết kiệm bao nhiêu để duy trì tình trạng đen đủi",
+    "image2Title": "Dòng tiền",
+    "image2Desc1": "Một nơi duy nhất mà người dùng có thể chỉnh sửa và thanh toán",
+    "image2Desc2": "các giao dịch trong tương lai của họ - tối đa một năm trong tương lai.",
+    "image2Desc3": "Các giao dịch đến hạn được đánh dấu tự động để giảm tải nhận thức.",
+    "image3Desc": "Thông báo ngày đến hạn giúp bạn luôn cập nhật được dòng tiền của mình",
+    "image4Desc": "Theo dõi dòng tiền của bạn và hiểu rõ hơn về chi tiêu và tiết kiệm trong tương lai."
+  },
+  "appGuide": {
+    "title": "hướng dẫn Mffais",
+    "desc": "Để đảm bảo bạn tận dụng tối đa ứng dụng của chúng tôi, hãy đọc các mẹo chuyên môn của chúng tôi để hướng dẫn bạn thực hiện.",
+    "card1Title": "Thiết lập số dư Mffais của bạn",
+    "card1Desc": "Nhập số dư ngân hàng của bạn và thêm tất cả các khoản thu nhập và chi phí trong tương lai mà bạn biết.",
+    "card2Title": "Luôn cập nhật số dư của bạn",
+    "card2Desc": "Khi bạn nhận được thu nhập, hãy đánh dấu nó là đã nhận. ",
+    "card3Title": "Xóa giao dịch của bạn",
+    "card3Desc": "Xóa các giao dịch của bạn và so sánh số dư Mffais với ngân hàng của bạn—để nắm bắt các chi phí ẩn",
+    "card4Title": "Dòng tiền",
+    "card4Desc": "Kiểm tra và chỉnh sửa các giao dịch trong tương lai - tối đa một năm trong tương lai.",
+    "card5Title": "Video hướng dẫn",
+    "card5Desc": "Xem video hướng dẫn của chúng tôi để biết hướng dẫn nhanh chóng và dễ dàng.",
+    "feature1Chip": "Dành cho sinh viên đại học",
+    "feature1Title": "Đơn giản hóa tài chính đại học của bạn",
+    "feature1Desc": "Dễ dàng lập kế hoạch và theo dõi chi phí sinh viên của bạn, từ học phí và sách giáo khoa đến đồ dùng ký túc xá và ăn uống ngoài trời. ",
+    "feature1Card1Title": "Theo dõi chi phí định kỳ",
+    "feature1Card1Desc": "Quản lý các chi phí đáng kể như học phí, sách giáo khoa và tiền thuê nhà một cách dễ dàng.",
+    "feature1Card2Title": "Ngân sách cho chi phí biến đổi",
+    "feature1Card2Desc": "Lập kế hoạch ăn uống, giải trí và các trường hợp khẩn cấp, điều chỉnh khi cần thiết.",
+    "feature1Card3Title": "Quản lý các khoản vay sinh viên",
+    "feature1Card3Desc": "Chia đều các khoản thanh toán khoản vay một lần trong nhiều tháng để trang trải chi phí một cách hiệu quả.",
+    "feature1Card4Title": "Giám sát dòng tiền",
+    "feature1Card4Desc": "Sử dụng màn hình Dòng tiền để đảm bảo bạn đã chuẩn bị sẵn sàng cho các chi phí sắp tới.",
+    "feature1Card5Title": "Dự báo chi phí học kỳ",
+    "feature1Card5Desc": "Lên kế hoạch trước cho các chi phí trong học kỳ và điều chỉnh theo những thay đổi về thu nhập.",
+    "feature1Card6Title": "Mẹo quản lý tiền",
+    "feature1Card6Desc": "Nhận lời khuyên về cách tránh những cạm bẫy tài chính thường gặp và các chiến lược tiết kiệm tiền với ngân sách eo hẹp.",
+    "feature2Chip": "Dành cho những người có nhiều công việc/hợp đồng biểu diễn",
+    "feature2Title": "Theo dõi tất cả các nguồn thu nhập của bạn",
+    "feature2Desc": "Hãy tạm biệt những rắc rối khi xử lý nhiều bảng tính hoặc ứng dụng. ",
+    "feature2Card1Title": "Thiết lập các luồng thu nhập đa dạng",
+    "feature2Card1Desc": "Nhập nhiều nguồn thu nhập khác nhau với tần suất khác nhau (ví dụ: hợp đồng biểu diễn hàng tuần, thanh toán tự do hàng tháng).",
+    "feature2Card2Title": "Cân bằng thu nhập và chi phí",
+    "feature2Card2Desc": "Nhập nhiều nguồn thu nhập khác nhau với tần suất khác nhau (ví dụ: hợp đồng biểu diễn hàng tuần, thanh toán tự do hàng tháng).",
+    "feature2Card3Title": "Đảm bảo tất cả các hóa đơn được thanh toán",
+    "feature2Card3Desc": "Nhập nhiều nguồn thu nhập khác nhau với tần suất khác nhau (ví dụ: hợp đồng biểu diễn hàng tuần, thanh toán tự do hàng tháng).",
+    "feature2Card4Title": "Dành tiền đóng thuế và các khoản chi không thường xuyên",
+    "feature2Card4Desc": "Nhập nhiều nguồn thu nhập khác nhau với tần suất khác nhau (ví dụ: hợp đồng biểu diễn hàng tuần, thanh toán tự do hàng tháng).",
+    "feature2Card5Title": "Điều chỉnh sự biến động của dòng tiền",
+    "feature2Card5Desc": "Chiến lược ổn định tài chính",
+    "feature2Card6Title": "Chiến lược ổn định tài chính",
+    "feature2Card6Desc": "Nhập nhiều nguồn thu nhập khác nhau với tần suất khác nhau (ví dụ: hợp đồng biểu diễn hàng tuần, thanh toán tự do hàng tháng)."
+  },
+  "subFooter": {
+    "giveItATry": "Hãy thử một lần",
+    "haveAnyQuestions": "Có câu hỏi nào không?",
+    "buttonText": "Liên hệ hỗ trợ"
+  },
+  "headerAndFooter": {
+    "features": "Đặc trưng",
+    "moneyFlow": "Dòng tiền",
+    "privacyPolicy": "Chính sách bảo mật",
+    "termsAndConditions": "Các điều khoản và điều kiện"
+  },
+  "privacyPolicy": {
+    "mainTitle": "Điều khoản và Điều kiện của Mffais",
+    "title1": "Chính sách về quyền riêng tư của Mffais Master",
+    "paragraph1": {
+      "row1": "Chính sách quyền riêng tư này quy định cách thu thập và sử dụng thông tin cá nhân, được cung cấp trên trang Web Internet có tại www.acorns.com (“Trang web”) và ứng dụng di động của chúng tôi (gọi chung là “Mffais”). ",
+      "row2": "Mffais cam kết duy trì tính bảo mật, toàn vẹn và bảo mật của mọi thông tin cá nhân về người dùng của chúng tôi. ",
+      "row3": "Mffais nhấn mạnh các tiêu chuẩn bảo mật và quyền riêng tư của mình để bảo vệ chống trộm danh tính và cung cấp bảo mật cho thông tin cá nhân của bạn. "
+    },
+    "title2": "Thông tin cá nhân được thu thập",
+    "paragraph2": {
+      "row1": "Chúng tôi thu thập thông tin cá nhân sau từ bạn:",
+      "row2": "thông tin liên lạc như tên, địa chỉ email, địa chỉ gửi thư, số điện thoại;",
+      "row3": "thông tin thanh toán như số thẻ tín dụng và địa chỉ thanh toán;",
+      "row4": "thông tin tài chính như số tài khoản ngân hàng hoặc môi giới, loại hình đầu tư;",
+      "row5": "Số An Sinh Xã Hội;",
+      "row6": "số giấy phép lái xe;",
+      "row7": "số nhận dạng duy nhất như tên người dùng, số tài khoản, mật khẩu;",
+      "row8": "thông tin ưu tiên như danh sách mong muốn sản phẩm, lịch sử đặt hàng và ưu tiên tiếp thị; ",
+      "row9": "thông tin nhân khẩu học như tuổi tác, trình độ học vấn, giới tính, sở thích và mã zip.",
+      "row10": "Khi bạn truy cập Trang web hoặc tải xuống và sử dụng Dịch vụ của chúng tôi, chúng tôi có thể tự động thu thập một số thông tin nhất định được gửi cho chúng tôi bằng máy tính, thiết bị di động hoặc bất kỳ thiết bị nào khác. "
+    },
+    "title3": "Sử dụng và chia sẻ thông tin",
+    "paragraph3": {
+      "row1": "Mffais chỉ sử dụng và tiết lộ thông tin cá nhân của bạn như sau:",
+      "row2": "để phân tích việc sử dụng trang web và cải thiện Dịch vụ;",
+      "row3": "để gửi cho bạn mọi thông báo hành chính, cảnh báo tiền bạc và thông tin liên lạc liên quan đến việc bạn sử dụng Dịch vụ;",
+      "row4": "để đáp ứng yêu cầu của bạn về một số sản phẩm và dịch vụ nhất định;",
+      "row5": "để nghiên cứu thị trường, lập kế hoạch dự án, khắc phục sự cố cũng như phát hiện và bảo vệ khỏi sai sót, gian lận hoặc hoạt động tội phạm khác;",
+      "row6": "cho các nhà thầu bên thứ ba cung cấp dịch vụ cho Mffais và bị ràng buộc bởi những hạn chế tương tự về quyền riêng tư này;",
+      "row7": "để thực thi Điều khoản sử dụng của Mffais; ",
+      "row8": "Trong trường hợp bạn truy cập Dịch vụ do một trong những đối tác đồng thương hiệu của chúng tôi mang đến cho bạn, thông qua URL đồng thương hiệu, địa chỉ email của bạn được sử dụng để đăng ký Dịch vụ có thể được cung cấp cho đối tác đồng thương hiệu đó.",
+      "row9": "Ngoài ra, đôi khi, chúng tôi có thể cung cấp các chương trình khuyến mãi với nhiều doanh nghiệp, trang web, ứng dụng di động hoặc bên thứ ba khác nhau, có thể bao gồm cơ hội để bạn kiếm tiền gửi trong tài khoản Mffais của mình. ",
+      "row10": "Chúng tôi có thể sử dụng thông tin bạn cung cấp để kết nối bạn với những người bạn có thể đã biết. ",
+      "row11": "Chúng tôi cũng có thể tiết lộ thông tin cá nhân của bạn theo yêu cầu của pháp luật, chẳng hạn như tuân thủ trát đòi hầu tòa hoặc quy trình pháp lý tương tự và khi chúng tôi tin rằng việc tiết lộ là cần thiết để bảo vệ quyền của chúng tôi, bảo vệ sự an toàn của bạn hoặc sự an toàn của người khác, hãy điều tra ",
+      "row12": "Nếu Mffais Incorporated tham gia vào việc sáp nhập, mua lại hoặc bán toàn bộ hoặc một phần tài sản của mình, bạn sẽ được thông báo qua email và/hoặc thông báo nổi bật trên Trang web của chúng tôi về bất kỳ thay đổi nào về quyền sở hữu hoặc việc sử dụng thông tin cá nhân của bạn, như "
+    },
+    "title4": "Quyền truy cập và lựa chọn của người dùng",
+    "paragraph4": {
+      "row1": "Nếu thông tin cá nhân trong hồ sơ của bạn thay đổi hoặc nếu bạn không còn muốn sử dụng dịch vụ của chúng tôi nữa, bạn có thể sửa hoặc cập nhật thông tin đó bằng cách thực hiện thay đổi trên trang thông tin khách hàng của chúng tôi hoặc gửi email cho Dịch vụ khách hàng của Acorns.",
+      "row2": "Chúng tôi sẽ lưu giữ và sử dụng thông tin của bạn khi cần thiết để tuân thủ các nghĩa vụ pháp lý và/hoặc quy định của chúng tôi, giải quyết tranh chấp và thực thi các thỏa thuận của chúng tôi.",
+      "row3": "Nếu bạn muốn đăng ký nhận (các) bản tin của chúng tôi, chúng tôi sẽ sử dụng tên và địa chỉ email của bạn để gửi bản tin cho bạn. "
+    },
+    "title5": "Cookie/Công nghệ theo dõi",
+    "paragraph5": {
+      "row1": "Cookie là một tệp văn bản nhỏ được lưu trữ trên máy tính của người dùng nhằm mục đích lưu giữ hồ sơ. ",
+      "row2": "Chúng tôi sử dụng cả cookie ID phiên và cookie liên tục. ",
+      "row3": "Nếu bạn từ chối cookie, bạn vẫn có thể sử dụng Trang web nhưng khả năng sử dụng một số lĩnh vực của Trang web, chẳng hạn như các cuộc thi hoặc khảo sát, có thể bị hạn chế.",
+      "row4": "Việc sử dụng cookie của các đối tác, chi nhánh, công ty tiện ích theo dõi và/hoặc nhà cung cấp dịch vụ của chúng tôi không nằm trong Chính sách quyền riêng tư của chúng tôi. ",
+      "row5": "Chúng tôi sử dụng (và/hoặc đối tác quảng cáo bên thứ ba của chúng tôi sử dụng) công nghệ phần mềm có tên là clear gifs (đôi khi được gọi là đèn hiệu web hoặc lỗi web), giúp chúng tôi quản lý nội dung trên Trang web tốt hơn bằng cách thông báo cho chúng tôi nội dung nào có hiệu quả. "
+    },
+    "title6": "Thông báo về việc Không theo dõi",
+    "paragraph6": {
+      "row1": "Không theo dõi (“DNT”) là tùy chọn quyền riêng tư mà người dùng có thể đặt trong một số trình duyệt web nhất định. "
+    },
+    "title7": "Bảo vệ",
+    "paragraph7": {
+      "row1": "Việc bảo mật thông tin cá nhân của bạn rất quan trọng đối với chúng tôi. ",
+      "row2": "Chúng tôi tuân theo các tiêu chuẩn được chấp nhận chung để bảo vệ thông tin cá nhân được gửi cho chúng tôi, cả trong quá trình truyền và khi chúng tôi nhận được thông tin đó. "
+    },
+    "title8": "Những thay đổi đối với Chính sách quyền riêng tư này",
+    "paragraph8": {
+      "row1": "Chúng tôi có thể cập nhật chính sách quyền riêng tư này để phản ánh những thay đổi đối với hoạt động thông tin của chúng tôi. "
+    },
+    "title9": "Liên hệ chúng tôi",
+    "paragraph9": {
+      "row1": "Nếu bạn có bất kỳ câu hỏi nào về Chính sách quyền riêng tư của chúng tôi, vui lòng liên hệ với Dịch vụ khách hàng của Mffais tại:",
+      "row2": "quyền riêng tư@mffais.com",
+      "row3": "Mffais"
+    }
+  },
+  "termsAndConditions": {
+    "mainTitle": "Điều khoản và Điều kiện của Mffais",
+    "title1": "Chào mừng",
+    "paragraph1": {
+      "row1": "Chào mừng đến với trang web Mffais!",
+      "row2": "Các điều khoản và điều kiện này phác thảo các quy tắc và quy định về việc sử dụng Trang web của Mffais, có tại trang web của chúng tôi.",
+      "row3": "Bằng cách truy cập trang web này, chúng tôi coi như bạn chấp nhận các điều khoản và điều kiện này. ",
+      "row4": "Thuật ngữ sau áp dụng cho các Điều khoản và Điều kiện này, Tuyên bố về quyền riêng tư và Thông báo từ chối trách nhiệm cũng như tất cả các Thỏa thuận: 'Khách hàng', 'Bạn' và 'Của bạn' đề cập đến bạn, người đăng nhập vào trang web này và tuân thủ các điều khoản và điều kiện của Công ty. "
+    },
+    "title2": "Bánh quy",
+    "paragraph2": {
+      "row1": "Chúng tôi sử dụng việc sử dụng cookie. ",
+      "row2": "Hầu hết các trang web tương tác đều sử dụng cookie để cho phép chúng tôi truy xuất thông tin chi tiết của người dùng cho mỗi lần truy cập. "
+    },
+    "title3": "Giấy phép",
+    "paragraph3": {
+      "row1": "Trừ khi có quy định khác, Mffais và/hoặc người cấp phép của Mffais sở hữu quyền sở hữu trí tuệ đối với tất cả tài liệu trên Trang web của Mffais.  ",
+      "row2": "Bạn không được:",
+      "row3": "• Tái xuất bản tài liệu từ Trang web Mffais;",
+      "row4": "• Bán, thuê hoặc cấp giấy phép phụ cho tài liệu từ Trang web Mffais;",
+      "row5": "• Tái sản xuất, sao chép hoặc sao chép tài liệu từ Trang web Mffais;",
+      "row6": "• Phân phối lại nội dung từ Trang web Mffais;",
+      "row7": "Thỏa thuận này sẽ bắt đầu vào ngày ở đây. ",
+      "row8": "Các phần của trang web này tạo cơ hội cho người dùng đăng và trao đổi ý kiến ​​cũng như thông tin trong một số khu vực nhất định của trang web. ",
+      "row9": "Mffais có quyền giám sát tất cả các Nhận xét và xóa bất kỳ Nhận xét nào có thể bị coi là không phù hợp, gây khó chịu hoặc gây ra vi phạm các Điều khoản và Điều kiện này.",
+      "row10": "Bạn bảo đảm và tuyên bố rằng:",
+      "row11": "• Bạn có quyền đăng Nhận xét trên trang web của chúng tôi và có tất cả các giấy phép và sự đồng ý cần thiết để làm như vậy;",
+      "row12": "• Nhận xét không xâm phạm bất kỳ quyền sở hữu trí tuệ nào, bao gồm nhưng không giới hạn bản quyền, bằng sáng chế hoặc nhãn hiệu của bất kỳ bên thứ ba nào;",
+      "row13": "• Nhận xét không chứa bất kỳ tài liệu phỉ báng, bôi nhọ, xúc phạm, không đứng đắn hoặc trái pháp luật nào xâm phạm quyền riêng tư;",
+      "row14": "• Nhận xét sẽ không được sử dụng để lôi kéo hoặc thúc đẩy hoạt động kinh doanh hoặc tập quán hoặc trình bày các hoạt động thương mại hoặc hoạt động bất hợp pháp;",
+      "row15": "Theo đây, bạn cấp cho Mffais giấy phép không độc quyền để sử dụng, sao chép, chỉnh sửa và ủy quyền cho người khác sử dụng, sao chép và chỉnh sửa bất kỳ Nhận xét nào của bạn dưới mọi hình thức, định dạng hoặc phương tiện"
+    },
+    "title4": "Siêu liên kết đến nội dung của chúng tôi",
+    "paragraph4": {
+      "row1": "Các tổ chức sau đây có thể liên kết đến Trang web của chúng tôi mà không cần có sự chấp thuận trước bằng văn bản:",
+      "row2": "• Cơ quan chính phủ;",
+      "row3": "• Công cụ tìm kiếm;",
+      "row4": "• Các tổ chức tin tức;",
+      "row5": "• Các nhà phân phối danh mục trực tuyến có thể liên kết đến Trang web của chúng tôi theo cách tương tự như cách họ siêu liên kết đến Trang web của các doanh nghiệp được liệt kê khác; ",
+      "row6": "• Các Doanh nghiệp được công nhận trên toàn hệ thống ngoại trừ việc thu hút các tổ chức phi lợi nhuận, trung tâm mua sắm từ thiện và các nhóm gây quỹ từ thiện không được liên kết đến trang Web của chúng tôi.",
+      "row7": "Các tổ chức này có thể liên kết đến trang chủ của chúng tôi, tới các ấn phẩm hoặc tới thông tin Trang web khác miễn là liên kết đó: (a) không lừa đảo dưới bất kỳ hình thức nào; ",
+      "row8": "Chúng tôi có thể xem xét và phê duyệt các yêu cầu liên kết khác từ các loại tổ chức sau:",
+      "row9": "• nguồn thông tin người tiêu dùng và/hoặc doanh nghiệp được biết đến rộng rãi;",
+      "row10": "• các trang cộng đồng dot.com;",
+      "row11": "• các hiệp hội hoặc các nhóm khác đại diện cho các tổ chức từ thiện;",
+      "row12": "• nhà phân phối thư mục trực tuyến;",
+      "row13": "• cổng internet;",
+      "row14": "• các công ty kế toán, luật và tư vấn; ",
+      "row15": "• các cơ sở giáo dục và hiệp hội thương mại.",
+      "row16": "Chúng tôi sẽ chấp thuận các yêu cầu liên kết từ các tổ chức này nếu chúng tôi quyết định rằng: (a) liên kết đó sẽ không khiến chúng tôi có ấn tượng bất lợi đối với chính chúng tôi hoặc đối với các doanh nghiệp được công nhận của chúng tôi; ",
+      "row17": "Các tổ chức này có thể liên kết đến trang chủ của chúng tôi miễn là liên kết đó: (a) không lừa đảo dưới bất kỳ hình thức nào; ",
+      "row18": "Nếu bạn là một trong những tổ chức được liệt kê trong đoạn 2 ở trên và quan tâm đến việc liên kết đến trang web của chúng tôi, bạn phải thông báo cho chúng tôi bằng cách gửi email đến Mffais. ",
+      "row19": "Các tổ chức được phê duyệt có thể siêu liên kết đến Trang web của chúng tôi như sau:",
+      "row20": "• Bằng cách sử dụng tên công ty của chúng tôi; ",
+      "row21": "• Bằng cách sử dụng bộ định vị tài nguyên thống nhất được liên kết tới; ",
+      "row22": "• Bằng cách sử dụng bất kỳ mô tả nào khác về Trang web của chúng tôi được liên kết đến, điều đó có ý nghĩa trong bối cảnh và định dạng nội dung trên trang web của bên liên kết.",
+      "row23": "Không được phép sử dụng logo của Mffais hoặc tác phẩm nghệ thuật khác để liên kết mà không có thỏa thuận cấp phép nhãn hiệu."
+    },
+    "title5": "iFrame",
+    "paragraph5": {
+      "row1": "Nếu không có sự chấp thuận trước và cho phép bằng văn bản, bạn không được tạo các khung xung quanh các Trang web của chúng tôi để thay đổi cách trình bày trực quan hoặc diện mạo của Trang web của chúng tôi."
+    },
+    "title6": "Trách nhiệm nội dung",
+    "paragraph6": {
+      "row1": "Chúng tôi sẽ không chịu trách nhiệm về bất kỳ nội dung nào xuất hiện trên Trang web của bạn. "
+    },
+    "title7": "Quyền riêng tư của bạn",
+    "paragraph7": {
+      "row1": "Xin vui lòng đọc chính sách bảo mật của chúng tôi"
+    },
+    "title8": "Bảo lưu quyền",
+    "paragraph8": {
+      "row1": "Chúng tôi có quyền yêu cầu bạn xóa tất cả các liên kết hoặc bất kỳ liên kết cụ thể nào tới Trang web của chúng tôi. "
+    },
+    "title9": "Xóa các liên kết khỏi trang web của chúng tôi",
+    "paragraph9": {
+      "row1": "Nếu bạn tìm thấy bất kỳ liên kết nào trên Trang web của chúng tôi mang tính xúc phạm vì bất kỳ lý do gì, bạn có thể liên hệ và thông báo cho chúng tôi bất cứ lúc nào. ",
+      "row2": "Chúng tôi không đảm bảo rằng thông tin trên trang web này là chính xác, chúng tôi không đảm bảo tính đầy đủ hoặc chính xác của nó; "
+    },
+    "title10": "Tuyên bố miễn trừ trách nhiệm",
+    "paragraph10": {
+      "row1": "Trong phạm vi tối đa được pháp luật hiện hành cho phép, chúng tôi loại trừ mọi tuyên bố, bảo đảm và điều kiện liên quan đến trang web của chúng tôi và việc sử dụng trang web này. ",
+      "row2": "• giới hạn hoặc loại trừ trách nhiệm pháp lý của chúng tôi hoặc của bạn đối với trường hợp tử vong hoặc thương tích cá nhân;",
+      "row3": "• giới hạn hoặc loại trừ trách nhiệm pháp lý của chúng tôi hoặc của bạn đối với hành vi gian lận hoặc xuyên tạc mang tính gian lận;",
+      "row4": "• hạn chế bất kỳ trách nhiệm pháp lý nào của chúng tôi hoặc của bạn theo bất kỳ cách nào không được phép theo luật hiện hành; ",
+      "row5": "• loại trừ bất kỳ trách nhiệm pháp lý nào của chúng tôi hoặc của bạn mà có thể không được loại trừ theo luật hiện hành.",
+      "row6": "Các giới hạn và cấm trách nhiệm pháp lý được nêu trong Phần này và các phần khác trong tuyên bố từ chối trách nhiệm này: (a) tuân theo đoạn trước; ",
+      "row7": "Miễn là trang web cũng như thông tin và dịch vụ trên trang web được cung cấp miễn phí, chúng tôi sẽ không chịu trách nhiệm về bất kỳ tổn thất hoặc thiệt hại nào dưới bất kỳ hình thức nào."
+    }
+  }
+}

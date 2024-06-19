@@ -1,0 +1,13 @@
+export { FeatureIcon1 } from "./FeatureIcon1";
+export { FeatureIcon2 } from "./FeatureIcon2";
+export { FeatureIcon3 } from "./FeatureIcon3";
+export { FeatureIcon4 } from "./FeatureIcon4";
+export { FeatureIcon5 } from "./FeatureIcon5";
+export { FeatureIcon6 } from "./FeatureIcon6";
+export { FeatureIcon7 } from "./FeatureIcon7";
+export { FeatureIcon8 } from "./FeatureIcon8";
+export { FeatureIcon9 } from "./FeatureIcon9";
+export { FeatureIcon10 } from "./FeatureIcon10";
+export { FeatureIcon11 } from "./FeatureIcon11";
+export { FeatureIcon12 } from "./FeatureIcon12";
+export { SmileIcon } from "./SmileIcon";

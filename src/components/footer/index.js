@@ -1,7 +1,7 @@
 import React from "react";
 import style from "./Footer.module.scss";
-import { GooglePlay, AppStore } from "../../components";
 import { HashLink as Link } from "react-router-hash-link";
+import { GooglePlay, AppStore } from "../../components";
 
 export default function () {
   return (

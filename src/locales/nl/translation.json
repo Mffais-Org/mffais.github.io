@@ -1,0 +1,237 @@
+{
+  "homePage": {
+    "desc": "Mffais helpt u de cashflow te volgen en geeft inzicht in toekomstige uitgaven en besparingen.",
+    "cardsTitle": "Functies",
+    "cardsDesc": "Volg uw cashflow en krijg inzicht in toekomstige uitgaven en besparingen",
+    "card1Title": "Stel uw Mffais-account in",
+    "card1Desc": "Vul je banksaldo in en tel daar alle toekomstige inkomsten en uitgaven bij op.",
+    "card2Title": "Concentreer u op uw toekomst",
+    "card2Desc1": "Mffais berekent 365 dagen van tevoren uw toekomstige geldstroom.",
+    "card2Desc2": "Wij vertellen u wat uw laagste saldo is en hoeveel geld u na een jaar nog heeft.",
+    "card3Title": "Wis uw transacties",
+    "card3Desc": "Nadat de transacties uw bankrekening hebben gewist, moet u deze ook bij Mffais wissen.",
+    "image1Desc1": "Mffais vertelt je hoeveel je moet uitgeven...",
+    "image1Desc2": "...of hoeveel u moet besparen om in het zwart te blijven",
+    "image2Title": "Geldstroom",
+    "image2Desc1": "Eén plek waar gebruikers kunnen bewerken en afrekenen",
+    "image2Desc2": "hun toekomstige transacties - tot een jaar in de toekomst.",
+    "image2Desc3": "Verschuldigde transacties worden automatisch gemarkeerd om de cognitieve belasting te verminderen.",
+    "image3Desc": "Vervaldatummeldingen helpen u uw cashflow onder controle te houden",
+    "image4Desc": "Volg uw cashflow en krijg inzicht in toekomstige uitgaven en besparingen."
+  },
+  "appGuide": {
+    "title": "Mffais-gids",
+    "desc": "Om er zeker van te zijn dat u het meeste uit onze app haalt, leest u onze deskundige tips om u op weg te helpen.",
+    "card1Title": "Stel uw Mffais-saldo in",
+    "card1Desc": "Voer uw banksaldo in en voeg alle toekomstige inkomsten en uitgaven toe waarvan u op de hoogte bent.",
+    "card2Title": "Houd uw saldo actueel",
+    "card2Desc": "Wanneer u een inkomen ontvangt, markeert u dit als ontvangen. ",
+    "card3Title": "Wis uw transacties",
+    "card3Desc": "Wis uw transacties en vergelijk uw Mffais-saldo met uw bank om verborgen kosten op te sporen",
+    "card4Title": "Geldstroom",
+    "card4Desc": "Controleer en bewerk toekomstige transacties – tot een jaar in de toekomst.",
+    "card5Title": "Video uitleg",
+    "card5Desc": "Bekijk onze video-tutorial voor een snelle en eenvoudige uitleg.",
+    "feature1Chip": "Voor studenten",
+    "feature1Title": "Vereenvoudig uw universiteitsfinanciën",
+    "feature1Desc": "Plan en volg eenvoudig je studiekosten, van collegegeld en studieboeken tot slaapzaalbenodigdheden en uit eten gaan. ",
+    "feature1Card1Title": "Houd terugkerende uitgaven bij",
+    "feature1Card1Desc": "Beheer met gemak aanzienlijke kosten, zoals collegegeld, studieboeken en huur.",
+    "feature1Card2Title": "Budget voor variabele uitgaven",
+    "feature1Card2Desc": "Maak een plan voor eten, entertainment en noodgevallen en pas het indien nodig aan.",
+    "feature1Card3Title": "Beheer studieleningen",
+    "feature1Card3Desc": "Spreid de afbetalingen van de lening over maanden om de kosten efficiënt te dekken.",
+    "feature1Card4Title": "Bewaking van de geldstroom",
+    "feature1Card4Desc": "Gebruik het scherm Geldstroom om ervoor te zorgen dat u voorbereid bent op komende uitgaven.",
+    "feature1Card5Title": "Kostenprognoses voor het semester",
+    "feature1Card5Desc": "Plan vooruit voor de semesteruitgaven en pas deze aan voor veranderingen in het inkomen.",
+    "feature1Card6Title": "Tips voor geldbeheer",
+    "feature1Card6Desc": "Ontvang advies over het vermijden van veelvoorkomende financiële valkuilen en strategieën om geld te besparen met een krap budget.",
+    "feature2Chip": "Voor mensen met meerdere banen/optredens",
+    "feature2Title": "Volg al uw inkomstenstromen",
+    "feature2Desc": "Zeg vaarwel tegen het gedoe van het jongleren met meerdere spreadsheets of apps. ",
+    "feature2Card1Title": "Het opzetten van meerdere inkomensstromen",
+    "feature2Card1Desc": "Voer verschillende inkomstenbronnen in met verschillende frequenties (bijvoorbeeld wekelijkse optredens, maandelijkse freelancebetalingen).",
+    "feature2Card2Title": "Breng inkomsten en uitgaven in evenwicht",
+    "feature2Card2Desc": "Voer verschillende inkomstenbronnen in met verschillende frequenties (bijvoorbeeld wekelijkse optredens, maandelijkse freelancebetalingen).",
+    "feature2Card3Title": "Zorg ervoor dat alle rekeningen gedekt zijn",
+    "feature2Card3Desc": "Voer verschillende inkomstenbronnen in met verschillende frequenties (bijvoorbeeld wekelijkse optredens, maandelijkse freelancebetalingen).",
+    "feature2Card4Title": "Zet geld opzij voor belastingen en onregelmatige uitgaven",
+    "feature2Card4Desc": "Voer verschillende inkomstenbronnen in met verschillende frequenties (bijvoorbeeld wekelijkse optredens, maandelijkse freelancebetalingen).",
+    "feature2Card5Title": "Pas aan voor de variabiliteit van de cashflow",
+    "feature2Card5Desc": "Strategieën voor financiële stabiliteit",
+    "feature2Card6Title": "Strategieën voor financiële stabiliteit",
+    "feature2Card6Desc": "Voer verschillende inkomstenbronnen in met verschillende frequenties (bijvoorbeeld wekelijkse optredens, maandelijkse freelancebetalingen)."
+  },
+  "subFooter": {
+    "giveItATry": "Probeer het eens",
+    "haveAnyQuestions": "Heeft u vragen?",
+    "buttonText": "Contact opnemen met ondersteuning"
+  },
+  "headerAndFooter": {
+    "features": "Functies",
+    "moneyFlow": "Geldstroom",
+    "privacyPolicy": "Privacybeleid",
+    "termsAndConditions": "Voorwaarden"
+  },
+  "privacyPolicy": {
+    "mainTitle": "Algemene voorwaarden van Mffais",
+    "title1": "Mffais Master-privacybeleid",
+    "paragraph1": {
+      "row1": "Dit privacybeleid zet uiteen hoe persoonlijke informatie wordt verzameld en gebruikt, die wordt verstrekt op de internetwebsite www.acorns.com (de “Site”) en onze mobiele applicatie (gezamenlijk “Mffais”). ",
+      "row2": "Mffais streeft ernaar de vertrouwelijkheid, integriteit en veiligheid van alle persoonlijke informatie over onze gebruikers te behouden. ",
+      "row3": "Mffais benadrukt haar privacy- en beveiligingsnormen om identiteitsdiefstal te voorkomen en beveiliging van uw persoonlijke gegevens te bieden. "
+    },
+    "title2": "Persoonlijke informatie verzameld",
+    "paragraph2": {
+      "row1": "Wij verzamelen de volgende persoonlijke gegevens van u:",
+      "row2": "contactgegevens zoals naam, e-mailadres, postadres, telefoonnummer;",
+      "row3": "factuurgegevens zoals creditcardnummer en factuuradres;",
+      "row4": "financiële informatie zoals bank- of makelaarsrekeningnummers, soorten beleggingen;",
+      "row5": "Burgerservicenummer;",
+      "row6": "Rijbewijsnummer;",
+      "row7": "unieke identificatiegegevens zoals gebruikersnaam, accountnummer, wachtwoord;",
+      "row8": "voorkeursinformatie zoals productverlanglijstjes, bestelgeschiedenis en marketingvoorkeuren; ",
+      "row9": "demografische informatie zoals leeftijd, opleiding, geslacht, interesses en postcode.",
+      "row10": "Wanneer u de Site bezoekt of onze Services downloadt en gebruikt, kunnen we automatisch bepaalde informatie verzamelen die naar ons wordt verzonden door uw computer, mobiele apparaat of een ander apparaat. "
+    },
+    "title3": "Informatiegebruik en delen",
+    "paragraph3": {
+      "row1": "Mffais gebruikt en maakt uw persoonlijke gegevens uitsluitend als volgt bekend:",
+      "row2": "om het sitegebruik te analyseren en de Dienst te verbeteren;",
+      "row3": "om u administratieve mededelingen, geldwaarschuwingen en mededelingen te bezorgen die relevant zijn voor uw gebruik van de Dienst;",
+      "row4": "om aan uw verzoeken voor bepaalde producten en diensten te voldoen;",
+      "row5": "voor marktonderzoek, projectplanning, het oplossen van problemen en het opsporen van en beschermen tegen fouten, fraude of andere criminele activiteiten;",
+      "row6": "aan externe contractanten die diensten verlenen aan Mffais en gebonden zijn aan dezelfde privacybeperkingen;",
+      "row7": "om de gebruiksvoorwaarden van Mffais af te dwingen; ",
+      "row8": "In het geval dat u toegang krijgt tot de Dienst zoals deze u wordt aangeboden door een van onze co-branded partners, via een co-branded URL, kan uw e-mailadres dat wordt gebruikt voor registratie op de Service worden verstrekt aan die co-branding partner.",
+      "row9": "Daarnaast kunnen we van tijd tot tijd promoties aanbieden bij verschillende bedrijven, websites, mobiele applicaties of derden, waaronder mogelijkheden voor u om stortingen te verdienen op uw Mffais-account. ",
+      "row10": "We kunnen de door u verstrekte informatie gebruiken om u in contact te brengen met mensen die u mogelijk al kent. ",
+      "row11": "We kunnen uw persoonlijke gegevens ook vrijgeven zoals vereist door de wet, bijvoorbeeld om te voldoen aan een dagvaarding of een soortgelijke juridische procedure en wanneer we te goeder trouw geloven dat openbaarmaking noodzakelijk is om onze rechten te beschermen, uw veiligheid of de veiligheid van anderen te beschermen, een onderzoek in te stellen ",
+      "row12": "Als Mffais Incorporated betrokken is bij een fusie, overname of verkoop van alle of een deel van haar activa, wordt u via e-mail en/of een prominente kennisgeving op onze site op de hoogte gebracht van elke wijziging in eigendom of gebruik van uw persoonlijke gegevens, zoals "
+    },
+    "title4": "Gebruikerstoegang en keuze",
+    "paragraph4": {
+      "row1": "Als de persoonlijke gegevens die voor u in ons bestand staan, veranderen, of als u niet langer gebruik wilt maken van onze service, kunt u deze corrigeren of bijwerken door de wijziging door te voeren op onze klantinformatiepagina of door een e-mail te sturen naar de klantenservice van Acorns.",
+      "row2": "We bewaren en gebruiken uw gegevens indien nodig om te voldoen aan onze wettelijke en/of regelgevende verplichtingen, geschillen op te lossen en onze overeenkomsten af ​​te dwingen.",
+      "row3": "Als u zich wilt abonneren op onze nieuwsbrief(s), gebruiken wij uw naam en e-mailadres om de nieuwsbrief naar u te verzenden. "
+    },
+    "title5": "Cookies/trackingtechnologieën",
+    "paragraph5": {
+      "row1": "Een cookie is een klein tekstbestand dat voor archiveringsdoeleinden op de computer van een gebruiker wordt opgeslagen. ",
+      "row2": "We gebruiken zowel sessie-ID-cookies als permanente cookies. ",
+      "row3": "Als u cookies weigert, kunt u de Site nog steeds gebruiken, maar uw mogelijkheden om bepaalde delen van de Site te gebruiken, zoals wedstrijden of enquêtes, kunnen beperkt zijn.",
+      "row4": "Het gebruik van cookies door onze partners, aangesloten bedrijven, tracking nutsbedrijven en/of dienstverleners valt niet onder ons Privacybeleid. ",
+      "row5": "Wij maken gebruik (en/of onze externe advertentiepartner gebruikt) een softwaretechnologie die clear gifs wordt genoemd (ook wel bekend als webbeacons of webbugs), die ons helpt de inhoud op de site beter te beheren door ons te informeren welke inhoud effectief is. "
+    },
+    "title6": "Kennisgeving over Niet volgen",
+    "paragraph6": {
+      "row1": "Do Not Track (“DNT”) is een privacyvoorkeur die gebruikers in bepaalde webbrowsers kunnen instellen. "
+    },
+    "title7": "Beveiliging",
+    "paragraph7": {
+      "row1": "De veiligheid van uw persoonlijke gegevens is belangrijk voor ons. ",
+      "row2": "We volgen algemeen aanvaarde normen om de persoonlijke informatie die aan ons wordt verstrekt te beschermen, zowel tijdens de verzending als zodra we deze ontvangen. "
+    },
+    "title8": "Wijzigingen in dit privacybeleid",
+    "paragraph8": {
+      "row1": "We kunnen dit privacybeleid bijwerken om wijzigingen in onze informatiepraktijken weer te geven. "
+    },
+    "title9": "Neem contact met ons op",
+    "paragraph9": {
+      "row1": "Als u vragen heeft over ons privacybeleid, kunt u contact opnemen met de klantenservice van Mffais op:",
+      "row2": "privacy@mffais.com",
+      "row3": "Mffais"
+    }
+  },
+  "termsAndConditions": {
+    "mainTitle": "Algemene voorwaarden van Mffais",
+    "title1": "Welkom",
+    "paragraph1": {
+      "row1": "Welkom op de website van Mffais!",
+      "row2": "Deze algemene voorwaarden schetsen de regels en voorschriften voor het gebruik van de website van Mffais, gelegen op onze website.",
+      "row3": "Door deze website te bezoeken, gaan we ervan uit dat u deze algemene voorwaarden accepteert. ",
+      "row4": "De volgende terminologie is van toepassing op deze Algemene Voorwaarden, Privacyverklaring en Disclaimer en alle Overeenkomsten: 'Klant', 'U' en 'Uw' verwijst naar u, de persoon die op deze website inlogt en voldoet aan de algemene voorwaarden van het Bedrijf. "
+    },
+    "title2": "Koekjes",
+    "paragraph2": {
+      "row1": "Wij maken gebruik van cookies. ",
+      "row2": "De meeste interactieve websites maken gebruik van cookies, zodat wij bij elk bezoek de gegevens van de gebruiker kunnen ophalen. "
+    },
+    "title3": "Licentie",
+    "paragraph3": {
+      "row1": "Tenzij anders vermeld, bezitten Mffais en/of haar licentiegevers de intellectuele eigendomsrechten voor al het materiaal op de Mffais-website.  ",
+      "row2": "Je moet niet:",
+      "row3": "• Materiaal van de Mffais-website opnieuw publiceren;",
+      "row4": "• Materiaal van de Mffais-website verkopen, verhuren of in sublicentie geven;",
+      "row5": "• Materiaal van de Mffais-website reproduceren, dupliceren of kopiëren;",
+      "row6": "• Inhoud van de Mffais-website opnieuw distribueren;",
+      "row7": "Deze Overeenkomst gaat in op de datum hiervan. ",
+      "row8": "Delen van deze website bieden gebruikers de mogelijkheid om op bepaalde delen van de website meningen en informatie te plaatsen en uit te wisselen. ",
+      "row9": "Mffais behoudt zich het recht voor om alle opmerkingen te controleren en alle opmerkingen te verwijderen die als ongepast of aanstootgevend kunnen worden beschouwd of die een schending van deze Algemene Voorwaarden veroorzaken.",
+      "row10": "U garandeert en vertegenwoordigt dat:",
+      "row11": "• U heeft het recht om de opmerkingen op onze website te plaatsen en u beschikt over alle benodigde licenties en toestemmingen om dit te doen;",
+      "row12": "• De opmerkingen maken geen inbreuk op enig intellectueel eigendomsrecht, inclusief maar niet beperkt tot auteursrechten, patenten of handelsmerken van derden;",
+      "row13": "• De Reacties bevatten geen lasterlijk, lasterlijk, aanstootgevend, onfatsoenlijk of anderszins onwettig materiaal dat een inbreuk op de privacy is;",
+      "row14": "• De opmerkingen zullen niet worden gebruikt om zaken of gewoontes uit te lokken of te promoten, of om commerciële activiteiten of onwettige activiteiten voor te stellen;",
+      "row15": "U verleent Mffais hierbij een niet-exclusieve licentie voor het gebruiken, reproduceren, bewerken en autoriseren van anderen om uw opmerkingen in alle vormen, formaten of media te gebruiken, reproduceren en bewerken."
+    },
+    "title4": "Hyperlinks naar onze inhoud",
+    "paragraph4": {
+      "row1": "De volgende organisaties mogen zonder voorafgaande schriftelijke toestemming naar onze website linken:",
+      "row2": "• Overheidsinstellingen;",
+      "row3": "• Zoekmachines;",
+      "row4": "• Nieuwsorganisaties;",
+      "row5": "• Distributeurs van onlinegidsen kunnen op dezelfde manier naar onze website linken als naar de websites van andere beursgenoteerde bedrijven; ",
+      "row6": "• Systeembrede geaccrediteerde bedrijven, met uitzondering van non-profitorganisaties, liefdadigheidswinkelcentra en liefdadigheidsfondsenwervende groepen die geen hyperlinks naar onze website mogen maken.",
+      "row7": "Deze organisaties kunnen linken naar onze startpagina, naar publicaties of naar andere website-informatie, zolang de link: (a) op geen enkele manier misleidend is; ",
+      "row8": "We kunnen andere linkverzoeken van de volgende soorten organisaties in overweging nemen en goedkeuren:",
+      "row9": "• algemeen bekende consumenten- en/of zakelijke informatiebronnen;",
+      "row10": "• dot.com-gemeenschapssites;",
+      "row11": "• verenigingen of andere groepen die goede doelen vertegenwoordigen;",
+      "row12": "• distributeurs van onlinegidsen;",
+      "row13": "• internetportals;",
+      "row14": "• accountants-, advocaten- en advieskantoren; ",
+      "row15": "• onderwijsinstellingen en brancheverenigingen.",
+      "row16": "We zullen linkverzoeken van deze organisaties goedkeuren als we besluiten dat: (a) de link ons ​​niet in een ongunstige positie zou brengen voor onszelf of voor onze geaccrediteerde bedrijven; ",
+      "row17": "Deze organisaties kunnen naar onze startpagina linken, zolang de link: (a) op geen enkele manier misleidend is; ",
+      "row18": "Als u een van de in paragraaf 2 hierboven genoemde organisaties bent en geïnteresseerd bent in een link naar onze website, dient u ons hiervan op de hoogte te stellen door een e-mail te sturen naar Mffais. ",
+      "row19": "Erkende organisaties kunnen als volgt een hyperlink naar onze website maken:",
+      "row20": "• Door gebruik van onze bedrijfsnaam; ",
+      "row21": "• Door gebruik te maken van de uniforme resource locator waaraan gekoppeld is; ",
+      "row22": "• Door gebruik te maken van een andere beschrijving van onze website waarnaar wordt gelinkt, die zinvol is binnen de context en het formaat van de inhoud op de site van de linkende partij.",
+      "row23": "Het gebruik van het logo of ander artwork van Mffais is niet toegestaan ​​voor koppelingen zonder een handelsmerklicentieovereenkomst."
+    },
+    "title5": "iFrames",
+    "paragraph5": {
+      "row1": "Zonder voorafgaande toestemming en schriftelijke toestemming mag u geen frames rond onze webpagina's maken die op enigerlei wijze de visuele presentatie of het uiterlijk van onze website wijzigen."
+    },
+    "title6": "Aansprakelijkheid voor inhoud",
+    "paragraph6": {
+      "row1": "Wij zijn niet verantwoordelijk voor de inhoud die op uw website verschijnt. "
+    },
+    "title7": "Uw privacy",
+    "paragraph7": {
+      "row1": "Lees ons privacybeleid"
+    },
+    "title8": "Voorbehoud van rechten",
+    "paragraph8": {
+      "row1": "Wij behouden ons het recht voor om u te verzoeken alle links of een bepaalde link naar onze Website te verwijderen. "
+    },
+    "title9": "Verwijdering van links van onze website",
+    "paragraph9": {
+      "row1": "Als u een link op onze website aantreft die om welke reden dan ook aanstootgevend is, kunt u op elk moment contact met ons opnemen en ons hiervan op de hoogte stellen. ",
+      "row2": "Wij garanderen niet dat de informatie op deze website correct is, wij garanderen de volledigheid of nauwkeurigheid ervan niet; "
+    },
+    "title10": "Vrijwaring",
+    "paragraph10": {
+      "row1": "Voor zover maximaal toegestaan ​​door de toepasselijke wetgeving, sluiten wij alle verklaringen, garanties en voorwaarden met betrekking tot onze website en het gebruik van deze website uit. ",
+      "row2": "• onze of uw aansprakelijkheid voor overlijden of persoonlijk letsel beperken of uitsluiten;",
+      "row3": "• onze of uw aansprakelijkheid voor fraude of frauduleuze verkeerde voorstelling van zaken beperken of uitsluiten;",
+      "row4": "• onze of uw aansprakelijkheid beperken op een manier die niet is toegestaan ​​onder de toepasselijke wetgeving; ",
+      "row5": "• sluit al onze of uw aansprakelijkheid uit die mogelijk niet is uitgesloten onder de toepasselijke wetgeving.",
+      "row6": "De beperkingen en verbodsbepalingen van aansprakelijkheid die in deze sectie en elders in deze disclaimer worden uiteengezet: (a) zijn onderworpen aan de voorgaande paragraaf; ",
+      "row7": "Zolang de website en de informatie en diensten op de website gratis worden aangeboden, zijn wij niet aansprakelijk voor verlies of schade van welke aard dan ook."
+    }
+  }
+}

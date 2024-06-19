@@ -1,0 +1,237 @@
+{
+  "homePage": {
+    "desc": "Mffais membantu Anda melacak arus kas dan memberikan wawasan tentang pengeluaran dan tabungan di masa depan.",
+    "cardsTitle": "Fitur",
+    "cardsDesc": "Lacak arus kas Anda dan dapatkan wawasan tentang pengeluaran dan tabungan di masa depan",
+    "card1Title": "Siapkan akun Mffais Anda",
+    "card1Desc": "Masukkan saldo bank Anda dan tambahkan semua pendapatan dan pengeluaran di masa depan.",
+    "card2Title": "Fokus pada masa depan Anda",
+    "card2Desc1": "Mffais akan menghitung arus uang masa depan Anda 365 hari sebelumnya.",
+    "card2Desc2": "Kami akan memberi tahu Anda saldo terendah dan berapa banyak uang yang akan Anda miliki setelah satu tahun.",
+    "card3Title": "Hapus transaksi Anda",
+    "card3Desc": "Setelah transaksi menghapus rekening bank Anda, pastikan untuk menghapusnya dari Mffais juga.",
+    "image1Desc1": "Mffais memberi tahu Anda berapa banyak yang harus dibelanjakan...",
+    "image1Desc2": "...atau berapa banyak yang harus ditabung agar tetap berada dalam kegelapan",
+    "image2Title": "Aliran uang",
+    "image2Desc1": "Satu tempat di mana pengguna dapat mengedit dan melakukan pembayaran",
+    "image2Desc2": "transaksi masa depan mereka - hingga satu tahun ke depan.",
+    "image2Desc3": "Transaksi yang jatuh tempo ditandai secara otomatis untuk mengurangi beban kognitif.",
+    "image3Desc": "Pemberitahuan tanggal jatuh tempo membantu Anda tetap mengetahui arus kas Anda",
+    "image4Desc": "Lacak arus kas Anda dan dapatkan wawasan tentang pengeluaran dan tabungan di masa depan."
+  },
+  "appGuide": {
+    "title": "Panduan Mffais",
+    "desc": "Untuk memastikan Anda mendapatkan hasil maksimal dari aplikasi kami, baca tips ahli kami untuk memandu Anda sepanjang prosesnya.",
+    "card1Title": "Siapkan saldo Mffais Anda",
+    "card1Desc": "Masukkan saldo bank Anda dan tambahkan semua pendapatan dan pengeluaran masa depan yang Anda ketahui.",
+    "card2Title": "Selalu perbarui saldo Anda",
+    "card2Desc": "Saat Anda menerima penghasilan, tandai sebagai diterima. ",
+    "card3Title": "Hapus transaksi Anda",
+    "card3Desc": "Hapus transaksi Anda dan bandingkan saldo Mffais Anda dengan bank Anda—untuk mengetahui biaya tersembunyi",
+    "card4Title": "Aliran uang",
+    "card4Desc": "Periksa dan edit transaksi mendatang — hingga satu tahun ke depan.",
+    "card5Title": "Video tutorial",
+    "card5Desc": "Tonton video tutorial kami untuk panduan cepat dan mudah.",
+    "feature1Chip": "Untuk Mahasiswa",
+    "feature1Title": "Sederhanakan keuangan kuliah Anda",
+    "feature1Desc": "Rencanakan dan lacak pengeluaran siswa Anda dengan mudah, mulai dari uang sekolah dan buku pelajaran hingga perlengkapan asrama dan makan di luar. ",
+    "feature1Card1Title": "Lacak pengeluaran berulang",
+    "feature1Card1Desc": "Kelola biaya signifikan seperti uang sekolah, buku pelajaran, dan sewa dengan mudah.",
+    "feature1Card2Title": "Anggaran untuk pengeluaran variabel",
+    "feature1Card2Desc": "Rencanakan makanan, hiburan, dan keadaan darurat, sesuaikan kebutuhan.",
+    "feature1Card3Title": "Kelola pinjaman mahasiswa",
+    "feature1Card3Desc": "Sebarkan pembayaran pinjaman sekaligus selama berbulan-bulan untuk menutupi pengeluaran secara efisien.",
+    "feature1Card4Title": "Pemantauan Aliran Uang",
+    "feature1Card4Desc": "Gunakan layar Arus Uang untuk memastikan Anda siap menghadapi pengeluaran mendatang.",
+    "feature1Card5Title": "Peramalan Biaya Semester",
+    "feature1Card5Desc": "Rencanakan pengeluaran semester sebelumnya dan sesuaikan dengan perubahan pendapatan.",
+    "feature1Card6Title": "Tip Pengelolaan Uang",
+    "feature1Card6Desc": "Dapatkan saran untuk menghindari kesalahan keuangan yang umum dan strategi untuk menghemat uang dengan anggaran yang ketat.",
+    "feature2Chip": "Untuk Orang dengan Banyak Pekerjaan/Pertunjukan",
+    "feature2Title": "Lacak semua aliran pendapatan Anda",
+    "feature2Desc": "Ucapkan selamat tinggal pada kerumitan mengatur beberapa spreadsheet atau aplikasi. ",
+    "feature2Card1Title": "Menyiapkan aliran pendapatan ganda",
+    "feature2Card1Desc": "Masukkan berbagai sumber pendapatan dengan frekuensi berbeda (misalnya, pertunjukan mingguan, pembayaran freelance bulanan).",
+    "feature2Card2Title": "Seimbangkan pemasukan dan pengeluaran",
+    "feature2Card2Desc": "Masukkan berbagai sumber pendapatan dengan frekuensi berbeda (misalnya, pertunjukan mingguan, pembayaran freelance bulanan).",
+    "feature2Card3Title": "Pastikan semua tagihan tercakup",
+    "feature2Card3Desc": "Masukkan berbagai sumber pendapatan dengan frekuensi berbeda (misalnya, pertunjukan mingguan, pembayaran freelance bulanan).",
+    "feature2Card4Title": "Sisihkan uang untuk pajak dan pengeluaran tidak teratur",
+    "feature2Card4Desc": "Masukkan berbagai sumber pendapatan dengan frekuensi berbeda (misalnya, pertunjukan mingguan, pembayaran freelance bulanan).",
+    "feature2Card5Title": "Sesuaikan dengan variabilitas arus kas",
+    "feature2Card5Desc": "Strategi untuk stabilitas keuangan",
+    "feature2Card6Title": "Strategi untuk stabilitas keuangan",
+    "feature2Card6Desc": "Masukkan berbagai sumber pendapatan dengan frekuensi berbeda (misalnya, pertunjukan mingguan, pembayaran freelance bulanan)."
+  },
+  "subFooter": {
+    "giveItATry": "Cobalah",
+    "haveAnyQuestions": "Ada pertanyaan?",
+    "buttonText": "Hubungi dukungan"
+  },
+  "headerAndFooter": {
+    "features": "Fitur",
+    "moneyFlow": "Aliran uang",
+    "privacyPolicy": "Kebijakan pribadi",
+    "termsAndConditions": "Syarat dan Ketentuan"
+  },
+  "privacyPolicy": {
+    "mainTitle": "Syarat dan Ketentuan Mffais",
+    "title1": "Kebijakan Privasi Master Mffais",
+    "paragraph1": {
+      "row1": "Kebijakan Privasi ini menetapkan bagaimana informasi pribadi dikumpulkan dan digunakan, yang disediakan di situs Web Internet yang terletak di www.acorns.com (“Situs”) dan aplikasi seluler kami (secara kolektif disebut “Mffais”). ",
+      "row2": "Mffais berkomitmen untuk menjaga kerahasiaan, integritas, dan keamanan informasi pribadi apa pun tentang pengguna kami. ",
+      "row3": "Mffais menekankan standar privasi dan keamanannya untuk mencegah pencurian identitas dan memberikan keamanan untuk informasi pribadi Anda. "
+    },
+    "title2": "Informasi Pribadi yang Dikumpulkan",
+    "paragraph2": {
+      "row1": "Kami mengumpulkan informasi pribadi berikut dari Anda:",
+      "row2": "informasi kontak seperti nama, alamat email, alamat surat, nomor telepon;",
+      "row3": "informasi penagihan seperti nomor kartu kredit, dan alamat penagihan;",
+      "row4": "informasi keuangan seperti nomor rekening bank atau pialang, jenis investasi;",
+      "row5": "Nomor KTP;",
+      "row6": "nomor SIM;",
+      "row7": "pengidentifikasi unik seperti nama pengguna, nomor akun, kata sandi;",
+      "row8": "informasi preferensi seperti daftar keinginan produk, riwayat pesanan, dan preferensi pemasaran; ",
+      "row9": "informasi demografis seperti usia, pendidikan, jenis kelamin, minat, dan kode pos.",
+      "row10": "Saat Anda mengunjungi Situs atau mengunduh dan menggunakan Layanan kami, kami dapat secara otomatis mengumpulkan informasi tertentu yang dikirimkan kepada kami melalui komputer, perangkat seluler, atau perangkat lainnya. "
+    },
+    "title3": "Penggunaan dan Pembagian Informasi",
+    "paragraph3": {
+      "row1": "Mffais menggunakan dan mengungkapkan informasi pribadi Anda hanya sebagai berikut:",
+      "row2": "untuk menganalisis penggunaan situs dan meningkatkan Layanan;",
+      "row3": "untuk mengirimkan kepada Anda segala pemberitahuan administratif, peringatan uang, dan komunikasi yang relevan dengan penggunaan Layanan oleh Anda;",
+      "row4": "untuk memenuhi permintaan Anda terhadap produk dan layanan tertentu;",
+      "row5": "untuk riset pasar, perencanaan proyek, pemecahan masalah, dan deteksi serta perlindungan terhadap kesalahan, penipuan, atau aktivitas kriminal lainnya;",
+      "row6": "kepada kontraktor pihak ketiga yang memberikan layanan kepada Mffais dan terikat oleh batasan privasi yang sama;",
+      "row7": "untuk menegakkan Ketentuan Penggunaan Mffais; ",
+      "row8": "Apabila Anda mengakses Layanan yang diberikan oleh salah satu mitra merek bersama kami, melalui URL merek bersama, alamat email Anda yang digunakan untuk pendaftaran Layanan dapat diberikan kepada mitra merek bersama tersebut.",
+      "row9": "Selain itu, kami dapat, dari waktu ke waktu, menawarkan promosi dengan berbagai bisnis, situs web, aplikasi seluler, atau pihak ketiga, yang mungkin mencakup peluang bagi Anda untuk mendapatkan deposit di akun Mffais Anda. ",
+      "row10": "Kami mungkin menggunakan informasi yang Anda berikan untuk menghubungkan Anda dengan orang-orang yang mungkin sudah Anda kenal. ",
+      "row11": "Kami juga dapat mengungkapkan informasi pribadi Anda sebagaimana diwajibkan oleh hukum, seperti untuk mematuhi panggilan pengadilan, atau proses hukum serupa dan ketika kami yakin dengan itikad baik bahwa pengungkapan tersebut diperlukan untuk melindungi hak-hak kami, melindungi keselamatan Anda atau keselamatan orang lain, selidiki ",
+      "row12": "Jika Mffais Incorporated terlibat dalam merger, akuisisi, atau penjualan seluruh atau sebagian asetnya, Anda akan diberitahu melalui email dan/atau pemberitahuan penting di Situs kami tentang perubahan kepemilikan atau penggunaan informasi pribadi Anda, sebagai "
+    },
+    "title4": "Akses dan Pilihan Pengguna",
+    "paragraph4": {
+      "row1": "Jika informasi pribadi yang tercatat untuk Anda berubah, atau jika Anda tidak lagi menginginkan layanan kami, Anda dapat memperbaiki atau memperbaruinya dengan melakukan perubahan di halaman informasi pelanggan kami atau dengan mengirim email ke Layanan Pelanggan Acorns.",
+      "row2": "Kami akan menyimpan dan menggunakan informasi Anda sebagaimana diperlukan untuk mematuhi kewajiban hukum dan/atau peraturan kami, menyelesaikan perselisihan, dan menegakkan perjanjian kami.",
+      "row3": "Jika Anda ingin berlangganan buletin kami, kami akan menggunakan nama dan alamat email Anda untuk mengirimkan buletin kepada Anda. "
+    },
+    "title5": "Cookies / Teknologi Pelacakan",
+    "paragraph5": {
+      "row1": "Cookie adalah file teks kecil yang disimpan di komputer pengguna untuk tujuan pencatatan. ",
+      "row2": "Kami menggunakan cookie ID sesi dan cookie persisten. ",
+      "row3": "Jika Anda menolak cookie, Anda masih dapat menggunakan Situs, namun kemampuan Anda untuk menggunakan beberapa area Situs, seperti kontes atau survei, mungkin terbatas.",
+      "row4": "Penggunaan cookie oleh mitra, afiliasi, perusahaan utilitas pelacakan, dan/atau penyedia layanan kami tidak tercakup dalam Kebijakan Privasi kami. ",
+      "row5": "Kami menggunakan (dan/atau mitra periklanan pihak ketiga kami menggunakan) teknologi perangkat lunak yang disebut clear gif (terkadang dikenal sebagai web beacon atau bug web), yang membantu kami mengelola konten di Situs dengan lebih baik dengan memberi tahu kami konten apa yang efektif. "
+    },
+    "title6": "Pemberitahuan Tentang Jangan Lacak",
+    "paragraph6": {
+      "row1": "Jangan Lacak (“DNT”) adalah preferensi privasi yang dapat diatur pengguna di browser web tertentu. "
+    },
+    "title7": "Keamanan",
+    "paragraph7": {
+      "row1": "Keamanan informasi pribadi Anda penting bagi kami. ",
+      "row2": "Kami mengikuti standar yang diterima secara umum untuk melindungi informasi pribadi yang dikirimkan kepada kami, baik selama transmisi maupun setelah kami menerimanya. "
+    },
+    "title8": "Perubahan pada Kebijakan Privasi ini",
+    "paragraph8": {
+      "row1": "Kami dapat memperbarui kebijakan privasi ini untuk mencerminkan perubahan pada praktik informasi kami. "
+    },
+    "title9": "Hubungi kami",
+    "paragraph9": {
+      "row1": "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi kami, silakan menghubungi Layanan Pelanggan Mffais di:",
+      "row2": "privasi@mffais.com",
+      "row3": "Mffais"
+    }
+  },
+  "termsAndConditions": {
+    "mainTitle": "Syarat dan Ketentuan Mffais",
+    "title1": "Selamat datang",
+    "paragraph1": {
+      "row1": "Selamat datang di Situs Web Mffais!",
+      "row2": "Syarat dan ketentuan ini menguraikan peraturan dan ketentuan penggunaan Situs Web Mffais, yang terdapat di situs web kami.",
+      "row3": "Dengan mengakses situs ini kami menganggap Anda menerima syarat dan ketentuan ini. ",
+      "row4": "Terminologi berikut ini berlaku untuk Syarat dan Ketentuan ini, Pernyataan Privasi dan Pemberitahuan Penafian serta seluruh Perjanjian: 'Klien', 'Anda' dan 'Milik Anda' mengacu pada Anda, orang yang masuk ke situs web ini dan mematuhi syarat dan ketentuan Perusahaan. "
+    },
+    "title2": "Kue",
+    "paragraph2": {
+      "row1": "Kami menggunakan penggunaan cookie. ",
+      "row2": "Sebagian besar situs web interaktif menggunakan cookie agar kami dapat mengambil detail pengguna untuk setiap kunjungan. "
+    },
+    "title3": "Lisensi",
+    "paragraph3": {
+      "row1": "Kecuali dinyatakan sebaliknya, Mffais dan/atau pemberi lisensinya memiliki hak kekayaan intelektual untuk semua materi di Situs Web Mffais.  ",
+      "row2": "Anda tidak harus:",
+      "row3": "• Menerbitkan ulang materi dari Situs Mffais;",
+      "row4": "• Menjual, menyewakan, atau mensub-lisensikan materi dari Situs Mffais;",
+      "row5": "• Mereproduksi, menggandakan atau menyalin materi dari Situs Mffais;",
+      "row6": "• Mendistribusikan ulang konten dari Situs Mffais;",
+      "row7": "Perjanjian ini akan dimulai pada tanggal perjanjian ini. ",
+      "row8": "Bagian dari situs web ini menawarkan kesempatan bagi pengguna untuk memposting dan bertukar pendapat dan informasi di area tertentu di situs web. ",
+      "row9": "Mffais berhak memantau semua Komentar dan menghapus Komentar apa pun yang dianggap tidak pantas, menyinggung, atau menyebabkan pelanggaran terhadap Syarat dan Ketentuan ini.",
+      "row10": "Anda menjamin dan menyatakan bahwa:",
+      "row11": "• Anda berhak memposting Komentar di situs web kami dan memiliki semua lisensi dan persetujuan yang diperlukan untuk melakukannya;",
+      "row12": "• Komentar tidak melanggar hak kekayaan intelektual apa pun, termasuk namun tidak terbatas pada hak cipta, paten, atau merek dagang pihak ketiga mana pun;",
+      "row13": "• Komentar tidak mengandung materi yang memfitnah, memfitnah, menyinggung, tidak senonoh, atau melanggar hukum yang merupakan pelanggaran privasi;",
+      "row14": "• Komentar tidak akan digunakan untuk meminta atau mempromosikan bisnis atau kebiasaan atau menampilkan aktivitas komersial atau aktivitas yang melanggar hukum;",
+      "row15": "Anda dengan ini memberi Mffais lisensi non-eksklusif untuk menggunakan, mereproduksi, mengedit, dan mengizinkan orang lain untuk menggunakan, mereproduksi, dan mengedit Komentar Anda dalam segala bentuk, format, atau media"
+    },
+    "title4": "Hyperlink ke Konten kami",
+    "paragraph4": {
+      "row1": "Organisasi berikut dapat membuat tautan ke Situs Web kami tanpa persetujuan tertulis sebelumnya:",
+      "row2": "• Agensi pemerintahan;",
+      "row3": "• Mesin pencari;",
+      "row4": "• Organisasi berita;",
+      "row5": "• Distributor direktori online dapat membuat tautan ke Situs Web kami dengan cara yang sama seperti mereka melakukan hyperlink ke Situs Web perusahaan terdaftar lainnya; ",
+      "row6": "• Bisnis Terakreditasi di seluruh sistem kecuali yang menghimpun organisasi nirlaba, pusat perbelanjaan amal, dan kelompok penggalangan dana amal yang mungkin tidak memiliki hyperlink ke situs Web kami.",
+      "row7": "Organisasi-organisasi ini boleh membuat tautan ke laman beranda kami, ke publikasi, atau ke informasi Situs Web lainnya selama tautan tersebut: (a) sama sekali tidak menipu; ",
+      "row8": "Kami dapat mempertimbangkan dan menyetujui permintaan tautan lain dari jenis organisasi berikut:",
+      "row9": "• sumber informasi konsumen dan/atau bisnis yang umum diketahui;",
+      "row10": "• situs komunitas dot.com;",
+      "row11": "• asosiasi atau kelompok lain yang mewakili badan amal;",
+      "row12": "• distributor direktori online;",
+      "row13": "• portal internet;",
+      "row14": "• firma akuntansi, hukum dan konsultan; ",
+      "row15": "• lembaga pendidikan dan asosiasi perdagangan.",
+      "row16": "Kami akan menyetujui permintaan tautan dari organisasi-organisasi ini jika kami memutuskan bahwa: (a) tautan tersebut tidak akan membuat kami terlihat merugikan diri sendiri atau bisnis terakreditasi kami; ",
+      "row17": "Organisasi-organisasi ini boleh membuat tautan ke laman beranda kami selama tautan tersebut: (a) sama sekali tidak menipu; ",
+      "row18": "Jika Anda adalah salah satu organisasi yang tercantum dalam paragraf 2 di atas dan tertarik untuk membuat tautan ke situs web kami, Anda harus memberi tahu kami dengan mengirimkan email ke Mffais. ",
+      "row19": "Organisasi yang disetujui dapat membuat hyperlink ke Situs Web kami sebagai berikut:",
+      "row20": "• Dengan menggunakan nama perusahaan kami; ",
+      "row21": "• Dengan menggunakan pencari sumber daya seragam yang dihubungkan; ",
+      "row22": "• Dengan menggunakan deskripsi lain apa pun tentang Situs Web kami yang ditautkan, yang masuk akal dalam konteks dan format konten di situs pihak yang menautkan.",
+      "row23": "Penggunaan logo Mffais atau karya seni lainnya tidak diperbolehkan untuk menghubungkan jika tidak ada perjanjian lisensi merek dagang."
+    },
+    "title5": "iFrame",
+    "paragraph5": {
+      "row1": "Tanpa persetujuan sebelumnya dan izin tertulis, Anda tidak boleh membuat bingkai di sekitar Halaman Web kami yang mengubah presentasi visual atau tampilan Situs Web kami dengan cara apa pun."
+    },
+    "title6": "Tanggung Jawab Konten",
+    "paragraph6": {
+      "row1": "Kami tidak bertanggung jawab atas konten apa pun yang muncul di Situs Web Anda. "
+    },
+    "title7": "Privasi Anda",
+    "paragraph7": {
+      "row1": "Silakan baca Kebijakan Privasi kami"
+    },
+    "title8": "Reservasi Hak",
+    "paragraph8": {
+      "row1": "Kami berhak meminta Anda menghapus semua tautan atau tautan tertentu apa pun ke Situs Web kami. "
+    },
+    "title9": "Penghapusan tautan dari situs web kami",
+    "paragraph9": {
+      "row1": "Jika Anda menemukan tautan apa pun di Situs Web kami yang menyinggung karena alasan apa pun, Anda bebas menghubungi dan memberi tahu kami kapan saja. ",
+      "row2": "Kami tidak memastikan bahwa informasi di situs ini benar, kami tidak menjamin kelengkapan atau keakuratannya; "
+    },
+    "title10": "Penafian",
+    "paragraph10": {
+      "row1": "Sejauh diizinkan oleh hukum yang berlaku, kami mengecualikan semua pernyataan, jaminan, dan ketentuan yang berkaitan dengan situs web kami dan penggunaan situs web ini. ",
+      "row2": "• membatasi atau mengecualikan tanggung jawab kami atau Anda atas kematian atau cedera pribadi;",
+      "row3": "• membatasi atau mengecualikan tanggung jawab kami atau Anda atas penipuan atau pernyataan keliru yang bersifat menipu;",
+      "row4": "• membatasi tanggung jawab kami atau Anda dengan cara apa pun yang tidak diizinkan berdasarkan hukum yang berlaku; ",
+      "row5": "• mengecualikan tanggung jawab kami atau Anda yang mungkin tidak dikecualikan berdasarkan hukum yang berlaku.",
+      "row6": "Pembatasan dan larangan tanggung jawab yang diatur dalam Bagian ini dan bagian lain dalam penafian ini: (a) tunduk pada paragraf sebelumnya; ",
+      "row7": "Selama situs web dan informasi serta layanan di situs web disediakan secara gratis, kami tidak bertanggung jawab atas segala kehilangan atau kerusakan dalam bentuk apa pun."
+    }
+  }
+}

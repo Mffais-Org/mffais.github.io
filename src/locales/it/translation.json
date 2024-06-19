@@ -1,0 +1,237 @@
+{
+  "homePage": {
+    "desc": "Mffais ti aiuta a tenere traccia del flusso di cassa e fornisce informazioni sulle spese e sui risparmi futuri.",
+    "cardsTitle": "Caratteristiche",
+    "cardsDesc": "Tieni traccia del tuo flusso di cassa e ottieni informazioni sulle spese e sui risparmi futuri",
+    "card1Title": "Imposta il tuo account Mffais",
+    "card1Desc": "Inserisci il tuo saldo bancario e aggiungi tutte le entrate e le spese future.",
+    "card2Title": "Concentrati sul tuo futuro",
+    "card2Desc1": "Mffais calcolerà il tuo futuro flusso di denaro con 365 giorni di anticipo.",
+    "card2Desc2": "Ti diremo il tuo saldo più basso e quanti soldi avrai dopo un anno.",
+    "card3Title": "Cancella le tue transazioni",
+    "card3Desc": "Dopo che le transazioni hanno cancellato il tuo conto bancario, assicurati di cancellarle anche da Mffais.",
+    "image1Desc1": "Mffais ti dice quanto spendere...",
+    "image1Desc2": "...o quanto risparmiare per restare in attivo",
+    "image2Title": "Flusso di denaro",
+    "image2Desc1": "Un unico posto in cui gli utenti possono modificare ed effettuare il checkout",
+    "image2Desc2": "le loro transazioni future - fino a un anno nel futuro.",
+    "image2Desc3": "Le transazioni dovute vengono contrassegnate automaticamente per ridurre il carico cognitivo.",
+    "image3Desc": "Le notifiche delle date di scadenza ti aiutano a tenere sotto controllo il tuo flusso di cassa",
+    "image4Desc": "Tieni traccia del tuo flusso di cassa e ottieni informazioni sulle spese e sui risparmi futuri."
+  },
+  "appGuide": {
+    "title": "Guida Mffais",
+    "desc": "Per assicurarti di ottenere il massimo dalla nostra app, leggi i consigli degli esperti per guidarti lungo il percorso.",
+    "card1Title": "Imposta il tuo saldo Mffais",
+    "card1Desc": "Inserisci il tuo saldo bancario e aggiungi tutte le entrate e le spese future di cui sei a conoscenza.",
+    "card2Title": "Mantieni aggiornato il tuo saldo",
+    "card2Desc": "Quando ricevi un reddito, contrassegnalo come ricevuto. ",
+    "card3Title": "Cancella le tue transazioni",
+    "card3Desc": "Cancella le tue transazioni e confronta il tuo saldo Mffais con quello della tua banca, per individuare i costi nascosti",
+    "card4Title": "Flusso di denaro",
+    "card4Desc": "Controlla e modifica le transazioni future, fino a un anno nel futuro.",
+    "card5Title": "Esercitazione video",
+    "card5Desc": "Guarda il nostro video tutorial per una procedura dettagliata semplice e veloce.",
+    "feature1Chip": "Per studenti universitari",
+    "feature1Title": "Semplifica le finanze del tuo college",
+    "feature1Desc": "Pianifica e monitora facilmente le spese degli studenti, dalle tasse scolastiche ai libri di testo, alle forniture per il dormitorio e ai pasti fuori. ",
+    "feature1Card1Title": "Tieni traccia delle spese ricorrenti",
+    "feature1Card1Desc": "Gestisci con facilità costi significativi come tasse scolastiche, libri di testo e affitto.",
+    "feature1Card2Title": "Budget per le spese variabili",
+    "feature1Card2Desc": "Pianificare il cibo, l'intrattenimento e le emergenze, adattandosi secondo necessità.",
+    "feature1Card3Title": "Gestire i prestiti agli studenti",
+    "feature1Card3Desc": "Distribuisci i pagamenti del prestito in un'unica soluzione nel corso dei mesi per coprire le spese in modo efficiente.",
+    "feature1Card4Title": "Monitoraggio del flusso di denaro",
+    "feature1Card4Desc": "Utilizza la schermata Flusso di denaro per assicurarti di essere preparato per le spese imminenti.",
+    "feature1Card5Title": "Previsioni delle spese del semestre",
+    "feature1Card5Desc": "Pianificare in anticipo le spese del semestre e adeguarsi alle variazioni di reddito.",
+    "feature1Card6Title": "Suggerimenti per la gestione del denaro",
+    "feature1Card6Desc": "Ricevi consigli su come evitare le trappole finanziarie più comuni e strategie per risparmiare denaro con un budget limitato.",
+    "feature2Chip": "Per persone con più lavori/concerti",
+    "feature2Title": "Tieni traccia di tutti i tuoi flussi di reddito",
+    "feature2Desc": "Dì addio al fastidio di destreggiarsi tra più fogli di calcolo o app. ",
+    "feature2Card1Title": "Creazione di flussi di reddito multipli",
+    "feature2Card1Desc": "Inserisci varie fonti di reddito con frequenze diverse (ad esempio, concerti settimanali, pagamenti mensili da freelance).",
+    "feature2Card2Title": "Bilanciare entrate e uscite",
+    "feature2Card2Desc": "Inserisci varie fonti di reddito con frequenze diverse (ad esempio, concerti settimanali, pagamenti mensili da freelance).",
+    "feature2Card3Title": "Assicurati che tutte le fatture siano coperte",
+    "feature2Card3Desc": "Inserisci varie fonti di reddito con frequenze diverse (ad esempio, concerti settimanali, pagamenti mensili da freelance).",
+    "feature2Card4Title": "Metti da parte i soldi per le tasse e le spese irregolari",
+    "feature2Card4Desc": "Inserisci varie fonti di reddito con frequenze diverse (ad esempio, concerti settimanali, pagamenti mensili da freelance).",
+    "feature2Card5Title": "Adeguare la variabilità del flusso di cassa",
+    "feature2Card5Desc": "Strategie per la stabilità finanziaria",
+    "feature2Card6Title": "Strategie per la stabilità finanziaria",
+    "feature2Card6Desc": "Inserisci varie fonti di reddito con frequenze diverse (ad esempio, concerti settimanali, pagamenti mensili da freelance)."
+  },
+  "subFooter": {
+    "giveItATry": "Provaci",
+    "haveAnyQuestions": "Hai qualche domanda?",
+    "buttonText": "Contatta il supporto"
+  },
+  "headerAndFooter": {
+    "features": "Caratteristiche",
+    "moneyFlow": "Flusso di denaro",
+    "privacyPolicy": "politica sulla riservatezza",
+    "termsAndConditions": "Termini e Condizioni"
+  },
+  "privacyPolicy": {
+    "mainTitle": "Termini e condizioni di Mffais",
+    "title1": "Informativa sulla privacy di Mffais Master",
+    "paragraph1": {
+      "row1": "La presente Informativa sulla privacy stabilisce le modalità di raccolta e utilizzo delle informazioni personali fornite sul sito Web Internet all'indirizzo www.acorns.com (il \"Sito\") e sulla nostra applicazione mobile (collettivamente, \"Mffais\"). ",
+      "row2": "Mffais si impegna a mantenere la riservatezza, l'integrità e la sicurezza di tutte le informazioni personali sui nostri utenti. ",
+      "row3": "Mffais sottolinea i suoi standard di privacy e sicurezza per proteggersi dal furto di identità e garantire la sicurezza delle tue informazioni personali. "
+    },
+    "title2": "Informazioni personali raccolte",
+    "paragraph2": {
+      "row1": "Raccogliamo le seguenti informazioni personali da te:",
+      "row2": "informazioni di contatto come nome, indirizzo e-mail, indirizzo postale, numero di telefono;",
+      "row3": "informazioni di fatturazione come numero di carta di credito e indirizzo di fatturazione;",
+      "row4": "informazioni finanziarie come numeri di conti bancari o di intermediazione, tipologie di investimenti;",
+      "row5": "Numero di Social Security;",
+      "row6": "numero di patente;",
+      "row7": "identificatori univoci come nome utente, numero di conto, password;",
+      "row8": "informazioni sulle preferenze come liste dei desideri dei prodotti, cronologia degli ordini e preferenze di marketing; ",
+      "row9": "informazioni demografiche come età, istruzione, sesso, interessi e codice postale.",
+      "row10": "Quando visiti il ​​Sito o scarichi e utilizzi i nostri Servizi, potremmo raccogliere automaticamente alcune informazioni inviateci dal tuo computer, dispositivo mobile o qualsiasi altro dispositivo. "
+    },
+    "title3": "Utilizzo e condivisione delle informazioni",
+    "paragraph3": {
+      "row1": "Mffais utilizza e divulga le tue informazioni personali solo come segue:",
+      "row2": "analizzare l'utilizzo del sito e migliorare il Servizio;",
+      "row3": "per fornirti eventuali avvisi amministrativi, avvisi di denaro e comunicazioni pertinenti al tuo utilizzo del Servizio;",
+      "row4": "per soddisfare le vostre richieste per determinati prodotti e servizi;",
+      "row5": "per ricerche di mercato, pianificazione di progetti, risoluzione di problemi e rilevamento e protezione da errori, frodi o altre attività criminali;",
+      "row6": "ad appaltatori terzi che forniscono servizi a Mffais e sono vincolati dalle stesse restrizioni sulla privacy;",
+      "row7": "per far rispettare i Termini di utilizzo di Mffais; ",
+      "row8": "Nel caso in cui accedi al Servizio offerto da uno dei nostri partner co-brand, tramite un URL co-brand, il tuo indirizzo email utilizzato per la registrazione al Servizio potrebbe essere fornito a quel partner co-brand.",
+      "row9": "Inoltre, potremmo, di tanto in tanto, offrire promozioni con varie aziende, siti Web, applicazioni mobili o terze parti, che potrebbero includere opportunità per guadagnare depositi sul tuo conto Mffais. ",
+      "row10": "Potremmo utilizzare le informazioni fornite per metterti in contatto con persone che potresti già conoscere. ",
+      "row11": "Potremmo anche divulgare le tue informazioni personali come richiesto dalla legge, ad esempio per ottemperare a un mandato di comparizione o a un procedimento legale simile e quando riteniamo in buona fede che la divulgazione sia necessaria per proteggere i nostri diritti, proteggere la tua sicurezza o quella di altri, indagare ",
+      "row12": "Se Mffais Incorporated è coinvolta in una fusione, acquisizione o vendita di tutto o di una parte dei suoi beni, verrai avvisato via e-mail e/o un avviso ben visibile sul nostro Sito di qualsiasi cambiamento di proprietà o utilizzo delle tue informazioni personali, come "
+    },
+    "title4": "Accesso e scelta dell'utente",
+    "paragraph4": {
+      "row1": "Se le informazioni personali archiviate per te cambiano, o se non desideri più il nostro servizio, puoi correggerle o aggiornarle apportando la modifica sulla nostra pagina delle informazioni sul cliente o inviando un'e-mail al servizio clienti Acorns.",
+      "row2": "Conserveremo e utilizzeremo le tue informazioni secondo necessità per rispettare i nostri obblighi legali e/o normativi, risolvere controversie e far rispettare i nostri accordi.",
+      "row3": "Se desideri iscriverti alle nostre newsletter, utilizzeremo il tuo nome e indirizzo email per inviarti la newsletter. "
+    },
+    "title5": "Cookie/Tecnologie di tracciamento",
+    "paragraph5": {
+      "row1": "Un cookie è un piccolo file di testo che viene memorizzato sul computer di un utente per scopi di archiviazione. ",
+      "row2": "Utilizziamo sia cookie ID di sessione che cookie persistenti. ",
+      "row3": "Se rifiuti i cookie, potrai comunque utilizzare il Sito, ma la tua capacità di utilizzare alcune aree del Sito, come concorsi o sondaggi, potrebbe essere limitata.",
+      "row4": "L'utilizzo dei cookie da parte dei nostri partner, affiliati, società di servizi di tracciamento e/o fornitori di servizi non è coperto dalla nostra Informativa sulla privacy. ",
+      "row5": "Utilizziamo (e/o il nostro partner pubblicitario di terze parti impiega) una tecnologia software chiamata clear gif (a volte nota come web beacon o web bug), che ci aiuta a gestire meglio i contenuti del Sito informandoci quali contenuti sono efficaci. "
+    },
+    "title6": "Avviso relativo al non tracciamento",
+    "paragraph6": {
+      "row1": "Do Not Track (“DNT”) è una preferenza sulla privacy che gli utenti possono impostare in determinati browser web. "
+    },
+    "title7": "Sicurezza",
+    "paragraph7": {
+      "row1": "La sicurezza delle tue informazioni personali è importante per noi. ",
+      "row2": "Seguiamo gli standard generalmente accettati per proteggere le informazioni personali che ci vengono inviate, sia durante la trasmissione che una volta ricevute. "
+    },
+    "title8": "Modifiche alla presente Informativa sulla privacy",
+    "paragraph8": {
+      "row1": "Potremmo aggiornare la presente informativa sulla privacy per riflettere le modifiche alle nostre pratiche informative. "
+    },
+    "title9": "Contattaci",
+    "paragraph9": {
+      "row1": "In caso di domande sulla nostra Informativa sulla privacy, contattare il Servizio clienti Mffais all'indirizzo:",
+      "row2": "privacy@mffais.com",
+      "row3": "Mffais"
+    }
+  },
+  "termsAndConditions": {
+    "mainTitle": "Termini e condizioni di Mffais",
+    "title1": "Benvenuto",
+    "paragraph1": {
+      "row1": "Benvenuti nel sito web di Mffais!",
+      "row2": "Questi termini e condizioni delineano le regole e i regolamenti per l'utilizzo del sito Web di Mffais, situato sul nostro sito Web.",
+      "row3": "Accedendo a questo sito Web assumiamo che accetti questi termini e condizioni. ",
+      "row4": "La seguente terminologia si applica ai presenti Termini e condizioni, Informativa sulla privacy, Dichiarazione di esclusione della responsabilità e a tutti gli Accordi: \"Cliente\", \"Tu\" e \"Tuo\" si riferiscono a te, la persona che accede a questo sito Web e conforme ai termini e alle condizioni della Società. "
+    },
+    "title2": "Biscotti",
+    "paragraph2": {
+      "row1": "Utilizziamo i cookie. ",
+      "row2": "La maggior parte dei siti Web interattivi utilizza i cookie per consentirci di recuperare i dettagli dell'utente ad ogni visita. "
+    },
+    "title3": "Licenza",
+    "paragraph3": {
+      "row1": "Salvo diversa indicazione, Mffais e/o i suoi licenziatari possiedono i diritti di proprietà intellettuale per tutto il materiale sul sito web Mffais.  ",
+      "row2": "Non devi:",
+      "row3": "• Ripubblicare materiale dal sito web di Mffais;",
+      "row4": "• Vendere, affittare o concedere in sublicenza materiale dal sito web di Mffais;",
+      "row5": "• Riprodurre, duplicare o copiare materiale dal sito web di Mffais;",
+      "row6": "• Ridistribuire i contenuti dal sito web di Mffais;",
+      "row7": "Il presente Contratto avrà inizio a partire dalla data odierna. ",
+      "row8": "Parti di questo sito web offrono agli utenti l'opportunità di pubblicare e scambiare opinioni e informazioni in determinate aree del sito web. ",
+      "row9": "Mffais si riserva il diritto di monitorare tutti i Commenti e di rimuovere eventuali Commenti che possono essere considerati inappropriati, offensivi o che causano violazione dei presenti Termini e Condizioni.",
+      "row10": "Garantisci e dichiari che:",
+      "row11": "• Hai il diritto di pubblicare Commenti sul nostro sito web e disponi di tutte le licenze e i consensi necessari per farlo;",
+      "row12": "• I Commenti non invadono alcun diritto di proprietà intellettuale, inclusi, senza limitazione, copyright, brevetti o marchi di terzi;",
+      "row13": "• I Commenti non contengono materiale diffamatorio, calunnioso, offensivo, indecente o comunque illegale che costituisca un'invasione della privacy;",
+      "row14": "• I Commenti non verranno utilizzati per sollecitare o promuovere affari o consuetudini o presentare attività commerciali o attività illecite;",
+      "row15": "Con la presente concedi a Mffais una licenza non esclusiva per utilizzare, riprodurre, modificare e autorizzare altri a utilizzare, riprodurre e modificare qualsiasi tuo commento in qualsiasi forma, formato o supporto"
+    },
+    "title4": "Collegamenti ipertestuali ai nostri contenuti",
+    "paragraph4": {
+      "row1": "Le seguenti organizzazioni possono collegarsi al nostro sito Web senza previa approvazione scritta:",
+      "row2": "• Agenzie governative;",
+      "row3": "• Motori di ricerca;",
+      "row4": "• Testate giornalistiche;",
+      "row5": "• I distributori di elenchi in linea possono collegarsi al nostro sito Web nello stesso modo in cui si collegano ai siti Web di altre aziende elencate; ",
+      "row6": "• Aziende accreditate a livello di sistema, ad eccezione della sollecitazione di organizzazioni no-profit, centri commerciali di beneficenza e gruppi di raccolta fondi di beneficenza che potrebbero non avere collegamenti ipertestuali al nostro sito Web.",
+      "row7": "Queste organizzazioni possono collegarsi alla nostra home page, a pubblicazioni o ad altre informazioni sul sito Web purché il collegamento: (a) non sia in alcun modo ingannevole; ",
+      "row8": "Potremmo prendere in considerazione e approvare altre richieste di collegamento dai seguenti tipi di organizzazioni:",
+      "row9": "• fonti di informazione comunemente note sui consumatori e/o sulle imprese;",
+      "row10": "• siti di comunità dot.com;",
+      "row11": "• associazioni o altri gruppi rappresentativi di enti di beneficenza;",
+      "row12": "• distributori di elenchi on-line;",
+      "row13": "• portali internet;",
+      "row14": "• studi contabili, legali e di consulenza; ",
+      "row15": "• istituti scolastici e associazioni di categoria.",
+      "row16": "Approveremo le richieste di collegamento da parte di queste organizzazioni se decidiamo che: (a) il collegamento non ci farà apparire sfavorevole a noi stessi o alle nostre aziende accreditate; ",
+      "row17": "Queste organizzazioni possono collegarsi alla nostra home page purché il collegamento: (a) non sia in alcun modo ingannevole; ",
+      "row18": "Se sei una delle organizzazioni elencate nel paragrafo 2 sopra e sei interessato a collegarti al nostro sito web, devi informarci inviando un'e-mail a Mffais. ",
+      "row19": "Le organizzazioni approvate possono collegarsi tramite collegamento ipertestuale al nostro sito Web come segue:",
+      "row20": "• Utilizzando la nostra ragione sociale; ",
+      "row21": "• Utilizzando l'Uniform Resource Locator al quale si è collegati; ",
+      "row22": "• Utilizzando qualsiasi altra descrizione del nostro sito Web a cui è collegato che abbia senso nel contesto e nel formato dei contenuti sul sito della parte che collega.",
+      "row23": "Nessun utilizzo del logo di Mffais o di altre opere d'arte sarà consentito per il collegamento in assenza di un accordo di licenza del marchio."
+    },
+    "title5": "iFrame",
+    "paragraph5": {
+      "row1": "Senza previa approvazione e permesso scritto, non è possibile creare frame attorno alle nostre pagine Web che alterino in alcun modo la presentazione visiva o l'aspetto del nostro sito Web."
+    },
+    "title6": "Responsabilità sui contenuti",
+    "paragraph6": {
+      "row1": "Non saremo ritenuti responsabili per qualsiasi contenuto che appare sul tuo sito web. "
+    },
+    "title7": "La tua privacy",
+    "paragraph7": {
+      "row1": "Si prega di leggere la nostra informativa sulla privacy"
+    },
+    "title8": "Riserva dei diritti",
+    "paragraph8": {
+      "row1": "Ci riserviamo il diritto di richiedere la rimozione di tutti i collegamenti o di qualsiasi collegamento particolare al nostro sito Web. "
+    },
+    "title9": "Rimozione di collegamenti dal nostro sito Web",
+    "paragraph9": {
+      "row1": "Se trovi qualche link sul nostro Sito che sia offensivo per qualsiasi motivo, sei libero di contattarci e informarci in qualsiasi momento. ",
+      "row2": "Non garantiamo che le informazioni presenti su questo sito siano corrette, non ne garantiamo la completezza o l'accuratezza; "
+    },
+    "title10": "Disclaimer",
+    "paragraph10": {
+      "row1": "Nella misura massima consentita dalla legge applicabile, escludiamo tutte le dichiarazioni, garanzie e condizioni relative al nostro sito Web e all'utilizzo di questo sito Web. ",
+      "row2": "• limitare o escludere la nostra o la vostra responsabilità per morte o lesioni personali;",
+      "row3": "• limitare o escludere la nostra o la vostra responsabilità per frode o dichiarazione fraudolenta;",
+      "row4": "• limitare qualsiasi nostra o vostra responsabilità in qualsiasi modo non consentito dalla legge applicabile; ",
+      "row5": "• escludere qualsiasi nostra o vostra responsabilità che non possa essere esclusa ai sensi della legge applicabile.",
+      "row6": "Le limitazioni e i divieti di responsabilità stabiliti in questa Sezione e altrove in questa esclusione di responsabilità: (a) sono soggetti al paragrafo precedente; ",
+      "row7": "Finché il sito Web e le informazioni e i servizi sul sito Web sono forniti gratuitamente, non saremo responsabili per eventuali perdite o danni di qualsiasi natura."
+    }
+  }
+}

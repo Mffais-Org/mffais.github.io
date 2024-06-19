@@ -1,0 +1,237 @@
+{
+  "homePage": {
+    "desc": "Mffais auttaa sinua seuraamaan kassavirtaa ja antaa käsityksen tulevista kuluista ja säästöistä.",
+    "cardsTitle": "ominaisuudet",
+    "cardsDesc": "Seuraa kassavirtaasi ja saat käsityksen tulevista kuluistasi ja säästöistäsi",
+    "card1Title": "Määritä Mffais-tilisi",
+    "card1Desc": "Syötä pankkisaldosi ja lisää kaikki tulevat tulot ja kulut.",
+    "card2Title": "Keskity tulevaisuuteesi",
+    "card2Desc1": "Mffais laskee tulevan rahavirtasi 365 päivää etukäteen.",
+    "card2Desc2": "Kerromme sinulle alimman saldosi ja kuinka paljon rahaa sinulla on vuoden kuluttua.",
+    "card3Title": "Tyhjennä tapahtumasi",
+    "card3Desc": "Kun tapahtumat ovat tyhjentäneet pankkitilisi, muista tyhjentää ne myös Mffaisista.",
+    "image1Desc1": "Mffais kertoo kuinka paljon kulutat...",
+    "image1Desc2": "...tai kuinka paljon säästää pysyäksesi tappiolla",
+    "image2Title": "Rahan virtaus",
+    "image2Desc1": "Yksi paikka, jossa käyttäjät voivat muokata ja maksaa",
+    "image2Desc2": "tulevista liiketoimistaan ​​- jopa vuoden kuluttua.",
+    "image2Desc3": "Erääntyvät tapahtumat merkitään automaattisesti kognitiivisen kuormituksen vähentämiseksi.",
+    "image3Desc": "Eräpäiväilmoitukset auttavat sinua pysymään kassavirtasi kärjessä",
+    "image4Desc": "Seuraa kassavirtaasi ja saat käsityksen tulevista kuluistasi ja säästöistäsi."
+  },
+  "appGuide": {
+    "title": "Mffais opas",
+    "desc": "Varmistaaksesi, että saat kaiken irti sovelluksestamme, lue asiantuntijavinkkimme, jotka opastavat sinua matkan varrella.",
+    "card1Title": "Aseta Mffais-saldosi",
+    "card1Desc": "Syötä pankkisaldosi ja lisää kaikki tulevat tulot ja menot, joista olet tietoinen.",
+    "card2Title": "Pidä saldosi ajan tasalla",
+    "card2Desc": "Kun saat tuloja, merkitse se saaduksi. ",
+    "card3Title": "Tyhjennä tapahtumasi",
+    "card3Desc": "Tyhjennä tapahtumasi ja vertaa Mffais-saldoasi pankkiisi – nappaa piilokulut",
+    "card4Title": "Rahan virtaus",
+    "card4Desc": "Tarkista ja muokkaa tulevia tapahtumia – jopa vuoden kuluttua.",
+    "card5Title": "Video opetusohjelma",
+    "card5Desc": "Katso video-opetusohjelmamme nopeaa ja helppoa läpikäyntiä varten.",
+    "feature1Chip": "Yliopisto-opiskelijoille",
+    "feature1Title": "Yksinkertaista yliopiston talouttasi",
+    "feature1Desc": "Suunnittele ja seuraa helposti opiskelijakulujasi lukukausimaksuista ja oppikirjoista asuntolatarvikkeisiin ja ulkona ruokailuun. ",
+    "feature1Card1Title": "Seuraa toistuvia kuluja",
+    "feature1Card1Desc": "Hallitse helposti merkittäviä kuluja, kuten lukukausimaksuja, oppikirjoja ja vuokraa.",
+    "feature1Card2Title": "Budjetti muuttuviin kuluihin",
+    "feature1Card2Desc": "Suunnittele ruokaa, viihdettä ja hätätilanteita tarvittaessa.",
+    "feature1Card3Title": "Hallinnoi opintolainoja",
+    "feature1Card3Desc": "Jaa kertakorvaiset lainaerät kuukausille kattaaksesi kulut tehokkaasti.",
+    "feature1Card4Title": "Rahavirran seuranta",
+    "feature1Card4Desc": "Käytä Money Flow -näyttöä varmistaaksesi, että olet valmis tuleviin kuluihin.",
+    "feature1Card5Title": "Lukukauden kuluennuste",
+    "feature1Card5Desc": "Suunnittele lukukauden kulut etukäteen ja sopeudu tulojen muutoksiin.",
+    "feature1Card6Title": "Rahanhallintavinkkejä",
+    "feature1Card6Desc": "Saat neuvoja yleisten taloudellisten sudenkuoppien välttämiseksi ja strategioita rahan säästämiseksi tiukalla budjetilla.",
+    "feature2Chip": "Ihmisille, joilla on useita töitä/keikkoja",
+    "feature2Title": "Seuraa kaikkia tulovirtojasi",
+    "feature2Desc": "Sano hyvästit useiden laskentataulukoiden tai sovellusten jongleeraamisen vaivalle. ",
+    "feature2Card1Title": "Useiden tulojen määrittäminen",
+    "feature2Card1Desc": "Syötä eri tulolähteitä eri taajuuksilla (esim. viikoittaiset keikat, kuukausittaiset freelance-maksut).",
+    "feature2Card2Title": "Tasaa tulot ja kulut",
+    "feature2Card2Desc": "Syötä eri tulolähteitä eri taajuuksilla (esim. viikoittaiset keikat, kuukausittaiset freelance-maksut).",
+    "feature2Card3Title": "Varmista, että kaikki laskut on katettu",
+    "feature2Card3Desc": "Syötä eri tulolähteitä eri taajuuksilla (esim. viikoittaiset keikat, kuukausittaiset freelance-maksut).",
+    "feature2Card4Title": "Varaa rahaa veroja ja epäsäännöllisiä kuluja varten",
+    "feature2Card4Desc": "Syötä eri tulolähteitä eri taajuuksilla (esim. viikoittaiset keikat, kuukausittaiset freelance-maksut).",
+    "feature2Card5Title": "Säädä kassavirran vaihtelua",
+    "feature2Card5Desc": "Rahoitusjärjestelmän vakauden strategiat",
+    "feature2Card6Title": "Rahoitusjärjestelmän vakauden strategiat",
+    "feature2Card6Desc": "Syötä eri tulolähteitä eri taajuuksilla (esim. viikoittaiset keikat, kuukausittaiset freelance-maksut)."
+  },
+  "subFooter": {
+    "giveItATry": "Kokeile sitä",
+    "haveAnyQuestions": "Onko kysymyksiä?",
+    "buttonText": "Ota yhteyttä tukeen"
+  },
+  "headerAndFooter": {
+    "features": "ominaisuudet",
+    "moneyFlow": "Rahan virtaus",
+    "privacyPolicy": "Tietosuojakäytäntö",
+    "termsAndConditions": "Käyttöehdot"
+  },
+  "privacyPolicy": {
+    "mainTitle": "Mffaisin ehdot",
+    "title1": "Mffais Master -tietosuojakäytäntö",
+    "paragraph1": {
+      "row1": "Tämä tietosuojakäytäntö määrittelee, kuinka henkilökohtaisia ​​tietoja kerätään ja käytetään, jotka tarjotaan Internet-sivustolla osoitteessa www.acorns.com (\"Sivusto\") ja mobiilisovelluksessamme (yhteisesti \"Mffais\"). ",
+      "row2": "Mffais on sitoutunut säilyttämään käyttäjiämme koskevien henkilötietojen luottamuksellisuuden, eheyden ja turvallisuuden. ",
+      "row3": "Mffais korostaa tietosuoja- ja turvallisuusstandardejaan suojatakseen identiteettivarkauksia ja turvatakseen henkilötietosi. "
+    },
+    "title2": "Henkilökohtaiset tiedot kerätty",
+    "paragraph2": {
+      "row1": "Keräämme sinulta seuraavat henkilötiedot:",
+      "row2": "yhteystiedot, kuten nimi, sähköpostiosoite, postiosoite, puhelinnumero;",
+      "row3": "laskutustiedot, kuten luottokortin numero ja laskutusosoite;",
+      "row4": "taloudelliset tiedot, kuten pankki- tai välitystilinumerot, sijoitustyypit;",
+      "row5": "Sosiaaliturvatunnus;",
+      "row6": "ajokortin numero;",
+      "row7": "yksilölliset tunnisteet, kuten käyttäjätunnus, tilinumero, salasana;",
+      "row8": "mieltymysten tiedot, kuten tuotteiden toivelistat, tilaushistoria ja markkinointiasetukset; ",
+      "row9": "demografiset tiedot, kuten ikä, koulutus, sukupuoli, kiinnostuksen kohteet ja postinumero.",
+      "row10": "Kun vierailet Sivustolla tai lataat ja käytät Palveluitamme, saatamme automaattisesti kerätä tiettyjä tietoja, jotka tietokoneesi, mobiililaitteesi tai mikä tahansa muu laite lähettää meille. "
+    },
+    "title3": "Tietojen käyttö ja jakaminen",
+    "paragraph3": {
+      "row1": "Mffais käyttää ja paljastaa henkilötietojasi vain seuraavasti:",
+      "row2": "analysoida sivuston käyttöä ja parantaa Palvelua;",
+      "row3": "toimittaa sinulle Palvelun käyttöön liittyviä hallinnollisia ilmoituksia, rahavaroituksia ja viestintää;",
+      "row4": "täyttääksemme tiettyjä tuotteita ja palveluita koskevat pyyntösi;",
+      "row5": "markkinatutkimukseen, projektisuunnitteluun, ongelmien vianmääritykseen sekä virheiden, petosten tai muun rikollisen toiminnan havaitsemiseen ja niiltä suojaamiseen;",
+      "row6": "kolmansille osapuolille, jotka tarjoavat palveluja Mffaisille ja joita sitovat nämä samat tietosuojarajoitukset;",
+      "row7": "panna täytäntöön Mffaisin käyttöehdot; ",
+      "row8": "Jos käytät Palvelua sellaisena, jonka jokin yhteistuotemerkkikumppaneistamme on sinulle tuonut, yhteisbrändätyn URL-osoitteen kautta, Palveluun rekisteröitymiseen käytetty sähköpostiosoitteesi voidaan toimittaa kyseiselle tuotemerkkikumppanille.",
+      "row9": "Lisäksi voimme ajoittain tarjota kampanjoita eri yritysten, verkkosivustojen, mobiilisovellusten tai kolmansien osapuolien kanssa, jotka voivat sisältää mahdollisuuksia ansaita talletuksia Mffais-tililläsi. ",
+      "row10": "Saatamme käyttää antamiasi tietoja yhdistääksemme sinut ihmisiin, jotka saatat jo tuntea. ",
+      "row11": "Saatamme myös luovuttaa henkilötietojasi lain edellyttämällä tavalla, esimerkiksi haasteen tai vastaavan oikeudellisen prosessin noudattamiseksi ja kun uskomme vilpittömässä mielessä, että tietojen luovuttaminen on tarpeen oikeuksiemme suojelemiseksi, sinun tai muiden turvallisuuden suojelemiseksi, tutkiaksemme ",
+      "row12": "Jos Mffais Incorporated on osallisena koko omaisuutensa tai osan omaisuutensa sulautumisesta, hankinnasta tai myynnistä, sinulle ilmoitetaan sähköpostitse ja/tai näkyvällä ilmoituksella sivustollamme kaikista henkilötietojesi omistuksen tai käytön muutoksista, kuten "
+    },
+    "title4": "Käyttäjien käyttöoikeus ja valinta",
+    "paragraph4": {
+      "row1": "Jos tiedostossasi olevat henkilötiedot muuttuvat tai et enää halua palveluamme, voit korjata tai päivittää ne tekemällä muutoksen asiakastietosivullamme tai lähettämällä sähköpostia Acornsin asiakaspalveluun.",
+      "row2": "Säilytämme ja käytämme tietojasi tarpeen mukaan noudattaaksemme lakisääteisiä ja/tai säädöksiä koskevia velvoitteitamme, ratkaistaksemme riita-asioita ja pannaksemme täytäntöön sopimuksemme.",
+      "row3": "Jos haluat tilata uutiskirjeemme, käytämme nimeäsi ja sähköpostiosoitettasi uutiskirjeen lähettämiseen. "
+    },
+    "title5": "Evästeet/seurantatekniikat",
+    "paragraph5": {
+      "row1": "Eväste on pieni tekstitiedosto, joka tallennetaan käyttäjän tietokoneelle kirjaamistarkoituksiin. ",
+      "row2": "Käytämme sekä istuntotunnuksen evästeitä että pysyviä evästeitä. ",
+      "row3": "Jos hylkäät evästeet, voit silti käyttää Sivustoa, mutta mahdollisuutesi käyttää joitain sivuston alueita, kuten kilpailuja tai kyselyitä, saattaa olla rajoitettua.",
+      "row4": "Kumppaneidemme, tytäryhtiöidemme, seurantayhtiöidemme ja/tai palveluntarjoajien evästeiden käyttö ei kuulu tietosuojakäytäntömme piiriin. ",
+      "row5": "Käytämme (ja/tai kolmannen osapuolen mainoskumppanimme käyttää) ohjelmistotekniikkaa, jota kutsutaan selkeiksi gifeiksi (joskus tunnetaan myös verkkojäljiteinä tai verkkovirheinä), jotka auttavat meitä hallitsemaan paremmin Sivuston sisältöä kertomalla meille, mikä sisältö on tehokasta. "
+    },
+    "title6": "Huomautus koskien Älä seuraa",
+    "paragraph6": {
+      "row1": "Älä seuraa (\"DNT\") on tietosuojaasetus, jonka käyttäjät voivat määrittää tietyissä verkkoselaimissa. "
+    },
+    "title7": "Turvallisuus",
+    "paragraph7": {
+      "row1": "Henkilötietojesi turvallisuus on meille tärkeää. ",
+      "row2": "Noudatamme yleisesti hyväksyttyjä standardeja suojellaksemme meille toimitettuja henkilötietoja sekä lähetyksen aikana että vastaanotettuamme ne. "
+    },
+    "title8": "Muutokset tähän tietosuojakäytäntöön",
+    "paragraph8": {
+      "row1": "Saatamme päivittää tätä tietosuojakäytäntöä vastaamaan tietokäytäntöjemme muutoksia. "
+    },
+    "title9": "Ota meihin yhteyttä",
+    "paragraph9": {
+      "row1": "Jos sinulla on kysyttävää tietosuojakäytännöstämme, ota yhteyttä Mffaisin asiakaspalveluun osoitteessa:",
+      "row2": "privacy@mffais.com",
+      "row3": "Mffais"
+    }
+  },
+  "termsAndConditions": {
+    "mainTitle": "Mffaisin ehdot",
+    "title1": "Tervetuloa",
+    "paragraph1": {
+      "row1": "Tervetuloa Mffais-sivustolle!",
+      "row2": "Näissä ehdoissa kuvataan Mffaisin verkkosivuston käyttöä koskevat säännöt ja määräykset, jotka sijaitsevat verkkosivuillamme.",
+      "row3": "Oletamme, että hyväksyt nämä ehdot, kun käytät tätä verkkosivustoa. ",
+      "row4": "Seuraava terminologia koskee näitä käyttöehtoja, tietosuojalausuntoa ja vastuuvapauslauseketta ja kaikkia sopimuksia: 'Asiakas', 'Sinä' ja 'Sinun' viittaavat sinuun, henkilöön, joka on kirjautunut tälle verkkosivustolle ja noudattaa Yhtiön ehtoja. "
+    },
+    "title2": "Keksit",
+    "paragraph2": {
+      "row1": "Käytämme evästeiden käyttöä. ",
+      "row2": "Useimmat interaktiiviset verkkosivustot käyttävät evästeitä, joiden avulla voimme hakea käyttäjän tiedot jokaisesta vierailusta. "
+    },
+    "title3": "Lisenssi",
+    "paragraph3": {
+      "row1": "Ellei toisin mainita, Mffais ja/tai sen lisenssinantajat omistavat kaiken Mffais-verkkosivustolla olevan materiaalin immateriaalioikeudet.  ",
+      "row2": "Et saa:",
+      "row3": "• Julkaise materiaali uudelleen Mffais-verkkosivustolta;",
+      "row4": "• myydä, vuokrata tai alilisensoida materiaalia Mffais-verkkosivustolta;",
+      "row5": "• Toistaa, monistaa tai kopioida materiaalia Mffais-verkkosivustolta;",
+      "row6": "• Jakaa sisältöä edelleen Mffais-verkkosivustolta;",
+      "row7": "Tämä sopimus tulee voimaan päivänä, jona se solmitaan. ",
+      "row8": "Tämän verkkosivuston osat tarjoavat käyttäjille mahdollisuuden lähettää ja vaihtaa mielipiteitä ja tietoja tietyillä verkkosivuston alueilla. ",
+      "row9": "Mffais pidättää oikeuden valvoa kaikkia kommentteja ja poistaa kaikki kommentit, joita voidaan pitää sopimattomina, loukkaavina tai jotka rikkovat näitä ehtoja.",
+      "row10": "Takuut ja vakuutat, että:",
+      "row11": "• Sinulla on oikeus lähettää kommentteja verkkosivustollemme ja sinulla on kaikki tarvittavat lisenssit ja suostumukset tehdäksesi niin;",
+      "row12": "• Kommentit eivät loukkaa mitään immateriaalioikeuksia, mukaan lukien rajoituksetta minkään kolmannen osapuolen tekijänoikeus, patentti tai tavaramerkki;",
+      "row13": "• Kommentit eivät sisällä mitään kunniaa loukkaavaa, herjaavaa, loukkaavaa, sopimatonta tai muuten laitonta materiaalia, joka loukkaa yksityisyyttä;",
+      "row14": "• Kommentteja ei käytetä kaupallisen toiminnan tai laittoman toiminnan houkuttelemiseen tai edistämiseen;",
+      "row15": "Myönnät täten Mffaisille ei-yksinomaisen lisenssin käyttää, jäljentää, muokata ja valtuuttaa muut käyttämään, jäljentämään ja muokkaamaan mitä tahansa kommenttejasi kaikissa muodoissa, muodoissa tai välineissä."
+    },
+    "title4": "Hyperlinkki sisältöömme",
+    "paragraph4": {
+      "row1": "Seuraavat organisaatiot voivat linkittää verkkosivustoomme ilman kirjallista lupaa:",
+      "row2": "• Valtion virastot;",
+      "row3": "• Hakukoneet;",
+      "row4": "• Uutisjärjestöt;",
+      "row5": "• Online-hakemistojen jakelijat voivat linkittää verkkosivustoomme samalla tavalla kuin ne linkittävät muiden listattujen yritysten verkkosivustoille; ",
+      "row6": "• Koko järjestelmän kattavat akkreditoidut yritykset lukuun ottamatta voittoa tavoittelemattomien organisaatioiden, hyväntekeväisyysjärjestöjen ja hyväntekeväisyysjärjestöjen varainkeruuryhmiä, jotka eivät saa linkittää Web-sivustoomme.",
+      "row7": "Nämä organisaatiot voivat linkittää kotisivuillemme, julkaisuihin tai muihin verkkosivuston tietoihin, kunhan linkki: (a) ei ole millään tavalla harhaanjohtava; ",
+      "row8": "Saatamme harkita ja hyväksyä muita linkityspyyntöjä seuraavan tyyppisiltä organisaatioilta:",
+      "row9": "• yleisesti tunnetut kuluttaja- ja/tai yritystietolähteet;",
+      "row10": "• dot.com-yhteisösivustot;",
+      "row11": "• hyväntekeväisyysjärjestöjä tai muita ryhmiä;",
+      "row12": "• online-hakemistojen jakelijat;",
+      "row13": "• Internet-portaalit;",
+      "row14": "• kirjanpito-, laki- ja konsulttiyritykset; ",
+      "row15": "• oppilaitokset ja ammattijärjestöt.",
+      "row16": "Hyväksymme linkityspyynnöt näistä organisaatioista, jos päätämme, että: (a) linkki ei saa meitä näyttämään epäsuotuisalta itsellemme tai akkreditoiduille yrityksillemme; ",
+      "row17": "Nämä organisaatiot voivat linkittää kotisivuillemme, kunhan linkki: (a) ei ole millään tavalla harhaanjohtava; ",
+      "row18": "Jos olet yksi edellä kohdassa 2 luetelluista organisaatioista ja olet kiinnostunut linkittämään verkkosivustoomme, sinun tulee ilmoittaa siitä meille lähettämällä sähköpostia osoitteeseen Mffais. ",
+      "row19": "Hyväksytyt organisaatiot voivat linkittää verkkosivustoomme seuraavasti:",
+      "row20": "• käyttämällä yritysnimeämme; ",
+      "row21": "• Käyttämällä yhtenäistä resurssipaikanninta, johon linkitetään; ",
+      "row22": "• Käyttämällä mitä tahansa muuta linkitetyn verkkosivustomme kuvausta, joka on järkevää linkittävän osapuolen sivuston sisällön kontekstissa ja muodossa.",
+      "row23": "Mffaisin logon tai muun taideteoksen käyttö linkitykseen ei ole sallittua tavaramerkkilisenssisopimuksen puuttuessa."
+    },
+    "title5": "iFrames",
+    "paragraph5": {
+      "row1": "Ilman ennakkohyväksyntää ja kirjallista lupaa et saa luoda Web-sivujemme ympärille kehyksiä, jotka muuttavat millään tavalla verkkosivustomme visuaalista esitystapaa tai ulkoasua."
+    },
+    "title6": "Sisältövastuu",
+    "paragraph6": {
+      "row1": "Emme ole vastuussa mistään verkkosivustollasi näkyvästä sisällöstä. "
+    },
+    "title7": "Yksityisyytesi",
+    "paragraph7": {
+      "row1": "Lue tietosuojakäytäntömme"
+    },
+    "title8": "Oikeuksien pidätys",
+    "paragraph8": {
+      "row1": "Pidätämme oikeuden pyytää sinua poistamaan kaikki linkit tai tietyt linkit verkkosivustollemme. "
+    },
+    "title9": "Linkkien poistaminen sivuiltamme",
+    "paragraph9": {
+      "row1": "Jos löydät verkkosivustoltamme linkin, joka on jostain syystä loukkaava, voit vapaasti ottaa yhteyttä ja ilmoittaa meille milloin tahansa. ",
+      "row2": "Emme takaa tämän verkkosivuston tietojen oikeellisuutta, emme takaa niiden täydellisyyttä tai tarkkuutta; "
+    },
+    "title10": "Vastuuvapauslauseke",
+    "paragraph10": {
+      "row1": "Sovellettavan lain sallimissa rajoissa suljemme pois kaikki esitykset, takuut ja ehdot, jotka liittyvät verkkosivustoomme ja tämän verkkosivuston käyttöön. ",
+      "row2": "• rajoittaa tai sulkea pois meidän tai sinun vastuusi kuolemasta tai henkilövahingosta;",
+      "row3": "• rajoittaa tai sulkea pois meidän tai sinun vastuusi petoksesta tai vilpillisestä harhaanjohtamisesta;",
+      "row4": "• rajoittaa meidän tai sinun velvollisuuksiasi millään tavalla, joka ei ole sovellettavan lain sallimaa; ",
+      "row5": "• sulkea pois kaikki meidän tai sinun vastuusi, joita ei voida sulkea pois sovellettavan lain mukaan.",
+      "row6": "Tässä osiossa ja muualla tässä vastuuvapauslausekkeessa asetetut vastuun rajoitukset ja kiellot: (a) ovat edellisen kappaleen alaisia; ",
+      "row7": "Niin kauan kuin verkkosivusto ja sen tiedot ja palvelut tarjotaan ilmaiseksi, emme ole vastuussa mistään menetyksistä tai vahingoista."
+    }
+  }
+}

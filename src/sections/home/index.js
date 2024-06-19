@@ -1,10 +1,10 @@
 import React from "react";
 import style from "./Home.module.scss";
-<<<<<<< HEAD
 import { GooglePlay, Star, AppStore } from "../../components";
-=======
+import React from "react";
+import style from "./Home.module.scss";
+import { GooglePlay, Star, AppStore } from "../../components";
 import { GooglePlay, AppStore, Star } from "../../components";
->>>>>>> 3390836a77a7007699bb3edd8664eff48e95787d
 
 export default function () {
   return (

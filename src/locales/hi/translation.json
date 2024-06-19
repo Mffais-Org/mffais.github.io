@@ -1,0 +1,237 @@
+{
+  "homePage": {
+    "desc": "Az Mffais segít nyomon követni a pénzáramlást, és betekintést nyújt a jövőbeli kiadásokba és megtakarításokba.",
+    "cardsTitle": "Jellemzők",
+    "cardsDesc": "Kövesse nyomon pénzforgalmát, és betekintést nyerjen a jövőbeli kiadásokba és megtakarításokba",
+    "card1Title": "Állítsa be Mffais fiókját",
+    "card1Desc": "Adja meg banki egyenlegét, és adja hozzá az összes jövőbeli bevételt és kiadást.",
+    "card2Title": "Koncentrálj a jövődre",
+    "card2Desc1": "Az Mffais 365 nappal előre kiszámítja jövőbeli pénzáramlását.",
+    "card2Desc2": "Megmondjuk Önnek a legalacsonyabb egyenlegét és mennyi pénze lesz egy év múlva.",
+    "card3Title": "Törölje a tranzakciókat",
+    "card3Desc": "Miután a tranzakciók törölték bankszámláját, feltétlenül törölje azokat az Mffais-ból is.",
+    "image1Desc1": "Mffais megmondja, mennyit kell költeni...",
+    "image1Desc2": "...vagy mennyit kell megtakarítani, hogy a feketén maradjon",
+    "image2Title": "Pénzáramlás",
+    "image2Desc1": "Egyetlen hely, ahol a felhasználók szerkeszthetik és fizethetnek",
+    "image2Desc2": "jövőbeli tranzakcióik – akár egy évre a jövőben.",
+    "image2Desc3": "Az esedékes tranzakciókat a rendszer automatikusan megjelöli a kognitív terhelés csökkentése érdekében.",
+    "image3Desc": "Az esedékességről szóló értesítések segítenek abban, hogy naprakészen maradjon pénzforgalmával",
+    "image4Desc": "Kövesse nyomon pénzforgalmát, és betekintést nyerjen a jövőbeli kiadásokba és megtakarításokba."
+  },
+  "appGuide": {
+    "title": "Mffais útmutató",
+    "desc": "Annak érdekében, hogy a legtöbbet hozza ki alkalmazásunkból, olvassa el szakértői tippjeinket, amelyek végigvezetik Önt az úton.",
+    "card1Title": "Állítsa be Mffais egyenlegét",
+    "card1Desc": "Adja meg banki egyenlegét, és adja hozzá az összes jövőbeli bevételét és kiadását, amelyről tudom.",
+    "card2Title": "Tartsa naprakészen egyenlegét",
+    "card2Desc": "Ha bevételhez jut, jelölje meg kapottként. ",
+    "card3Title": "Törölje a tranzakciókat",
+    "card3Desc": "Törölje tranzakcióit, és hasonlítsa össze Mffais-egyenlegét a bankjával – a rejtett költségek fedezéséhez",
+    "card4Title": "Pénzáramlás",
+    "card4Desc": "A jövőbeli tranzakciók ellenőrzése és szerkesztése – akár egy év múlva is.",
+    "card5Title": "Oktatóvideó",
+    "card5Desc": "Nézze meg oktatóvideónkat a gyors és egyszerű áttekintéshez.",
+    "feature1Chip": "Főiskolai hallgatóknak",
+    "feature1Title": "Egyszerűsítse egyetemi pénzügyeit",
+    "feature1Desc": "Könnyen megtervezheti és nyomon követheti diákköltségeit, a tandíjtól és a tankönyvektől a kollégiumi ellátásig és az étkezésig. ",
+    "feature1Card1Title": "Kövesse nyomon az ismétlődő költségeket",
+    "feature1Card1Desc": "Könnyedén kezelheti a jelentős költségeket, például a tandíjat, a tankönyveket és a bérleti díjakat.",
+    "feature1Card2Title": "Költségvetés változó kiadásokra",
+    "feature1Card2Desc": "Tervezze meg az étkezést, a szórakozást és a vészhelyzeteket, szükség szerint módosítva.",
+    "feature1Card3Title": "Diákhitel kezelése",
+    "feature1Card3Desc": "Az egyösszegű hiteltörlesztéseket ossza szét hónapokra a kiadások hatékony fedezése érdekében.",
+    "feature1Card4Title": "Pénzáramlás figyelése",
+    "feature1Card4Desc": "A Money Flow képernyő segítségével győződjön meg arról, hogy felkészült a közelgő kiadásokra.",
+    "feature1Card5Title": "Félévi költségelőrejelzés",
+    "feature1Card5Desc": "Tervezze meg előre a félévi kiadásokat, és alkalmazkodjon a bevételek változásaihoz.",
+    "feature1Card6Title": "Pénzkezelési tippek",
+    "feature1Card6Desc": "Tanácsokat kaphat a gyakori pénzügyi buktatók elkerüléséhez, valamint a szűkös költségvetés melletti pénzmegtakarítási stratégiákról.",
+    "feature2Chip": "Több munkával/koncerttel rendelkezőknek",
+    "feature2Title": "Kövesse nyomon az összes bevételi forrást",
+    "feature2Desc": "Mondjon búcsút a több táblázat vagy alkalmazás zsonglőrködésének fáradságától. ",
+    "feature2Card1Title": "Többszörös bevételi források beállítása",
+    "feature2Card1Desc": "Adjon meg különböző bevételi forrásokat különböző gyakorisággal (pl. heti fellépések, havi szabadúszó kifizetések).",
+    "feature2Card2Title": "Egyensúlyozza a bevételeket és a kiadásokat",
+    "feature2Card2Desc": "Adjon meg különböző bevételi forrásokat különböző gyakorisággal (pl. heti fellépések, havi szabadúszó kifizetések).",
+    "feature2Card3Title": "Győződjön meg arról, hogy minden számla fedezve van",
+    "feature2Card3Desc": "Adjon meg különböző bevételi forrásokat különböző gyakorisággal (pl. heti fellépések, havi szabadúszó kifizetések).",
+    "feature2Card4Title": "Tegyen félre pénzt adókra és szabálytalan kiadásokra",
+    "feature2Card4Desc": "Adjon meg különböző bevételi forrásokat különböző gyakorisággal (pl. heti fellépések, havi szabadúszó kifizetések).",
+    "feature2Card5Title": "Korrigálja a pénzáramlás változékonyságát",
+    "feature2Card5Desc": "A pénzügyi stabilitás stratégiái",
+    "feature2Card6Title": "A pénzügyi stabilitás stratégiái",
+    "feature2Card6Desc": "Adjon meg különböző bevételi forrásokat különböző gyakorisággal (pl. heti fellépések, havi szabadúszó kifizetések)."
+  },
+  "subFooter": {
+    "giveItATry": "Megpróbál",
+    "haveAnyQuestions": "Van kérdés?",
+    "buttonText": "Lépjen kapcsolatba az ügyfélszolgálattal"
+  },
+  "headerAndFooter": {
+    "features": "Jellemzők",
+    "moneyFlow": "Pénzáramlás",
+    "privacyPolicy": "Adatvédelmi irányelvek",
+    "termsAndConditions": "Felhasználási feltételek"
+  },
+  "privacyPolicy": {
+    "mainTitle": "Mffais Általános Szerződési Feltételek",
+    "title1": "Mffais Master Adatvédelmi szabályzat",
+    "paragraph1": {
+      "row1": "Ez az adatvédelmi szabályzat meghatározza a személyes adatok gyűjtésének és felhasználásának módját, amely a www.acorns.com internetes webhelyen (a „Webhely”) és mobilalkalmazásunkban (együttesen „Mffais”) található. ",
+      "row2": "Az Mffais elkötelezett amellett, hogy megőrizze a felhasználóinkkal kapcsolatos személyes adatok bizalmasságát, integritását és biztonságát. ",
+      "row3": "Az Mffais hangsúlyozza adatvédelmi és biztonsági szabványait, hogy megvédje magát a személyazonosság-lopástól, és biztonságot nyújtson az Ön személyes adatai számára. "
+    },
+    "title2": "Személyes adatok gyűjtve",
+    "paragraph2": {
+      "row1": "Az alábbi személyes adatokat gyűjtjük Öntől:",
+      "row2": "kapcsolattartási adatok, például név, e-mail cím, levelezési cím, telefonszám;",
+      "row3": "számlázási információk, például hitelkártyaszám és számlázási cím;",
+      "row4": "pénzügyi információk, például banki vagy brókerszámlaszámok, befektetések típusai;",
+      "row5": "Társadalombiztosítási szám;",
+      "row6": "jogosítvány szám;",
+      "row7": "egyedi azonosítók, például felhasználónév, számlaszám, jelszó;",
+      "row8": "preferenciákkal kapcsolatos információk, például kívánságlisták, rendelési előzmények és marketingpreferenciák; ",
+      "row9": "demográfiai adatok, például életkor, iskolai végzettség, nem, érdeklődési körök és irányítószám.",
+      "row10": "Amikor felkeresi a Webhelyet, vagy letölti és használja Szolgáltatásainkat, automatikusan gyűjthetünk bizonyos információkat, amelyeket számítógépe, mobileszköze vagy bármely más eszköz küldött nekünk. "
+    },
+    "title3": "Információhasználat és -megosztás",
+    "paragraph3": {
+      "row1": "Az Mffais az Ön személyes adatait csak az alábbiak szerint használja és hozza nyilvánosságra:",
+      "row2": "a webhely használatának elemzésére és a Szolgáltatás fejlesztésére;",
+      "row3": "a Szolgáltatás használatához kapcsolódó adminisztratív értesítések, pénzriasztások és kommunikációk kézbesítése;",
+      "row4": "bizonyos termékekre és szolgáltatásokra vonatkozó kérései teljesítésére;",
+      "row5": "piackutatáshoz, projekttervezéshez, problémák hibaelhárításához, valamint a hibák, csalások vagy más bűncselekmények felderítéséhez és az ellenük való védekezéshez;",
+      "row6": "harmadik fél vállalkozóknak, akik szolgáltatásokat nyújtanak az Mffaisnak, és akikre ugyanezek az adatvédelmi korlátozások vonatkoznak;",
+      "row7": "az Mffais Felhasználási Feltételeinek érvényre juttatására; ",
+      "row8": "Abban az esetben, ha úgy éri el a Szolgáltatást, ahogy azt valamelyik társmárkapartnerünk hozta Önnek, egy társmárkanévvel ellátott URL-en keresztül, a Szolgáltatásban való regisztrációhoz használt e-mail címét megadhatjuk a társmárkapartnernek.",
+      "row9": "Ezen túlmenően, időről időre promóciókat kínálhatunk különböző vállalkozásokkal, webhelyekkel, mobilalkalmazásokkal vagy harmadik felekkel, amelyek lehetőséget tartalmazhatnak arra, hogy betéteket szerezzen Mffais-számláján. ",
+      "row10": "Az Ön által megadott információkat felhasználhatjuk arra, hogy kapcsolatba léphessünk olyan emberekkel, akiket már ismer. ",
+      "row11": "Személyes adatait a törvény által megkövetelt módon is nyilvánosságra hozhatjuk, például egy idézés vagy hasonló jogi eljárás teljesítése érdekében, és ha jóhiszeműen úgy gondoljuk, hogy a nyilvánosságra hozatal szükséges jogaink védelme, az Ön vagy mások biztonságának védelme, valamint az ügy kivizsgálása érdekében. ",
+      "row12": "Ha az Mffais Incorporated részt vesz a vagyonának egészének vagy egy részének egyesülésében, felvásárlásában vagy eladásában, akkor Önt e-mailben és/vagy a webhelyünkön található jól látható értesítésben értesítjük az Ön személyes adatainak tulajdonjogában vagy felhasználásában bekövetkezett bármilyen változásról. "
+    },
+    "title4": "Felhasználói hozzáférés és választási lehetőség",
+    "paragraph4": {
+      "row1": "Ha az Ön nyilvántartásában szereplő személyes adatok megváltoznak, vagy ha már nem kívánja szolgáltatásunkat, javíthatja vagy frissítheti azokat az ügyfélinformációs oldalunkon, vagy az Acorns Ügyfélszolgálatának e-mailben történő elküldésével.",
+      "row2": "Adatait megőrizzük és felhasználjuk, ha szükséges jogi és/vagy szabályozási kötelezettségeink teljesítéséhez, a viták megoldásához és a megállapodásaink végrehajtásához.",
+      "row3": "Ha szeretne feliratkozni hírlevelünkre, az Ön nevét és e-mail címét használjuk a hírlevél elküldéséhez. "
+    },
+    "title5": "Cookie-k / nyomkövetési technológiák",
+    "paragraph5": {
+      "row1": "A cookie egy kis szöveges fájl, amelyet a felhasználó számítógépén tárolnak nyilvántartási célból. ",
+      "row2": "Munkamenetazonosító cookie-kat és állandó cookie-kat egyaránt használunk. ",
+      "row3": "Ha elutasítja a sütiket, továbbra is használhatja a Webhelyet, de korlátozott lehet az oldal bizonyos területeinek, például versenyek vagy felmérések használatára.",
+      "row4": "A cookie-k partnereink, leányvállalataink, nyomkövető közműcégeink és/vagy szolgáltatóink általi használatára nem vonatkozik adatvédelmi szabályzatunk. ",
+      "row5": "Alkalmazunk (és/vagy külső hirdetési partnerünk alkalmaz) egy tiszta gif-nek nevezett szoftvertechnológiát (ezt néha webjelzőknek vagy webes hibáknak is nevezik), amelyek segítenek a webhelyen található tartalmak jobb kezelésében azáltal, hogy tájékoztatnak bennünket arról, hogy milyen tartalom hatékony. "
+    },
+    "title6": "Figyelmeztetés a Ne nyomon követésről",
+    "paragraph6": {
+      "row1": "A Do Not Track (\"DNT\") egy adatvédelmi beállítás, amelyet a felhasználók beállíthatnak bizonyos webböngészőkben. "
+    },
+    "title7": "Biztonság",
+    "paragraph7": {
+      "row1": "Személyes adatainak biztonsága fontos számunkra. ",
+      "row2": "Követjük az általánosan elfogadott szabványokat a számunkra átadott személyes adatok védelme érdekében, mind az átvitel során, mind a kézhezvételükkor. "
+    },
+    "title8": "Jelen Adatvédelmi szabályzat változásai",
+    "paragraph8": {
+      "row1": "Frissíthetjük ezt az adatvédelmi szabályzatot, hogy tükrözze az információs gyakorlatunkban bekövetkezett változásokat. "
+    },
+    "title9": "Lépjen kapcsolatba velünk",
+    "paragraph9": {
+      "row1": "Ha bármilyen kérdése van az adatvédelmi szabályzatunkkal kapcsolatban, kérjük, forduljon az Mffais Ügyfélszolgálatához a következő címen:",
+      "row2": "privacy@mffais.com",
+      "row3": "Mffais"
+    }
+  },
+  "termsAndConditions": {
+    "mainTitle": "Mffais Általános Szerződési Feltételek",
+    "title1": "Üdvözöljük",
+    "paragraph1": {
+      "row1": "Üdvözöljük az Mffais honlapján!",
+      "row2": "Ezek a feltételek körvonalazzák a weboldalunkon található Mffais Weboldal használatára vonatkozó szabályokat és előírásokat.",
+      "row3": "A weboldal megnyitásával feltételezzük, hogy elfogadja ezeket a feltételeket. ",
+      "row4": "A következő terminológia vonatkozik a jelen Általános Szerződési Feltételekre, Adatvédelmi Nyilatkozatra és Felelősségi Nyilatkozatra, valamint minden Szerződésre: „Ügyfél”, „Ön” és „Ön” Önre vonatkozik, aki bejelentkezik ezen a weboldalon, és megfelel a Vállalat feltételeinek. "
+    },
+    "title2": "Cookie-k",
+    "paragraph2": {
+      "row1": "Cookie-k használatát alkalmazzuk. ",
+      "row2": "A legtöbb interaktív webhely sütiket használ, hogy lehetővé tegye számunkra, hogy minden egyes látogatáshoz lekérjük a felhasználó adatait. "
+    },
+    "title3": "Engedély",
+    "paragraph3": {
+      "row1": "Eltérő rendelkezés hiányában az Mffais és/vagy licencadói birtokolják az Mffais webhelyén található összes anyag szellemi tulajdonjogát.  ",
+      "row2": "Nem szabad:",
+      "row3": "• Az Mffais webhelyről származó anyagok újbóli közzététele;",
+      "row4": "• Az Mffais webhelyről származó anyagok értékesítése, bérbeadása vagy al-licencelése;",
+      "row5": "• Az Mffais webhelyről származó anyagok reprodukálása, sokszorosítása vagy másolása;",
+      "row6": "• Tartalom újraterjesztése az Mffais webhelyről;",
+      "row7": "Ez a megállapodás a megkötésének napján lép hatályba. ",
+      "row8": "A webhely egyes részei lehetőséget kínálnak a felhasználók számára, hogy a webhely bizonyos területein véleményt és információt cseréljenek. ",
+      "row9": "Az Mffais fenntartja a jogot, hogy figyelemmel kísérje az összes megjegyzést, és eltávolítson minden olyan megjegyzést, amely nem megfelelőnek, sértőnek tekinthető vagy a jelen Feltételek megsértését okozza.",
+      "row10": "Ön szavatolja és kijelenti, hogy:",
+      "row11": "• Ön jogosult a Megjegyzések közzétételére a weboldalunkon, és rendelkezik ehhez minden szükséges engedéllyel és hozzájárulással;",
+      "row12": "• A Hozzászólások nem sértenek semmilyen szellemi tulajdonjogot, beleértve a korlátozás nélkül bármely harmadik fél szerzői jogát, szabadalmát vagy védjegyét;",
+      "row13": "• A megjegyzések nem tartalmaznak semmilyen rágalmazó, rágalmazó, sértő, illetlen vagy más módon jogellenes anyagot, amely sérti a magánéletet;",
+      "row14": "• A Megjegyzések nem használhatók fel üzleti vagy szokások ösztönzésére vagy népszerűsítésére, vagy kereskedelmi tevékenységek vagy jogellenes tevékenység bemutatására;",
+      "row15": "Ön ezennel nem-kizárólagos engedélyt ad az Mffais-nak arra, hogy felhasználja, reprodukálja, szerkessze, és másokat felhatalmazz az Ön megjegyzéseinek bármilyen formában, formátumban vagy médiában történő felhasználására, reprodukálására és szerkesztésére."
+    },
+    "title4": "Hiperhivatkozás a tartalomra",
+    "paragraph4": {
+      "row1": "A következő szervezetek előzetes írásbeli engedély nélkül hivatkozhatnak weboldalunkra:",
+      "row2": "• Kormányzati szervek;",
+      "row3": "• Kereső motorok;",
+      "row4": "• Hírszervezetek;",
+      "row5": "• Az online címjegyzék-terjesztők ugyanúgy hivatkozhatnak Weboldalunkra, mint más listán szereplő vállalkozások Weboldalaira mutató hivatkozásokat; ",
+      "row6": "• A rendszer egészére kiterjedő akkreditált vállalkozások, kivéve a non-profit szervezetek, jótékonysági bevásárlóközpontok és jótékonysági adománygyűjtő csoportok megkeresését, amelyek nem hivatkozhatnak webhelyünkre.",
+      "row7": "Ezek a szervezetek hivatkozhatnak honlapunkra, kiadványokra vagy egyéb Weboldal-információkra, amennyiben a hivatkozás: (a) semmilyen módon nem megtévesztő; ",
+      "row8": "A következő típusú szervezetektől származó egyéb összekapcsolási kérelmeket mérlegelhetünk és jóváhagyhatunk:",
+      "row9": "• általánosan ismert fogyasztói és/vagy üzleti információforrások;",
+      "row10": "• dot.com közösségi oldalak;",
+      "row11": "• jótékonysági szervezeteket képviselő egyesületek vagy egyéb csoportok;",
+      "row12": "• online címjegyzék-terjesztők;",
+      "row13": "• internetes portálok;",
+      "row14": "• számviteli, jogi és tanácsadó cégek; ",
+      "row15": "• oktatási intézmények és szakmai szövetségek.",
+      "row16": "Jóváhagyjuk az ezektől a szervezetektől származó linkelési kérelmeket, ha úgy döntünk, hogy: (a) a link nem kelt minket kedvezőtlenül önmagunk vagy akkreditált vállalkozásaink számára; ",
+      "row17": "Ezek a szervezetek hivatkozhatnak honlapunkra, amennyiben a hivatkozás: (a) semmilyen módon nem megtévesztő; ",
+      "row18": "Ha Ön a fenti 2. bekezdésben felsorolt ​​szervezetek egyike, és érdeklődik a weboldalunkra mutató hivatkozás iránt, értesítenie kell bennünket az Mffais címre küldött e-mailben. ",
+      "row19": "A jóváhagyott szervezetek az alábbiak szerint hivatkozhatnak webhelyünkre:",
+      "row20": "• cégnevünk használatával; ",
+      "row21": "• A hozzákapcsolt egységes erőforrás-kereső használatával; ",
+      "row22": "• A linkelt Webhelyünk bármely más leírásának felhasználásával, amely a linket létrehozó fél webhelyén található tartalom kontextusában és formátumában értelmes.",
+      "row23": "Védjegylicenc-szerződés hiányában az Mffais logója vagy más műalkotások használata nem engedélyezett."
+    },
+    "title5": "iFrames",
+    "paragraph5": {
+      "row1": "Előzetes jóváhagyás és írásbeli engedély nélkül nem hozhat létre olyan kereteket Weboldalaink körül, amelyek bármilyen módon megváltoztatják Webhelyünk vizuális megjelenését vagy megjelenését."
+    },
+    "title6": "Tartalmi felelősség",
+    "paragraph6": {
+      "row1": "Nem vállalunk felelősséget a webhelyén megjelenő tartalomért. "
+    },
+    "title7": "Az Ön adatvédelme",
+    "paragraph7": {
+      "row1": "Kérjük, olvassa el Adatvédelmi szabályzatunkat"
+    },
+    "title8": "Jogok fenntartása",
+    "paragraph8": {
+      "row1": "Fenntartjuk a jogot arra, hogy megkérjük, hogy távolítson el minden hivatkozást vagy bármely konkrét hivatkozást a weboldalunkra. "
+    },
+    "title9": "Linkek eltávolítása weboldalunkról",
+    "paragraph9": {
+      "row1": "Ha weboldalunkon bármilyen okból sértő hivatkozást talál, bármikor felveheti velünk a kapcsolatot, és értesíthet minket. ",
+      "row2": "Nem garantáljuk a weboldalon található információk helyességét, nem garantáljuk azok teljességét vagy pontosságát; "
+    },
+    "title10": "Jogi nyilatkozat",
+    "paragraph10": {
+      "row1": "A vonatkozó jogszabályok által megengedett maximális mértékig kizárunk minden, a weboldalunkkal és a weboldal használatával kapcsolatos nyilatkozatot, garanciát és feltételt. ",
+      "row2": "• korlátozza vagy kizárja a mi vagy az Ön felelősségét halál vagy személyi sérülés esetén;",
+      "row3": "• korlátozza vagy kizárja a mi vagy az Ön felelősségét csalásért vagy csalárd félrevezetésért;",
+      "row4": "• korlátozza a mi vagy az Ön felelősségét olyan módon, amelyet a vonatkozó jogszabályok nem engedélyeznek; ",
+      "row5": "• kizár minden olyan kötelezettségünket vagy az Ön felelősségét, amely a vonatkozó jogszabályok szerint nem zárható ki.",
+      "row6": "Az ebben a szakaszban és a jelen felelősségkizárás más részein meghatározott felelősségi korlátozások és tilalmak: (a) az előző bekezdés hatálya alá tartoznak; ",
+      "row7": "Mindaddig, amíg a weboldal és a weboldalon található információk és szolgáltatások ingyenesek, nem vállalunk felelősséget semmilyen jellegű veszteségért vagy kárért."
+    }
+  }
+}
