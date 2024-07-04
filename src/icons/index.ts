@@ -11,3 +11,6 @@ export { FeatureIcon10 } from "./FeatureIcon10";
 export { FeatureIcon11 } from "./FeatureIcon11";
 export { FeatureIcon12 } from "./FeatureIcon12";
 export { SmileIcon } from "./SmileIcon";
+export { CardIcon1 } from "./CardIcon1";
+export { ArrowLeft } from "./ArrowLeft";
+export { ArrowRight } from "./ArrowRight";
