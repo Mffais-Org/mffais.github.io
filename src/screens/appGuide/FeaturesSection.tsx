@@ -18,7 +18,7 @@ import {
 } from "./AppGuideScreen.style";
 
 export const FeaturesSection = () => {
-  const data = AppGuideData;
+  const data = AppGuideData();
 
   return (
     <FeaturesMainContainer>

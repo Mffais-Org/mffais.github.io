@@ -8,8 +8,10 @@ import {
 } from "./HowToUse.style";
 import { Card } from "./Card";
 import { ArrowLeft, ArrowRight } from "../../icons";
+import { useTranslation } from "react-i18next";
 
 export const HowToUse = () => {
+  const { t } = useTranslation();
   return (
     <MainContainer>
       <h1>How to use Mffais</h1>

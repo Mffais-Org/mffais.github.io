@@ -2,23 +2,25 @@ import React from "react";
 import style from "./Footer.module.scss";
 import { HashLink as Link } from "react-router-hash-link";
 import { GooglePlay, AppStore } from "../../components";
+import { useTranslation } from "react-i18next";
 
 export default function () {
+  const { t } = useTranslation();
   return (
     <>
       <div className={style.subFooter}>
-        <h4>Give it a try!</h4>
+        <h4>{t("subFooter.giveItATry")}</h4>
         <div className={style.footerLogoWrapper}>
           <GooglePlay />
           <AppStore />
         </div>
-        <h4>Have any questions?</h4>
+        <h4>{t("subFooter.haveAnyQuestions")}</h4>
         <a
           className={`button ${style.contactSupport}`}
           target="_blank"
           href="mailto: support@mffais.com"
         >
-          Contact support
+          {t("subFooter.contactSupport")}
         </a>
       </div>
       <footer>
@@ -26,10 +28,14 @@ export default function () {
           <Link to="/#">
             <img src="/img/logo.svg" />
           </Link>
-          <Link to="/#features">Features</Link>
-          <Link to="/#moneyFlow">Money flow</Link>
-          <Link to="/privacy-policy/#">Privacy Policy</Link>
-          <Link to="/terms-and-conditions/#">Terms and conditions</Link>
+          <Link to="/#features">{t("headerAndFooter.features")}</Link>
+          <Link to="/#moneyFlow">{t("headerAndFooter.moneyFlow")}</Link>
+          <Link to="/privacy-policy/#">
+            {t("headerAndFooter.privacyPolicy")}
+          </Link>
+          <Link to="/terms-and-conditions/#">
+            {t("headerAndFooter.termsAndConditions")}
+          </Link>
         </div>
         <div className={style.contactInfo}>
           <p>2436 E 4th Street, Ste #336</p>

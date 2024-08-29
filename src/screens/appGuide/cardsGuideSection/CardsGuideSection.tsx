@@ -1,37 +1,38 @@
 import React from "react";
 import { Card } from "./Card";
 import { Container, MainContainer } from "./CardsGuideSection.style";
+import { useTranslation } from "react-i18next";
 
 export const CardsGuideSection = () => {
+  const { t } = useTranslation();
   return (
     <MainContainer>
       <Container>
         <Card
-          title="Setup your Mffais balance"
-          description="Enter your bank balance and add all future incomes and expenses you’re
-        aware of."
+          title={t("appGuide.card1Title")}
+          description={t("appGuide.card1Desc")}
           imageSrc="/img/descriptionCardImageDesktop1.jpg"
         />
         <Card
-          title="Keep your balance up to date"
-          description="When you receive an income, mark it as received. When you pay an expense, mark it as spent."
+          title={t("appGuide.card2Title")}
+          description={t("appGuide.card2Desc")}
           imageSrc="/img/descriptionCardImageDesktop2.jpg"
         />
       </Container>
       <Container>
         <Card
-          title="Clear your transactions"
-          description="Clear your transactions and compare your Mffais balance to your bank—to catch hidden costs"
+          title={t("appGuide.card3Title")}
+          description={t("appGuide.card3Desc")}
           imageSrc="/img/descriptionCardImageDesktop3.jpg"
         />
         <Card
-          title="Money flow"
-          description="Check and edit future transactions — up to a year in the future. "
+          title={t("appGuide.card4Title")}
+          description={t("appGuide.card4Desc")}
           imageSrc="/img/descriptionCardImageDesktop4.jpg"
         />
         <Card
-          title="Video tutorial"
-          description="Watch our video tutorial for a quick and easy walkthrough."
+          title={t("appGuide.card5Title")}
+          description={t("appGuide.card5Desc")}
           imageSrc="/img/descriptionCardImageDesktop5.jpg"
         />
       </Container>

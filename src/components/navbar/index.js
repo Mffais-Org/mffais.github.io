@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import style from "./Navbar.module.scss";
 import { HashLink as Link } from "react-router-hash-link";
 import { GooglePlay } from "../";
+import LanguageSwitcher from "../language-switcher/LanguageSwitcher";
 
 export default class Navbar extends Component {
   state = {

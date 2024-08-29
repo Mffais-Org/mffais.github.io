@@ -13,15 +13,12 @@ export const HeroSection = () => {
   return (
     <HeroContainer>
       <Title>
-        Mffais {t("guide")}
+        {t("appGuide.title")}
         <IconWrapper>
           <SmileIcon />
         </IconWrapper>
       </Title>
-      <SubTitle>
-        To ensure you make the most out of our app, read our expert tips to
-        guide you along the way.
-      </SubTitle>
+      <SubTitle>{t("appGuide.desc")}</SubTitle>
     </HeroContainer>
   );
 };

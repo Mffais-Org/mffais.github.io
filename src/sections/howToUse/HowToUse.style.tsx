@@ -39,7 +39,6 @@ export const SingleArrow = styled.div`
 `;
 
 export const EmptyCard = styled.div`
-  /* min-width: calc(10vw + 120px); */
   min-width: 10vw;
 `;
 
