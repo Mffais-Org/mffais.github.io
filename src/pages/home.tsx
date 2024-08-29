@@ -16,7 +16,7 @@ export default function () {
   return (
     <>
       <Navbar featuresRef={featuresRef} moneyFlowRef={moneyFlowRef} />
-      <LanguageSwitcher />
+      {/* <LanguageSwitcher /> */}
       <Home />
       <HowToUse />
       <Features featuresRef={featuresRef} />
