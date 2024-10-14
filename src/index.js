@@ -31,7 +31,7 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename={window.location.pathname || ""}>
       <Switch>
         <Route path="/privacy-policy">
           <Navbar />
