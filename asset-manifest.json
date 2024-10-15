@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mffais.github.io/static/css/main.e59003cd.chunk.css",
+    "main.js": "/mffais.github.io/static/js/main.15326652.chunk.js",
+    "main.js.map": "/mffais.github.io/static/js/main.15326652.chunk.js.map",
+    "runtime-main.js": "/mffais.github.io/static/js/runtime-main.a40f1a95.js",
+    "runtime-main.js.map": "/mffais.github.io/static/js/runtime-main.a40f1a95.js.map",
+    "static/css/2.fab8ff92.chunk.css": "/mffais.github.io/static/css/2.fab8ff92.chunk.css",
+    "static/js/2.69f614c0.chunk.js": "/mffais.github.io/static/js/2.69f614c0.chunk.js",
+    "static/js/2.69f614c0.chunk.js.map": "/mffais.github.io/static/js/2.69f614c0.chunk.js.map",
+    "index.html": "/mffais.github.io/index.html",
+    "static/css/2.fab8ff92.chunk.css.map": "/mffais.github.io/static/css/2.fab8ff92.chunk.css.map",
+    "static/css/main.e59003cd.chunk.css.map": "/mffais.github.io/static/css/main.e59003cd.chunk.css.map",
+    "static/js/2.69f614c0.chunk.js.LICENSE.txt": "/mffais.github.io/static/js/2.69f614c0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mffais.github.io/static/media/rubik-latin-900italic.7f45ff04.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a40f1a95.js",
+    "static/css/2.fab8ff92.chunk.css",
+    "static/js/2.69f614c0.chunk.js",
+    "static/css/main.e59003cd.chunk.css",
+    "static/js/main.15326652.chunk.js"
+  ]
+}
