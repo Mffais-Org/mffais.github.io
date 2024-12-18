@@ -1,0 +1,78 @@
+{
+  "navigation": {
+    "features": "Features",
+    "moneyFlow": "Money Flow",
+    "appGuide": "App Guide"
+  },
+  "heroSection": {
+    "subtitle": "Mffais helps you track cash flow and provides insight into future spending and savings for $9,99."
+  },
+  "howToUseSection": {
+    "title": "How to use Mffais",
+    "cards": {
+      "card1": {
+        "title": "Download the Mffais app from the store",
+        "description": "Stay updated with the latest market movements and investment strategies at your fingertips."
+      },
+      "card2": {
+        "title": "Choose your subscription model",
+        "description": "Select the plan that best suits your needs and enjoy exclusive benefits."
+      },
+      "card3": {
+        "title": "Setup your Mffais balance",
+        "description": "Easily configure your Mffais balance to start tracking your investments and financial growth."
+      },
+      "card4": {
+        "title": "Keep your balance up to date",
+        "description": "When you receive an income, mark it as received. When you pay an expense, mark it as spent"
+      },
+      "card5": {
+        "title": "Clear your transactions",
+        "description": "Clear your transactions and compare your Mffais balance to your bank—to catch hidden costs"
+      }
+    }
+  },
+  "featureSection": {
+    "title": "Features",
+    "subtitle": "Track your cash flow and get an insight into future spending and savings",
+    "twoColumnSections": {
+      "section1": {
+        "title": "Setup your Mffais account",
+        "description": "Enter your bank balance and add all future incomes and expenses."
+      },
+      "section2": {
+        "title": "Focus on your future",
+        "description": "Mffais will calculate your future money flow 365 days in advance. <br/> <br/> We will tell you your lowest balance and how much money you’ll have after a year."
+      },
+      "section3": {
+        "title": "Clear your transactions",
+        "description": "After transactions clear your bank account, make sure to clear them from Mffais as well."
+      }
+    }
+  },
+  "centerImageSection": {
+    "leftText": "Mffais tells you how much to spend...",
+    "rightText": "...or how much to save to stay in the black"
+  },
+  "moneyFlowSection": {
+    "title": "Money flow",
+    "description": "A single place where users can edit and check out their future transactions — up to a year in the future. Due transactions are marked automatically to reduce cognitive load."
+  },
+  "twoImageSection": {
+    "text": "Due date notifications help you stay on top of your cash flow"
+  },
+  "bannerSection": {
+    "text": "Track your cash flow and get an insight into future spending and savings."
+  },
+  "CTASection": {
+    "leftText": "Give it a try!",
+    "rightText": "Have any questions?",
+    "buttonText": "Contact support"
+  },
+  "homeFooterNav": {
+    "features": "Features",
+    "moneyFlow": "Money Flow",
+    "privacyPolicy": "Privacy Policy",
+    "termsAndConditions": "Terms and Conditions"
+  }
+}
