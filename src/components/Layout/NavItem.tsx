@@ -5,6 +5,7 @@ type NavItemProps = {
   name: string;
   isActive: boolean;
   onClick: () => void;
+  href?: string;
 };
 
 export default function NavItem({ name, isActive, onClick }: NavItemProps) {

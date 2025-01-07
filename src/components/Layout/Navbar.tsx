@@ -4,33 +4,55 @@ import Logo from "../Icons/Logo";
 import { useTranslations } from "next-intl";
 import LinkButton from "../UI/LinkButton";
 import ExternalLinkIcon from "../Icons/ExternalLinkIcon";
-import { Link } from "@/i18n/routing";
+import { Link, usePathname, useRouter } from "@/i18n/routing";
 import NavItem from "./NavItem";
 import LanguageSwitcher from "../UI/LanguageSwitcher";
 
 type Props = {
-  scrollToFeature: () => void;
-  scrollToMoneyFlow: () => void;
-  isFeatureInView: boolean;
-  isMoneyFlowInView: boolean;
+  scrollToFeature?: () => void;
+  scrollToMoneyFlow?: () => void;
+  isFeatureInView?: boolean;
+  isMoneyFlowInView?: boolean;
+  appGuide?: boolean;
 };
 
-const Navbar = ({ scrollToFeature, scrollToMoneyFlow, isFeatureInView, isMoneyFlowInView }: Props) => {
+const Navbar = ({ scrollToFeature, scrollToMoneyFlow, isFeatureInView, isMoneyFlowInView, appGuide }: Props) => {
   const t = useTranslations("navigation");
+  const path = usePathname();
+  const router = useRouter();
+
+  const handleNavigation = (target: string) => {
+    if (path === "/" && scrollToFeature) {
+      if (target === "feature") {
+        scrollToFeature();
+        console.log("scrollToFeature");
+      }
+      if (target === "moneyFlow" && scrollToMoneyFlow) {
+        scrollToMoneyFlow();
+      }
+    } else router.push(`/#${target}`);
+  };
+
   const navigationItems = [
     {
       id: 1,
       name: t("features"),
-      onClick: scrollToFeature,
+      onClick: () => handleNavigation("feature"),
     },
     {
       id: 2,
       name: t("moneyFlow"),
-      onClick: scrollToMoneyFlow,
+      onClick: () => handleNavigation("moneyFlow"),
+    },
+    {
+      id: 3,
+      name: t("appGuide"),
+      onClick: () => router.push("/app-guide"),
     },
   ];
 
   const activeNavigationId = isFeatureInView ? 1 : isMoneyFlowInView ? 2 : null;
+  const filteredNavigationItems = appGuide ? navigationItems : navigationItems.filter(navigation => navigation.id !== 3);
 
   return (
     <div className="flex w-full justify-center">
@@ -41,12 +63,11 @@ const Navbar = ({ scrollToFeature, scrollToMoneyFlow, isFeatureInView, isMoneyFl
           </Link>
 
           <ul className="ml-12 flex items-center gap-[72px] font-medium">
-            {navigationItems.map(navigation => {
+            {filteredNavigationItems.map(navigation => {
               const isActive = activeNavigationId === navigation.id;
-
               return (
                 <li key={navigation.id}>
-                  <NavItem name={navigation.name} isActive={isActive} onClick={navigation.onClick} />
+                  <NavItem name={navigation.name} isActive={navigation.id === 3 ? true : isActive} onClick={navigation.onClick} />
                 </li>
               );
             })}
@@ -55,10 +76,12 @@ const Navbar = ({ scrollToFeature, scrollToMoneyFlow, isFeatureInView, isMoneyFl
 
         <div className="flex items-center gap-4">
           <LanguageSwitcher />
-          <LinkButton variant="icon" icon={<ExternalLinkIcon />} href="#">
-            App guide
-          </LinkButton>
-          <LinkButton href="#">Get the app</LinkButton>
+          {path === "/app-guide" ? null : (
+            <LinkButton target="_blank" variant="icon" icon={<ExternalLinkIcon />} href="/app-guide">
+              {t("appGuide")}
+            </LinkButton>
+          )}
+          <LinkButton href="#">{t("getTheApp")}</LinkButton>
         </div>
       </div>
     </div>
