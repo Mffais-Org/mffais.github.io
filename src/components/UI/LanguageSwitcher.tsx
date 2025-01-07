@@ -6,99 +6,17 @@ import { useLocale } from "next-intl";
 import { locales as allLocales, usePathname, useRouter } from "@/i18n/routing";
 import ReactCountryFlag from "react-country-flag";
 import CaretDown from "../Icons/CaretDown";
+import { renderLocaleFlag } from "@/utils/utils";
 
 const LanguageSwitcher = () => {
   const router = useRouter();
   const pathname = usePathname();
   const currentLanguage = useLocale();
   const locales = allLocales.filter(locale => locale !== currentLanguage);
-  const renderLocaleFlag = (locale: string) => {
-    switch (locale) {
-      case "bn":
-        return "bd";
-      case "bg":
-        return "bg";
-      case "ca":
-        return "ad";
-      case "zh":
-        return "cn";
-      case "chi":
-        return "cn";
-      case "cs":
-        return "cz";
-      case "da":
-        return "dk";
-      case "nl":
-        return "nl";
-      case "fi":
-        return "fi";
-      case "fr":
-        return "fr";
-      case "de":
-        return "de";
-      case "hu":
-        return "hu";
-      case "id":
-        return "id";
-      case "it":
-        return "it";
-      case "el":
-        return "gr";
-      case "en":
-        return "us";
-      case "hi":
-        return "in";
-      case "ja":
-        return "jp";
-      case "ko":
-        return "kr";
-      case "ms":
-        return "my";
-      case "mr":
-        return "in";
-      case "pt-br":
-        return "br";
-      case "sr":
-        return "rs";
-      case "es-la":
-        return "es";
-      case "sv":
-        return "se";
-      case "tl":
-        return "ph";
-      case "uk":
-        return "ua";
-      case "vi":
-        return "vn";
-      case "pl":
-        return "pl";
-      case "no":
-        return "no";
-      case "lt":
-        return "lt";
-      case "ro":
-        return "ro";
-      case "ru":
-        return "ru";
-      case "sk":
-        return "sk";
-      case "es":
-        return "es";
-      case "th":
-        return "th";
-      case "tr":
-        return "tr";
-      default:
-        return "";
-    }
-  };
 
   const handleLanguageChange = (locale: string) => {
     router.push(pathname, { locale });
   };
-
-  console.log(pathname);
-  console.log(currentLanguage);
 
   return (
     <Popover className="relative">
