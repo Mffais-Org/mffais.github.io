@@ -6,7 +6,11 @@ import FeatureTwoColumnSection from "./FeatureTwoColumnSection";
 import FocusOnFutureImage from "../images/FocusOnFutureImage";
 import ClearTransactionsImage from "../images/ClearTransactionsImage";
 
-const FeatureSection = () => {
+type Props = {
+  ref: React.RefObject<HTMLElement | null>;
+};
+
+const FeatureSection = ({ ref }: Props) => {
   const t = useTranslations("featureSection");
   const c = useTranslations("featureSection.twoColumnSections");
 
@@ -29,7 +33,7 @@ const FeatureSection = () => {
     },
   ];
   return (
-    <section className="flex flex-col items-center px-[15%]">
+    <section ref={ref} className="flex flex-col items-center px-[15%]">
       <h2 className="text-[56px] font-bold leading-[55px] mb-[60px]">{t("title")}</h2>
       <StarIcon />
       <h3 className="mt-9 text-[40px] leading-[48px] text-center font-medium px-20 pb-[124px]">{t("subtitle")}</h3>

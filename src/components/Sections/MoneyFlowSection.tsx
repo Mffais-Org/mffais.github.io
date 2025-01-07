@@ -1,10 +1,14 @@
 import { useTranslations } from "next-intl";
 import React from "react";
 
-const MoneyFlowSection = () => {
+type Props = {
+  ref: React.RefObject<HTMLElement | null>;
+};
+
+const MoneyFlowSection = ({ ref }: Props) => {
   const t = useTranslations("moneyFlowSection");
   return (
-    <section className="flex items-center flex-col mb-[124px] px-[15%] bg-background pt-[124px]">
+    <section ref={ref} className="flex items-center flex-col mb-[124px] px-[15%] bg-background pt-[124px]">
       <h2 className="text-[56px] leading-[55px] font-bold mb-10">{t("title")}</h2>
       <p className="text-center text-[26px] leading-[44px] px-[18%] tracking-[0.26px] mb-[94px] ">{t("description")}</p>
       <div className="flex relative min-h-[386px] mb-[115px]  justify-center items-center max-w-[792px] w-full">

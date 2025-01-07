@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Rubik } from "next/font/google";
 import "../globals.css";
 import MainLayout from "../../components/Layout/MainLayout";
-import Navbar from "../../components/Layout/Navbar";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 
@@ -23,10 +22,7 @@ export default async function RootLayout({ children, params }: { children: React
     <html lang={locale}>
       <body className={`${geistSans.variable}  antialiased`}>
         <NextIntlClientProvider messages={messages}>
-          <MainLayout>
-            <Navbar />
-            {children}
-          </MainLayout>
+          <MainLayout>{children}</MainLayout>
         </NextIntlClientProvider>
       </body>
     </html>
