@@ -6,6 +6,8 @@
   --primary-yellow: #ffd30d;
   --font: #1f1f1f;
   --background: #f0f2f7;
+  --background-blue: #e1e7fe;
+  --font-blue: #0027f9;
 }
 
 @layer utilities {

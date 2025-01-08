@@ -1,10 +1,10 @@
 import { useTranslations } from "next-intl";
 import React from "react";
-import StarIcon from "../Icons/StarIcon";
-import SetupImage from "../images/SetupImage";
+import StarIcon from "../../Icons/StarIcon";
+import SetupImage from "../../images/SetupImage";
 import FeatureTwoColumnSection from "./FeatureTwoColumnSection";
-import FocusOnFutureImage from "../images/FocusOnFutureImage";
-import ClearTransactionsImage from "../images/ClearTransactionsImage";
+import FocusOnFutureImage from "../../images/FocusOnFutureImage";
+import ClearTransactionsImage from "../../images/ClearTransactionsImage";
 
 type Props = {
   ref: React.RefObject<HTMLElement | null>;

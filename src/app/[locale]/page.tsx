@@ -1,15 +1,15 @@
 "use client";
 
 import Navbar from "@/components/Layout/Navbar";
-import BannerSection from "@/components/Sections/BannerSection";
-import CenterImageSection from "@/components/Sections/CenterImageSection";
-import CTASection from "@/components/Sections/CTASection";
-import FeatureSection from "@/components/Sections/FeatureSection";
-import HeroSection from "@/components/Sections/HeroSection";
-import HomeFooter from "@/components/Sections/HomeFooter";
-import HowToUseSection from "@/components/Sections/HowToUseSection";
-import MoneyFlowSection from "@/components/Sections/MoneyFlowSection";
-import TwoImageSection from "@/components/Sections/TwoImageSection";
+import BannerSection from "@/components/Sections/Home/BannerSection";
+import CenterImageSection from "@/components/Sections/Home/CenterImageSection";
+import CTASection from "@/components/Sections/Home/CTASection";
+import FeatureSection from "@/components/Sections/Home/FeatureSection";
+import HeroSection from "@/components/Sections/Home/HeroSection";
+import HomeFooter from "@/components/Sections/Home/HomeFooter";
+import HowToUseSection from "@/components/Sections/Home/HowToUseSection";
+import MoneyFlowSection from "@/components/Sections/Home/MoneyFlowSection";
+import TwoImageSection from "@/components/Sections/Home/TwoImageSection";
 import useIsInView from "@/hooks/useInView";
 import { useRouter } from "@/i18n/routing";
 import { useRef, useEffect, useState } from "react";

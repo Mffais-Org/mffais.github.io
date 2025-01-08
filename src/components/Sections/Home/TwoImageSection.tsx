@@ -1,6 +1,6 @@
 import { useTranslations } from "next-intl";
 import React from "react";
-import SmileIcon from "../Icons/SmileIcon";
+import SmileIcon from "../../Icons/SmileIcon";
 
 const TwoImageSection = () => {
   const t = useTranslations("twoImageSection");
@@ -11,7 +11,7 @@ const TwoImageSection = () => {
         <img src="/images/TwoImageSectionRight.png" />
         <div className="flex flex-col items-center max-w-[342px]">
           <div className="py-[62px]">
-            <SmileIcon />
+            <SmileIcon className="w-12" />
           </div>
           <p className="text-[40px] leading-[48px] font-bold">{t("text")}</p>
         </div>

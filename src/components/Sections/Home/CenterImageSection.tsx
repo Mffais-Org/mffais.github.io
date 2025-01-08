@@ -1,6 +1,6 @@
 import { useTranslations } from "next-intl";
 import React from "react";
-import StarIcon from "../Icons/StarIcon";
+import StarIcon from "../../Icons/StarIcon";
 
 const CenterImageSection = () => {
   const t = useTranslations("centerImageSection");

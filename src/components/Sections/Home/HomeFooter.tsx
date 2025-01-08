@@ -1,8 +1,8 @@
 import React from "react";
-import Logo from "../Icons/Logo";
+import Logo from "../../Icons/Logo";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/routing";
-import ExternalLinkIcon from "../Icons/ExternalLinkIcon";
+import ExternalLinkIcon from "../../Icons/ExternalLinkIcon";
 
 const HomeFooter = () => {
   const t = useTranslations("homeFooterNav");

@@ -12,6 +12,8 @@ export default {
         foreground: "var(--foreground)",
         primaryYellow: "var(--primary-yellow)",
         font: "var(--font)",
+        "background-blue": "var(--background-blue)",
+        "font-blue": "var(--font-blue)",
       },
       screens: {
         "2xl": "1920px",

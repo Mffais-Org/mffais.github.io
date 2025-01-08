@@ -55,8 +55,8 @@ const Navbar = ({ scrollToFeature, scrollToMoneyFlow, isFeatureInView, isMoneyFl
   const filteredNavigationItems = appGuide ? navigationItems : navigationItems.filter(navigation => navigation.id !== 3);
 
   return (
-    <div className="flex w-full justify-center">
-      <div className="z-50 flex w-full items-center justify-between bg-white px-10 fixed top-0 h-[108px]">
+    <div className="flex w-full justify-center fixed top-0 border h-[108px] border-black/10 bg-white  ">
+      <div className="z-50 flex w-full items-center justify-between  px-10">
         <div className="flex items-center">
           <Link href="/">
             <Logo />

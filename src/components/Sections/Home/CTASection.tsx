@@ -1,9 +1,9 @@
 import { Link } from "@/i18n/routing";
 import { useTranslations } from "next-intl";
 import React from "react";
-import GooglePlayImage from "../images/GooglePlayImage";
-import AppStoreImage from "../images/AppStoreImage";
-import LinkButton from "../UI/LinkButton";
+import GooglePlayImage from "../../images/GooglePlayImage";
+import AppStoreImage from "../../images/AppStoreImage";
+import LinkButton from "../../UI/LinkButton";
 
 const CTASection = () => {
   const t = useTranslations("CTASection");

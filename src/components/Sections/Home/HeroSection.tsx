@@ -1,9 +1,9 @@
 import { useTranslations } from "next-intl";
 import React from "react";
-import TitleImage from "../images/TitleImage";
+import TitleImage from "../../images/TitleImage";
 import { Link } from "@/i18n/routing";
-import GooglePlayImage from "../images/GooglePlayImage";
-import AppStoreImage from "../images/AppStoreImage";
+import GooglePlayImage from "../../images/GooglePlayImage";
+import AppStoreImage from "../../images/AppStoreImage";
 
 const HeroSection = () => {
   const t = useTranslations("heroSection");

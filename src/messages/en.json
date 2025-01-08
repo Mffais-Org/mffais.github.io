@@ -75,5 +75,15 @@
     "moneyFlow": "Money Flow",
     "privacyPolicy": "Privacy Policy",
     "termsAndConditions": "Terms and Conditions"
+  },
+  "appGuideHero": {
+    "title": "Mffais guide",
+    "subtitle": "To ensure you make the most out of our app, read our expert tips to guide you along the way."
+  },
+  "accountSetup": {
+    "title": "Setting up your account"
+  },
+  "forCollageStudents": {
+    "badge": "For Collage Students"
   }
 }

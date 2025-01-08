@@ -1,10 +1,10 @@
 "use client";
 import { useTranslations } from "next-intl";
 import React, { useEffect, useRef, useState } from "react";
-import LikeIcon from "../Icons/LikeIcon";
-import BalanceIcon from "../Icons/BalanceIcon";
-import CalendarIcon from "../Icons/CalendarIcon";
-import ExchangeIcon from "../Icons/ExchangeIcon";
+import LikeIcon from "../../Icons/LikeIcon";
+import BalanceIcon from "../../Icons/BalanceIcon";
+import CalendarIcon from "../../Icons/CalendarIcon";
+import ExchangeIcon from "../../Icons/ExchangeIcon";
 import HowToUseCard from "./HowToUseCard";
 import HowToUseNavigation from "./HowToUseNavigation";
 
