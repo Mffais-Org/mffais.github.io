@@ -84,6 +84,70 @@
     "title": "Setting up your account"
   },
   "forCollageStudents": {
-    "badge": "For Collage Students"
+    "badge": "For Collage Students",
+    "title": "Simplify your college finances",
+    "text": "Easily plan and track your student expenses, from tuition and textbooks to dorm supplies and dining out. Our intuitive interface lets you input future incomes and expenses, providing valuable insights into your cash flow for the semester and beyond.",
+    "iconCards": {
+      "iconCard1": {
+        "title": "Track recurring expenses",
+        "description": "Manage significant costs like tuition, textbooks, and rent with ease."
+      },
+      "iconCard2": {
+        "title": "Budget for variable expenses",
+        "description": "Plan for food, entertainment, and emergencies, adjusting as needed."
+      },
+      "iconCard3": {
+        "title": "Manage student loans",
+        "description": "Enter various income sources with different frequencies (e.g., weekly gigs, monthly freelance payments)."
+      },
+      "iconCard4": {
+        "title": "Money Flow Monitoring",
+        "description": "Use the Money Flow screen to ensure you're prepared for upcoming expenses."
+      },
+      "iconCard5": {
+        "title": "Semester Expense Forecasting",
+        "description": "Plan ahead for semester expenses and adjust for changes in income."
+      },
+      "iconCard6": {
+        "title": "Money Management Tips",
+        "description": "SReceive advice on avoiding common financial pitfalls and strategies for saving money on a tight budget."
+      }
+    }
+  },
+  "forMultipleJob": {
+    "badge": "For People with Multiple Jobs/Gigs",
+    "title": "Track all your income streams",
+    "text": "Say goodbye to the hassle of juggling multiple spreadsheets or apps. With Mffais, you can easily input and categorize income from different sources, giving you a comprehensive overview of your cash flow at a glance.",
+    "iconCards": {
+      "iconCard1": {
+        "title": "Setting up multiple-income streams",
+        "description": "Enter various income sources with different frequencies (e.g., weekly gigs, monthly freelance payments)."
+      },
+      "iconCard2": {
+        "title": "Balance income and expenses",
+        "description": "Enter various income sources with different frequencies (e.g., weekly gigs, monthly freelance payments)."
+      },
+      "iconCard3": {
+        "title": "Ensure all bills are covered",
+        "description": "Enter various income sources with different frequencies (e.g., weekly gigs, monthly freelance payments)."
+      },
+      "iconCard4": {
+        "title": "Money Flow Monitoring",
+        "description": "Enter various income sources with different frequencies (e.g., weekly gigs, monthly freelance payments)."
+      },
+      "iconCard5": {
+        "title": "Semester Expense Forecasting",
+        "description": "Enter various income sources with different frequencies (e.g., weekly gigs, monthly freelance payments)."
+      },
+      "iconCard6": {
+        "title": "Money Management Tips",
+        "description": "Enter various income sources with different frequencies (e.g., weekly gigs, monthly freelance payments)."
+      }
+    }
+  },
+  "banner2Section": {
+    "title": "Need help?",
+    "description": "Don't hesitate to contact us – we're here to help you conquer your with confidence.",
+    "buttonText": "Contact support"
   }
 }
