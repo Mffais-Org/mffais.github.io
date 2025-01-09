@@ -2,7 +2,13 @@ import React from "react";
 
 const CoinIcon = () => {
   return (
-    <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg
+      width="64"
+      height="64"
+      viewBox="0 0 64 64"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
       <rect width="64" height="64" rx="19.2" fill="#FFD30D" />
       <g clipPath="url(#clip0_95_295)">
         <path
@@ -12,7 +18,12 @@ const CoinIcon = () => {
       </g>
       <defs>
         <clipPath id="clip0_95_295">
-          <rect width="50" height="50" fill="white" transform="translate(6.99988 7)" />
+          <rect
+            width="50"
+            height="50"
+            fill="white"
+            transform="translate(6.99988 7)"
+          />
         </clipPath>
       </defs>
     </svg>

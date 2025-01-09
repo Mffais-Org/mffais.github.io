@@ -33,14 +33,21 @@ const FeatureSection = ({ ref }: Props) => {
     },
   ];
   return (
-    <section ref={ref} className="flex flex-col items-center xl:max-w-[1130px] mx-auto">
-      <h2 className="text-[56px] font-bold leading-[55px] mb-[60px]">{t("title")}</h2>
+    <section
+      ref={ref}
+      className="mx-auto flex flex-col items-center xl:max-w-[1130px]"
+    >
+      <h2 className="mb-[60px] text-[56px] font-bold leading-[55px]">
+        {t("title")}
+      </h2>
       <StarIcon />
-      <h3 className="mt-9 text-[40px] leading-[48px] text-center font-medium px-20 pb-[124px]">{t("subtitle")}</h3>
+      <h3 className="mt-9 px-20 pb-[124px] text-center text-[40px] font-medium leading-[48px]">
+        {t("subtitle")}
+      </h3>
       {twoColumnSections.map((section, index) => (
         <FeatureTwoColumnSection key={index} section={section} />
       ))}
-      <div className="w-full h-[1px] bg-black/10 mb-[124px] mt-[60px]"></div>
+      <div className="mb-[124px] mt-[60px] h-[1px] w-full bg-black/10"></div>
     </section>
   );
 };

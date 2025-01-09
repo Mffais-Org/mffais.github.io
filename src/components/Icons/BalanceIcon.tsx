@@ -2,7 +2,13 @@ import React from "react";
 
 const BalanceIcon = () => {
   return (
-    <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg
+      width="64"
+      height="64"
+      viewBox="0 0 64 64"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
       <rect x="6" y="20" width="54" height="37" rx="8" fill="#FFD30D" />
       <rect x="6" y="7" width="48" height="38" rx="8" fill="#FFD30D" />
       <path

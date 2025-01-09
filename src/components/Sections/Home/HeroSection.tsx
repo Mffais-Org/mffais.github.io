@@ -10,11 +10,13 @@ const HeroSection = () => {
 
   return (
     <section className="bg-background">
-      <div className="flex h-full min-h-[764px]  items-center xl:max-w-[1130px] mx-auto ">
-        <div className="flex w-1/2 flex-col pl-4 ">
+      <div className="mx-auto flex h-full min-h-[764px] items-center xl:max-w-[1130px]">
+        <div className="flex w-1/2 flex-col pl-4">
           <TitleImage />
-          <p className="text-font text-[26px] mt-10 leading-[44px] max-w-[70%]">{t("subtitle")}</p>
-          <div className="flex items-center gap-8 mt-8">
+          <p className="mt-10 max-w-[70%] text-[26px] leading-[44px] text-font">
+            {t("subtitle")}
+          </p>
+          <div className="mt-8 flex items-center gap-8">
             <Link href="#" className="hover:shadow-custom">
               <GooglePlayImage />
             </Link>
@@ -23,7 +25,7 @@ const HeroSection = () => {
             </Link>
           </div>
         </div>
-        <div className="w-1/2 flex justify-end ">
+        <div className="flex w-1/2 justify-end">
           <img className="-mb-[66px]" src="/images/HeroPhone.png" />
         </div>
       </div>

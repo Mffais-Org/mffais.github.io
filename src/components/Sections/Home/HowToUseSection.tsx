@@ -14,7 +14,7 @@ const HowToUseSection = () => {
 
   const cards = [
     {
-      icon: <img src="/images/icons/download.png" className=" w-16" />,
+      icon: <img src="/images/icons/download.png" className="w-16" />,
       title: c("card1.title"),
       description: c("card1.description"),
     },
@@ -57,7 +57,10 @@ const HowToUseSection = () => {
 
   const scrollRight = () => {
     if (scrollContainerRef.current) {
-      scrollContainerRef.current.scrollTo({ left: scrollContainerRef.current.clientWidth, behavior: "smooth" });
+      scrollContainerRef.current.scrollTo({
+        left: scrollContainerRef.current.clientWidth,
+        behavior: "smooth",
+      });
     }
   };
 
@@ -70,12 +73,20 @@ const HowToUseSection = () => {
   }, []);
 
   return (
-    <section className="w-full pt-[155px]  pb-9 flex flex-col items-center overflow-hidden  ">
+    <section className="flex w-full flex-col items-center overflow-hidden pb-9 pt-[155px]">
       <h2 className="text-[56px] font-bold leading-[55px]">{t("title")}</h2>
-      <div className="mt-11 max-w-[1130px] flex justify-end w-full">
-        <HowToUseNavigation isActiveLeft={scrollPosition > 0} isActiveRight={scrollPosition === 0} scrollLeft={scrollLeft} scrollRight={scrollRight} />
+      <div className="mt-11 flex w-full max-w-[1130px] justify-end">
+        <HowToUseNavigation
+          isActiveLeft={scrollPosition > 0}
+          isActiveRight={scrollPosition === 0}
+          scrollLeft={scrollLeft}
+          scrollRight={scrollRight}
+        />
       </div>
-      <div ref={scrollContainerRef} className="flex xl:pl-[155px] pr-10 3xl:pl-0 3xl:justify-center gap-6 w-full  overflow-scroll pt-10 py-20 no-scrollbar ">
+      <div
+        ref={scrollContainerRef}
+        className="no-scrollbar flex w-full gap-6 overflow-scroll py-20 pr-10 pt-10 xl:pl-[155px] 3xl:justify-center 3xl:pl-0"
+      >
         {cards.map((card, index) => (
           <HowToUseCard key={index} card={card} />
         ))}

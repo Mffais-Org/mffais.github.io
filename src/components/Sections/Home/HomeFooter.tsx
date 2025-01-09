@@ -29,10 +29,14 @@ const HomeFooter = () => {
   ];
 
   return (
-    <footer className="flex items-center justify-between 3xl:justify-evenly 3xl:gap-20 px-[15%] mt-[76px] mb-[60px]">
+    <footer className="mb-[60px] mt-[76px] flex items-center justify-between px-[15%] 3xl:justify-evenly 3xl:gap-20">
       <Logo />
       {nav.map((item, index) => (
-        <Link className="text-base flex items-center leading-[18px] gap-2" key={index} href={item.href}>
+        <Link
+          className="flex items-center gap-2 text-base leading-[18px]"
+          key={index}
+          href={item.href}
+        >
           <span>{item.label}</span>
           <span className="opacity-50">{item.icon}</span>
         </Link>

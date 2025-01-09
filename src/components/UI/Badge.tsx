@@ -7,7 +7,16 @@ type Props = {
 };
 
 const Badge: React.FC<Props> = ({ text, className }) => {
-  return <span className={twMerge("w-fit bg-background-blue px-2 py-[6px] text-[18px] leading-none font-semibold text-font-blue rounded-full", className)}>{text}</span>;
+  return (
+    <span
+      className={twMerge(
+        "w-fit rounded-full bg-background-blue px-2 py-[6px] text-[18px] font-semibold leading-none text-font-blue",
+        className,
+      )}
+    >
+      {text}
+    </span>
+  );
 };
 
 export default Badge;

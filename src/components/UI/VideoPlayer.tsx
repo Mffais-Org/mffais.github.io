@@ -25,10 +25,24 @@ export default function VideoPlayer({ videoSrc, overlaySrc }: Props) {
   };
 
   return (
-    <div className="relative min-w-[562px] h-[400px] flex justify-center items-center cursor-pointer ">
-      {showOverlay && <img onClick={handlePlayPause} src={overlaySrc} alt="Video Overlay" className="absolute w-full h-full object-cover z-[1] rounded-2xl  " />}
-      <video ref={videoRef} className="w-full h-full rounded-2xl" src={videoSrc} controls />
-      {!isPlaying && <PlayButton onClick={handlePlayPause} className="absolute z-10" />}
+    <div className="relative flex h-[400px] min-w-[562px] cursor-pointer items-center justify-center">
+      {showOverlay && (
+        <img
+          onClick={handlePlayPause}
+          src={overlaySrc}
+          alt="Video Overlay"
+          className="absolute z-[1] h-full w-full rounded-2xl object-cover"
+        />
+      )}
+      <video
+        ref={videoRef}
+        className="h-full w-full rounded-2xl"
+        src={videoSrc}
+        controls
+      />
+      {!isPlaying && (
+        <PlayButton onClick={handlePlayPause} className="absolute z-10" />
+      )}
     </div>
   );
 }

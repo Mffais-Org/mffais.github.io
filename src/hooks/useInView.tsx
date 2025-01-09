@@ -1,6 +1,9 @@
 import { useEffect, useState } from "react";
 
-const useIsInView = (ref: React.RefObject<HTMLElement | null>, offset: number = 0): boolean => {
+const useIsInView = (
+  ref: React.RefObject<HTMLElement | null>,
+  offset: number = 0,
+): boolean => {
   const [isInView, setIsInView] = useState(false);
 
   useEffect(() => {

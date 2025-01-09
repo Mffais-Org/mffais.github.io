@@ -2,11 +2,26 @@ import React from "react";
 
 const AppStoreImage = () => {
   return (
-    <svg width="166" height="56" viewBox="0 0 166 56" fill="none" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+    <svg
+      width="166"
+      height="56"
+      viewBox="0 0 166 56"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlnsXlink="http://www.w3.org/1999/xlink"
+    >
       <rect width="166" height="56" fill="url(#pattern0_170_489)" />
       <defs>
-        <pattern id="pattern0_170_489" patternContentUnits="objectBoundingBox" width="1" height="1">
-          <use xlinkHref="#image0_170_489" transform="matrix(0.00202006 0 0 0.00598802 -0.00299401 0)" />
+        <pattern
+          id="pattern0_170_489"
+          patternContentUnits="objectBoundingBox"
+          width="1"
+          height="1"
+        >
+          <use
+            xlinkHref="#image0_170_489"
+            transform="matrix(0.00202006 0 0 0.00598802 -0.00299401 0)"
+          />
         </pattern>
         <image
           id="image0_170_489"

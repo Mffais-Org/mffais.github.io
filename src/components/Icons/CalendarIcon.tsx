@@ -2,7 +2,13 @@ import React from "react";
 
 const CalendarIcon = () => {
   return (
-    <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg
+      width="64"
+      height="64"
+      viewBox="0 0 64 64"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
       <rect x="7" y="7" width="50" height="50" rx="8" fill="#FFD30D" />
       <rect x="16" y="3" width="12" height="38" rx="6" fill="#FFD30D" />
       <rect x="36" y="3" width="12" height="38" rx="6" fill="#FFD30D" />

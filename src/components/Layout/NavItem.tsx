@@ -28,7 +28,10 @@ export default function NavItem({ name, isActive, onClick }: NavItemProps) {
   };
 
   return (
-    <button onClick={onClick} className="relative flex items-center justify-center">
+    <button
+      onClick={onClick}
+      className="relative flex items-center justify-center"
+    >
       <span>{name}</span>
       <animated.span style={{ ...underlineStyle, ...underlineStatic }} />
     </button>

@@ -54,18 +54,28 @@ const ForMultipleJob = () => {
   ];
 
   return (
-    <section className="flex flex-col gap-20 items-center px-16 3xl:px-[] py-[112px] ">
-      <div className="flex items-center gap-20 ">
-        <VideoPlayer videoSrc="/videos/income-video.mp4" overlaySrc="/images/IncomeVideoOverlay.png" />
+    <section className="flex flex-col items-center gap-20 px-16 py-[112px] 3xl:px-[]">
+      <div className="flex items-center gap-20">
+        <VideoPlayer
+          videoSrc="/videos/income-video.mp4"
+          overlaySrc="/images/IncomeVideoOverlay.png"
+        />
         <div className="flex flex-col">
           <Badge text={t("badge")} className="mb-4" />
-          <span className="text-[56px] leading-[67px] font-bold mb-6">{t("title")}</span>
-          <p className="text-[26px] leading-[34px] parag">{t("text")}</p>
+          <span className="mb-6 text-[56px] font-bold leading-[67px]">
+            {t("title")}
+          </span>
+          <p className="parag text-[26px] leading-[34px]">{t("text")}</p>
         </div>
       </div>
-      <div className=" grid grid-cols-3  gap-x-8 gap-y-20">
-        {IconCardData.map(data => (
-          <IconCard key={data.id} icon={data.icon} title={data.title} description={data.description} />
+      <div className="grid grid-cols-3 gap-x-8 gap-y-20">
+        {IconCardData.map((data) => (
+          <IconCard
+            key={data.id}
+            icon={data.icon}
+            title={data.title}
+            description={data.description}
+          />
         ))}
       </div>
     </section>

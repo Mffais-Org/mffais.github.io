@@ -16,7 +16,13 @@ type Props = {
   appGuide?: boolean;
 };
 
-const Navbar = ({ scrollToFeature, scrollToMoneyFlow, isFeatureInView, isMoneyFlowInView, appGuide }: Props) => {
+const Navbar = ({
+  scrollToFeature,
+  scrollToMoneyFlow,
+  isFeatureInView,
+  isMoneyFlowInView,
+  appGuide,
+}: Props) => {
   const t = useTranslations("navigation");
   const path = usePathname();
   const router = useRouter();
@@ -52,22 +58,28 @@ const Navbar = ({ scrollToFeature, scrollToMoneyFlow, isFeatureInView, isMoneyFl
   ];
 
   const activeNavigationId = isFeatureInView ? 1 : isMoneyFlowInView ? 2 : null;
-  const filteredNavigationItems = appGuide ? navigationItems : navigationItems.filter(navigation => navigation.id !== 3);
+  const filteredNavigationItems = appGuide
+    ? navigationItems
+    : navigationItems.filter((navigation) => navigation.id !== 3);
 
   return (
-    <div className="flex w-full justify-center fixed top-0 border h-[108px] border-black/10 bg-white z-[9999]  ">
-      <div className=" flex w-full items-center justify-between  px-10">
+    <div className="fixed top-0 z-[9999] flex h-[108px] w-full justify-center border border-black/10 bg-white">
+      <div className="flex w-full items-center justify-between px-10">
         <div className="flex items-center">
           <Link href="/">
             <Logo />
           </Link>
 
           <ul className="ml-12 flex items-center gap-[72px] font-medium">
-            {filteredNavigationItems.map(navigation => {
+            {filteredNavigationItems.map((navigation) => {
               const isActive = activeNavigationId === navigation.id;
               return (
                 <li key={navigation.id}>
-                  <NavItem name={navigation.name} isActive={navigation.id === 3 ? true : isActive} onClick={navigation.onClick} />
+                  <NavItem
+                    name={navigation.name}
+                    isActive={navigation.id === 3 ? true : isActive}
+                    onClick={navigation.onClick}
+                  />
                 </li>
               );
             })}
@@ -77,7 +89,12 @@ const Navbar = ({ scrollToFeature, scrollToMoneyFlow, isFeatureInView, isMoneyFl
         <div className="flex items-center gap-4">
           <LanguageSwitcher />
           {path === "/app-guide" ? null : (
-            <LinkButton target="_blank" variant="icon" icon={<ExternalLinkIcon />} href="/app-guide">
+            <LinkButton
+              target="_blank"
+              variant="icon"
+              icon={<ExternalLinkIcon />}
+              href="/app-guide"
+            >
               {t("appGuide")}
             </LinkButton>
           )}

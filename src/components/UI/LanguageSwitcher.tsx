@@ -12,7 +12,7 @@ const LanguageSwitcher = () => {
   const router = useRouter();
   const pathname = usePathname();
   const currentLanguage = useLocale();
-  const locales = allLocales.filter(locale => locale !== currentLanguage);
+  const locales = allLocales.filter((locale) => locale !== currentLanguage);
 
   const handleLanguageChange = (locale: string) => {
     router.push(pathname, { locale });
@@ -20,20 +20,39 @@ const LanguageSwitcher = () => {
 
   return (
     <Popover className="relative">
-      <PopoverButton className="flex relative  items-center gap-3 px-2 py-[14px] bg-background rounded-xl focus-within:outline-none">
-        <div className=" flex w-5 h-5 rounded-full overflow-hidden">
-          <ReactCountryFlag style={{ width: "20px", height: "20px", objectFit: "cover" }} countryCode={renderLocaleFlag(currentLanguage)} svg />
+      <PopoverButton className="relative flex items-center gap-3 rounded-xl bg-background px-2 py-[14px] focus-within:outline-none">
+        <div className="flex h-5 w-5 overflow-hidden rounded-full">
+          <ReactCountryFlag
+            style={{ width: "20px", height: "20px", objectFit: "cover" }}
+            countryCode={renderLocaleFlag(currentLanguage)}
+            svg
+          />
         </div>
-        <span className="text-black uppercase leading-[18px] font-medium w-[50px] text-left">{currentLanguage}</span>
+        <span className="w-[50px] text-left font-medium uppercase leading-[18px] text-black">
+          {currentLanguage}
+        </span>
         <CaretDown />
       </PopoverButton>
-      <PopoverPanel anchor="bottom end" className="mt-2 grid grid-cols-6 z-[99999] absolute  gap-2 shadow-card bg-white p-4 rounded-xl">
+      <PopoverPanel
+        anchor="bottom end"
+        className="shadow-card absolute z-[99999] mt-2 grid grid-cols-6 gap-2 rounded-xl bg-white p-4"
+      >
         {locales.map((locale, index) => (
-          <div onClick={() => handleLanguageChange(locale)} className="flex  items-center gap-3 px-2 py-[14px] hover:bg-background rounded-xl cursor-pointer" key={index}>
-            <div className=" flex w-5 h-5 rounded-full overflow-hidden">
-              <ReactCountryFlag style={{ width: "20px", height: "20px", objectFit: "cover" }} countryCode={renderLocaleFlag(locale)} svg />
+          <div
+            onClick={() => handleLanguageChange(locale)}
+            className="flex cursor-pointer items-center gap-3 rounded-xl px-2 py-[14px] hover:bg-background"
+            key={index}
+          >
+            <div className="flex h-5 w-5 overflow-hidden rounded-full">
+              <ReactCountryFlag
+                style={{ width: "20px", height: "20px", objectFit: "cover" }}
+                countryCode={renderLocaleFlag(locale)}
+                svg
+              />
             </div>
-            <span className="text-black uppercase leading-[18px] font-medium w-[50px] text-left">{locale}</span>
+            <span className="w-[50px] text-left font-medium uppercase leading-[18px] text-black">
+              {locale}
+            </span>
           </div>
         ))}
       </PopoverPanel>

@@ -9,13 +9,30 @@ type Props = {
   isActiveRight: boolean;
 };
 
-const HowToUseNavigation = ({ scrollLeft, scrollRight, isActiveLeft, isActiveRight }: Props) => {
+const HowToUseNavigation = ({
+  scrollLeft,
+  scrollRight,
+  isActiveLeft,
+  isActiveRight,
+}: Props) => {
   return (
     <div className="flex items-center gap-[10px] 3xl:hidden">
-      <button onClick={scrollLeft} className={twMerge("p-[14px] border-2 border-black/10 rounded-xl", isActiveLeft ? "bg-primaryYellow border-[0.5px]" : "")}>
+      <button
+        onClick={scrollLeft}
+        className={twMerge(
+          "rounded-xl border-2 border-black/10 p-[14px]",
+          isActiveLeft ? "border-[0.5px] bg-primaryYellow" : "",
+        )}
+      >
         <ArrowIcon />
       </button>
-      <button onClick={scrollRight} className={twMerge("p-[14px] border-2 border-black/10 rounded-xl rotate-180", isActiveRight ? "bg-primaryYellow ring-0" : "")}>
+      <button
+        onClick={scrollRight}
+        className={twMerge(
+          "rotate-180 rounded-xl border-2 border-black/10 p-[14px]",
+          isActiveRight ? "bg-primaryYellow ring-0" : "",
+        )}
+      >
         <ArrowIcon />
       </button>
     </div>

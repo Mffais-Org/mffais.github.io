@@ -2,11 +2,26 @@ import React from "react";
 
 const GooglePlayImage = () => {
   return (
-    <svg width="186" height="56" viewBox="0 0 186 56" fill="none" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+    <svg
+      width="186"
+      height="56"
+      viewBox="0 0 186 56"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlnsXlink="http://www.w3.org/1999/xlink"
+    >
       <rect width="185.92" height="56" fill="url(#pattern0_170_487)" />
       <defs>
-        <pattern id="pattern0_170_487" patternContentUnits="objectBoundingBox" width="1" height="1">
-          <use xlinkHref="#image0_170_487" transform="matrix(0.00176463 0 0 0.00585859 -0.069977 -0.232323)" />
+        <pattern
+          id="pattern0_170_487"
+          patternContentUnits="objectBoundingBox"
+          width="1"
+          height="1"
+        >
+          <use
+            xlinkHref="#image0_170_487"
+            transform="matrix(0.00176463 0 0 0.00585859 -0.069977 -0.232323)"
+          />
         </pattern>
         <image
           id="image0_170_487"

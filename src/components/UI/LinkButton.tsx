@@ -20,17 +20,38 @@ type Props =
       target?: HTMLProps<HTMLAnchorElement>["target"];
     };
 
-const LinkButton = ({ variant = "primary", children, href, className, icon, target = "" }: Props) => {
+const LinkButton = ({
+  variant = "primary",
+  children,
+  href,
+  className,
+  icon,
+  target = "",
+}: Props) => {
   if (variant === "primary") {
     return (
-      <Link target={target} className={twMerge("bg-primaryYellow px-6 flex items-center h-12 rounded-xl font-medium text-sm border-[0.5px] border-[rgba(0,0,0,0.08)] transition duration-200 ease-in hover:text-font hover:shadow-custom", className)} href={href}>
+      <Link
+        target={target}
+        className={twMerge(
+          "hover:shadow-custom flex h-12 items-center rounded-xl border-[0.5px] border-[rgba(0,0,0,0.08)] bg-primaryYellow px-6 text-sm font-medium transition duration-200 ease-in hover:text-font",
+          className,
+        )}
+        href={href}
+      >
         {children}
       </Link>
     );
   }
 
   return (
-    <Link target={target} className={twMerge("flex gap-[10px] items-center px-6 font-medium h-12 border-2 border-primaryYellow rounded-xl transition duration-200 ease-in hover:text-font hover:shadow-custom  ", className)} href={href}>
+    <Link
+      target={target}
+      className={twMerge(
+        "hover:shadow-custom flex h-12 items-center gap-[10px] rounded-xl border-2 border-primaryYellow px-6 font-medium transition duration-200 ease-in hover:text-font",
+        className,
+      )}
+      href={href}
+    >
       <span>{children}</span>
       <div>{icon}</div>
     </Link>

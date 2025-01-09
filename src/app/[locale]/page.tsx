@@ -23,7 +23,10 @@ export default function Home() {
   const scrollToFeature = (updateURL = true) => {
     if (featureRef.current) {
       const offset = 100;
-      const elementPosition = featureRef.current.getBoundingClientRect().top + window.scrollY - offset;
+      const elementPosition =
+        featureRef.current.getBoundingClientRect().top +
+        window.scrollY -
+        offset;
       window.scrollTo({ top: elementPosition, behavior: "smooth" });
     }
     if (updateURL) {
@@ -34,7 +37,10 @@ export default function Home() {
   const scrollToMoneyFlow = (updateURL = true) => {
     if (moneyFlowRef.current) {
       const offset = 100;
-      const elementPosition = moneyFlowRef.current.getBoundingClientRect().top + window.scrollY - offset;
+      const elementPosition =
+        moneyFlowRef.current.getBoundingClientRect().top +
+        window.scrollY -
+        offset;
       window.scrollTo({ top: elementPosition, behavior: "smooth" });
       if (updateURL) {
         router.replace("/#moneyFlow", { scroll: false });
@@ -58,7 +64,12 @@ export default function Home() {
 
   return (
     <>
-      <Navbar isFeatureInView={isFeatureInView} isMoneyFlowInView={isMoneyFlowInView} scrollToFeature={() => scrollToFeature(!initialLoad)} scrollToMoneyFlow={() => scrollToMoneyFlow(!initialLoad)} />
+      <Navbar
+        isFeatureInView={isFeatureInView}
+        isMoneyFlowInView={isMoneyFlowInView}
+        scrollToFeature={() => scrollToFeature(!initialLoad)}
+        scrollToMoneyFlow={() => scrollToMoneyFlow(!initialLoad)}
+      />
       <HeroSection />
       <HowToUseSection />
       <FeatureSection ref={featureRef} />
