@@ -70,12 +70,12 @@ const HowToUseSection = () => {
   }, []);
 
   return (
-    <section className="w-full pt-[155px] pb-9 flex flex-col items-center overflow-hidden  ">
+    <section className="w-full pt-[155px]  pb-9 flex flex-col items-center overflow-hidden  ">
       <h2 className="text-[56px] font-bold leading-[55px]">{t("title")}</h2>
-      <div className="mt-11 max-w-[70%] flex justify-end w-full">
+      <div className="mt-11 max-w-[1130px] flex justify-end w-full">
         <HowToUseNavigation isActiveLeft={scrollPosition > 0} isActiveRight={scrollPosition === 0} scrollLeft={scrollLeft} scrollRight={scrollRight} />
       </div>
-      <div ref={scrollContainerRef} className="flex pl-[20%] 3xl:pl-0 3xl:justify-center gap-6 w-full  overflow-scroll pt-10 py-20 no-scrollbar ">
+      <div ref={scrollContainerRef} className="flex xl:pl-[155px] pr-10 3xl:pl-0 3xl:justify-center gap-6 w-full  overflow-scroll pt-10 py-20 no-scrollbar ">
         {cards.map((card, index) => (
           <HowToUseCard key={index} card={card} />
         ))}

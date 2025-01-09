@@ -6,17 +6,21 @@ const CenterImageSection = () => {
   const t = useTranslations("centerImageSection");
 
   return (
-    <section className="flex justify-between gap-[114px] mb-[124px] px-[15%]">
-      <div className="flex w-full items-center  flex-col gap-[136px] mt-[102px]">
+    <section className="mx-auto mb-[124px] flex justify-between xl:max-w-[1130px]">
+      <div className="mt-[102px] flex w-[280px] flex-col items-center gap-[136px] tracking-tighter">
         <StarIcon className="w-8" />
-        <span className="text-[40px] leading-[48px] font-bold">{t("leftText")}</span>
+        <span className="text-[40px] font-bold leading-[48px]">
+          {t("leftText")}
+        </span>
       </div>
-      <div className="min-w-[342px]">
+      <div className="w-full max-w-[342px]">
         <img src="/images/VerticalMobile.png" />
       </div>
-      <div className="flex w-full items-center flex-col gap-[136px] mt-[102px]">
+      <div className="mt-[102px] flex w-[280px] flex-col items-center gap-[136px] tracking-tighter">
         <StarIcon />
-        <span className="text-[40px] leading-[48px] font-bold">{t("rightText")}</span>
+        <span className="text-[40px] font-bold leading-[48px]">
+          {t("rightText")}
+        </span>
       </div>
     </section>
   );

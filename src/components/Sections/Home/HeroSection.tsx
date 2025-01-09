@@ -9,8 +9,8 @@ const HeroSection = () => {
   const t = useTranslations("heroSection");
 
   return (
-    <section className="bg-background  ">
-      <div className="flex h-full min-h-[764px] items-center px-[15%] ">
+    <section className="bg-background">
+      <div className="flex h-full min-h-[764px]  items-center xl:max-w-[1130px] mx-auto ">
         <div className="flex w-1/2 flex-col pl-4 ">
           <TitleImage />
           <p className="text-font text-[26px] mt-10 leading-[44px] max-w-[70%]">{t("subtitle")}</p>
