@@ -8,8 +8,8 @@ import LinkButton from "../../UI/LinkButton";
 const CTASection = () => {
   const t = useTranslations("CTASection");
   return (
-    <section className="flex flex-col">
-      <div className="flex items-center justify-between px-[15%] py-[100px] 3xl:justify-center 3xl:gap-20">
+    <section className="flex flex-col px-16">
+      <div className="mx-auto flex w-full max-w-[1130px] items-center justify-between py-[100px]">
         <div className="flex items-center gap-10">
           <span className="text-[28px] font-medium leading-9">
             {t("leftText")}

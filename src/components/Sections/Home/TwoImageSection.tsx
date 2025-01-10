@@ -6,7 +6,7 @@ const TwoImageSection = () => {
   const t = useTranslations("twoImageSection");
   return (
     <section className="mb-[124px] flex flex-col">
-      <div className="3xl: flex justify-between gap-20 px-[15%]">
+      <div className="mx-auto flex max-w-[1130px] justify-between gap-20">
         <img src="/images/TwoImageSectionLeft.png" />
         <img src="/images/TwoImageSectionRight.png" />
         <div className="flex max-w-[342px] flex-col items-center">

@@ -29,7 +29,7 @@ const HomeFooter = () => {
   ];
 
   return (
-    <footer className="mb-[60px] mt-[76px] flex items-center justify-between px-[15%] 3xl:justify-evenly 3xl:gap-20">
+    <footer className="mx-auto mb-[60px] mt-[76px] flex max-w-[1130px] items-center justify-between">
       <Logo />
       {nav.map((item, index) => (
         <Link

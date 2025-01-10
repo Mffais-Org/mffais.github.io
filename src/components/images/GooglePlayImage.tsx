@@ -1,10 +1,17 @@
+import { useMediaQuery } from "@uidotdev/usehooks";
 import React from "react";
 
-const GooglePlayImage = () => {
+type Props = {
+  className?: string;
+};
+
+const GooglePlayImage = ({ className }: Props) => {
+  const isSmall = useMediaQuery("(max-width: 1279px)");
   return (
     <svg
-      width="186"
-      height="56"
+      className={className}
+      width={isSmall ? "93" : "186"}
+      height={isSmall ? "28" : "56"}
       viewBox="0 0 186 56"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"

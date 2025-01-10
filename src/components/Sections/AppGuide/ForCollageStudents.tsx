@@ -54,14 +54,14 @@ const ForCollageStudents = () => {
   ];
 
   return (
-    <section className="flex flex-col items-center gap-20 px-16 py-[112px] 3xl:px-[]">
+    <section className="mx-auto flex flex-col items-center gap-20 py-[112px] xl:max-w-[1312px] 3xl:max-w-[1911px]  md">
       <div className="flex items-center gap-20">
         <div className="flex flex-col">
           <Badge text={t("badge")} className="mb-4" />
           <span className="mb-6 text-[56px] font-bold leading-[67px]">
             {t("title")}
           </span>
-          <p className="parag text-[26px] leading-[34px]">{t("text")}</p>
+          <p className="text-[26px] leading-[34px]">{t("text")}</p>
         </div>
         <VideoPlayer
           videoSrc="/videos/finances-video.mp4"

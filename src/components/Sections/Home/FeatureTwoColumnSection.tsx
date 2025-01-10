@@ -14,11 +14,11 @@ const FeatureTwoColumnSection = ({ section }: Props) => {
   return (
     <div
       className={twMerge(
-        "mb-16 flex min-h-[420px] w-full max-w-[1130px] justify-center gap-12",
+        "mb-16 flex min-h-[420px] w-full justify-center gap-12",
         section.reverse ? "flex-row-reverse" : "flex-row",
       )}
     >
-      <div className="flex w-[40%] max-w-[420px] flex-col gap-12 pl-10 pr-[56px] pt-12">
+      <div className="flex min-w-[420px] flex-col gap-12 pl-10 pr-[56px] pt-12">
         <span className="text-[40px] font-medium leading-[44px]">
           {section.title}
         </span>

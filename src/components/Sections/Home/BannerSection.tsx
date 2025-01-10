@@ -14,9 +14,11 @@ const BannerSection = ({ variant = "home" }: Props) => {
     return (
       <div className="flex flex-col gap-20 px-16">
         <div className="h-[1px] w-full bg-black/10"></div>
-        <div className="flex items-center gap-[100px] rounded-3xl bg-background py-[84px] pl-[92px] pr-[67px] 3xl:justify-center">
-          <img src="/images/Tracking.png" className="w-[310px]" />
-          <p className="text-[40px] font-bold leading-[48px]">{t("text")}</p>
+        <div className="rounded-3xl bg-background py-[84px]">
+          <div className="mx-auto flex max-w-[1130px] items-center gap-12">
+            <img src="/images/Tracking.png" className="w-[310px]" />
+            <p className="text-[40px] font-bold leading-[48px]">{t("text")}</p>
+          </div>
         </div>
         <div className="h-[1px] w-full bg-black/10"></div>
       </div>
@@ -24,8 +26,8 @@ const BannerSection = ({ variant = "home" }: Props) => {
   }
 
   return (
-    <div className="my-[112px] flex flex-col gap-20 px-16">
-      <div className="flex items-center justify-between gap-[100px] rounded-3xl bg-background py-[84px] pl-[92px] pr-[67px] 3xl:justify-center">
+    <div className="mx-auto my-[112px] flex max-w-[1312px] flex-col gap-20 rounded-3xl bg-background py-[84px] 3xl:max-w-[1911px]">
+      <div className="flex items-center justify-between px-24">
         <div className="flex max-w-[500px] flex-col">
           <h3 className="mb-6 text-[40px] font-medium leading-[44px]">
             {t2("title")}

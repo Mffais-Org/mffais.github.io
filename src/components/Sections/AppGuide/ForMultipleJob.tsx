@@ -54,7 +54,7 @@ const ForMultipleJob = () => {
   ];
 
   return (
-    <section className="flex flex-col items-center gap-20 px-16 py-[112px] 3xl:px-[]">
+    <section className="mx-auto flex flex-col items-center gap-20 py-[112px] xl:max-w-[1312px] 3xl:max-w-[1911px]">
       <div className="flex items-center gap-20">
         <VideoPlayer
           videoSrc="/videos/income-video.mp4"
