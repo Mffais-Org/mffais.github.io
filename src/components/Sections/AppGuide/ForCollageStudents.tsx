@@ -54,21 +54,23 @@ const ForCollageStudents = () => {
   ];
 
   return (
-    <section className="mx-auto flex flex-col items-center gap-20 py-[112px] xl:max-w-[1312px] 3xl:max-w-[1911px]  md">
-      <div className="flex items-center gap-20">
+    <section className="flex flex-col items-center gap-6 px-6 pb-6 pt-10 xl:mx-auto xl:max-w-[1312px] xl:gap-20 xl:px-0 xl:py-[112px] 3xl:max-w-[1911px]">
+      <div className="flex flex-col items-center gap-6 xl:flex-row xl:gap-20">
         <div className="flex flex-col">
-          <Badge text={t("badge")} className="mb-4" />
-          <span className="mb-6 text-[56px] font-bold leading-[67px]">
+          <Badge text={t("badge")} className="mb-6 xl:mb-4" />
+          <span className="mb-6 text-[24px] font-bold leading-7 xl:text-[56px] xl:leading-[67px]">
             {t("title")}
           </span>
-          <p className="text-[26px] leading-[34px]">{t("text")}</p>
+          <p className="text-base xl:text-[26px] xl:leading-[34px]">
+            {t("text")}
+          </p>
         </div>
         <VideoPlayer
           videoSrc="/videos/finances-video.mp4"
           overlaySrc="/images/StudentsVideoOverlay.png"
         />
       </div>
-      <div className="grid grid-cols-3 gap-x-8 gap-y-20">
+      <div className="grid grid-cols-1 gap-6 md:grid-cols-2 xl:grid-cols-3 xl:gap-0 xl:gap-x-8 xl:gap-y-20">
         {IconCardData.map((data) => (
           <IconCard
             key={data.id}

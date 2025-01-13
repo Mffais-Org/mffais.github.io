@@ -6,7 +6,7 @@ type Props = {
   scrollLeft: () => void;
   scrollRight: () => void;
   isActiveLeft: boolean;
-  isActiveRight: boolean;
+  isActiveRight: boolean | null;
 };
 
 const HowToUseNavigation = ({
@@ -16,7 +16,7 @@ const HowToUseNavigation = ({
   isActiveRight,
 }: Props) => {
   return (
-    <div className="flex items-center gap-[10px] 3xl:hidden">
+    <div className="flex items-center gap-[10px] 2xl:hidden">
       <button
         onClick={scrollLeft}
         className={twMerge(

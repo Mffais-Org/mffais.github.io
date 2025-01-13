@@ -3,6 +3,7 @@ import React from "react";
 const FocusOnFutureImage = () => {
   return (
     <svg
+      className="w-1/2 xl:w-full"
       width="324"
       height="161"
       viewBox="0 0 324 161"

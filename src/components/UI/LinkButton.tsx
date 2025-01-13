@@ -33,7 +33,7 @@ const LinkButton = ({
       <Link
         target={target}
         className={twMerge(
-          "hover:shadow-custom flex h-12 items-center rounded-xl border-[0.5px] border-[rgba(0,0,0,0.08)] bg-primaryYellow px-6 text-sm font-medium transition duration-200 ease-in hover:text-font",
+          "hover:shadow-custom flex h-12 items-center whitespace-nowrap rounded-xl border-[0.5px] border-[rgba(0,0,0,0.08)] bg-primaryYellow px-6 text-sm font-medium transition duration-200 ease-in hover:text-font",
           className,
         )}
         href={href}

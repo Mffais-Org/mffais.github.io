@@ -8,18 +8,27 @@ type Props = {
 const MoneyFlowSection = ({ ref }: Props) => {
   const t = useTranslations("moneyFlowSection");
   return (
-    <section ref={ref} className="mb-[124px] bg-background pt-[124px]">
-      <div className="mx-auto flex flex-col items-center xl:max-w-[1130px]">
-        <h2 className="mb-10 text-[56px] font-bold leading-[55px]">
+    <section
+      ref={ref}
+      className="mb-10 bg-background px-6 pt-10 xl:mb-[124px] xl:px-0 xl:pt-[124px]"
+    >
+      <div className="mx-auto flex flex-col xl:max-w-[1130px] xl:items-center">
+        <h2 className="mb-10 text-left text-[24px] font-bold leading-7 md:text-center xl:text-[56px] xl:leading-[55px]">
           {t("title")}
         </h2>
-        <p className="mb-[94px] px-36 text-center text-[26px] leading-[44px] tracking-[0.26px]">
+        <p className="text-left text-[18px] leading-7 tracking-[0.26px] md:text-center xl:mb-[94px] xl:px-36 xl:text-[26px] xl:leading-[44px]">
           {t("description")}
         </p>
-        <div className="relative mb-[115px] flex min-h-[386px] w-full max-w-[792px] items-center justify-center">
-          <div className="absolute h-[386px] w-[386px] rounded-full border-8 border-primaryYellow"></div>
-          <img src="/images/MoneyFlowLeft.png" className="z-10" />
-          <img src="/images/MoneyFlowRight.png" className="z-10" />
+        <div className="relative flex w-full flex-col items-center justify-center xl:mb-[115px] xl:min-h-[386px] xl:max-w-[792px] xl:flex-row">
+          <div className="absolute h-[300px] w-[300px] rounded-full border-8 border-primaryYellow xl:h-[386px] xl:w-[386px]"></div>
+          <img
+            src="/images/MoneyFlowLeft.png"
+            className="z-10 max-w-[70%] xl:max-w-full"
+          />
+          <img
+            src="/images/MoneyFlowRight.png"
+            className="z-10 max-w-[70%] xl:max-w-full"
+          />
         </div>
       </div>
     </section>

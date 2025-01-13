@@ -14,21 +14,21 @@ const FeatureTwoColumnSection = ({ section }: Props) => {
   return (
     <div
       className={twMerge(
-        "mb-16 flex min-h-[420px] w-full justify-center gap-12",
-        section.reverse ? "flex-row-reverse" : "flex-row",
+        "mb-8 flex w-full flex-col-reverse justify-center gap-4 md:items-center xl:mb-16 xl:flex-row xl:gap-12",
+        section.reverse ? "xl:flex-row-reverse" : "xl:flex-row",
       )}
     >
-      <div className="flex min-w-[420px] flex-col gap-12 pl-10 pr-[56px] pt-12">
-        <span className="text-[40px] font-medium leading-[44px]">
+      <div className="flex flex-col gap-4 md:min-w-[660px] xl:min-w-[420px] xl:gap-12 xl:pl-10 xl:pr-[56px] xl:pt-12">
+        <span className="text-[18px] font-medium leading-6 xl:text-[40px] xl:leading-[44px]">
           {section.title}
         </span>
         <p
           dangerouslySetInnerHTML={{ __html: section.description }}
-          className="text-[25px] leading-[34px]"
+          className="text-base xl:text-[25px] xl:leading-[34px]"
         />
       </div>
-      <div className="flex w-full max-w-[660px] items-center justify-center rounded-xl bg-background">
-        <div className="">{section.image}</div>
+      <div className="flex w-full items-center justify-center rounded-xl bg-background py-10 md:max-w-[660px] xl:min-h-[420px]">
+        {section.image}
       </div>
     </div>
   );

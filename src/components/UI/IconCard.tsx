@@ -9,11 +9,11 @@ type Props = {
 const IconCard = ({ icon, title, description }: Props) => {
   return (
     <div className="flex flex-col">
-      <>{icon}</>
-      <h4 className="mb-4 mt-6 text-[26px] font-medium leading-[31px]">
+      <div>{icon}</div>
+      <h4 className="my-4 text-[18px] font-medium leading-[22px] xl:my-0 xl:mb-4 xl:mt-6 xl:text-[26px] xl:leading-[31px]">
         {title}
       </h4>
-      <p className="text-xl leading-[34px]">{description}</p>
+      <p className="text-base xl:text-xl xl:leading-[34px]">{description}</p>
     </div>
   );
 };

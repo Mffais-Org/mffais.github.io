@@ -25,7 +25,7 @@ export default function VideoPlayer({ videoSrc, overlaySrc }: Props) {
   };
 
   return (
-    <div className="relative flex h-[400px] min-w-[562px] cursor-pointer items-center justify-center">
+    <div className="relative flex h-[400px] w-full cursor-pointer items-center justify-center xl:min-w-[562px]">
       {showOverlay && (
         <img
           onClick={handlePlayPause}

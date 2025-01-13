@@ -3,6 +3,7 @@ import React from "react";
 const ClearTransactionsImage = () => {
   return (
     <svg
+      className="w-1/2 xl:w-full"
       width="316"
       height="164"
       viewBox="0 0 316 164"

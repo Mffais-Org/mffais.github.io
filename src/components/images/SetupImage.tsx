@@ -3,6 +3,7 @@ import React from "react";
 const SetupImage = () => {
   return (
     <svg
+      className="w-1/2 xl:w-full"
       width="379"
       height="160"
       viewBox="0 0 379 160"

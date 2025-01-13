@@ -29,18 +29,20 @@ const HomeFooter = () => {
   ];
 
   return (
-    <footer className="mx-auto mb-[60px] mt-[76px] flex max-w-[1130px] items-center justify-between">
+    <footer className="my-10 flex flex-col items-center gap-10 px-6 md:mx-auto md:items-center md:justify-between xl:my-0 xl:mb-[60px] xl:mt-[76px] xl:max-w-[1130px] xl:flex-row xl:gap-8 xl:px-0">
       <Logo />
-      {nav.map((item, index) => (
-        <Link
-          className="flex items-center gap-2 text-base leading-[18px]"
-          key={index}
-          href={item.href}
-        >
-          <span>{item.label}</span>
-          <span className="opacity-50">{item.icon}</span>
-        </Link>
-      ))}
+      <div className="flex flex-col gap-8 md:w-full md:flex-row md:justify-center xl:justify-between xl:pl-20">
+        {nav.map((item, index) => (
+          <Link
+            className="flex items-center gap-2 text-base leading-[18px]"
+            key={index}
+            href={item.href}
+          >
+            <span className="whitespace-nowrap">{item.label}</span>
+            <span className="opacity-50">{item.icon}</span>
+          </Link>
+        ))}
+      </div>
     </footer>
   );
 };

@@ -22,6 +22,7 @@ export default {
       screens: {
         "2xl": "1920px",
         "3xl": "2450px",
+        mdTablet: "1000px",
       },
     },
   },

@@ -53,7 +53,6 @@ export default function Home() {
 
   useEffect(() => {
     const hash = window.location.hash.slice(1);
-    console.log(hash, "hash");
     if (hash === "feature") {
       scrollToFeature(false);
     } else if (hash === "moneyFlow") {
