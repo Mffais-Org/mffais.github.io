@@ -22,7 +22,7 @@ export default function Home() {
 
   const scrollToFeature = (updateURL = true) => {
     if (featureRef.current) {
-      const offset = 100;
+      const offset = 150;
       const elementPosition =
         featureRef.current.getBoundingClientRect().top +
         window.scrollY -

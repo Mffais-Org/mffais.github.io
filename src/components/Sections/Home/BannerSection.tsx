@@ -41,7 +41,9 @@ const BannerSection = ({ variant = "home" }: Props) => {
             {t2("buttonText")}
           </LinkButton>
         </div>
-        <img src="/images/Tracking.png" className="mt-6 w-1/2 xl:mt-0" />
+        <div>
+          <img src="/images/Tracking.png" className="mt-6 xl:mt-0" />
+        </div>
       </div>
     </div>
   );

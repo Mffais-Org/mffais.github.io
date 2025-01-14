@@ -6,9 +6,15 @@ type NavItemProps = {
   isActive: boolean;
   onClick: () => void;
   href?: string;
+  isSmall: boolean;
 };
 
-export default function NavItem({ name, isActive, onClick }: NavItemProps) {
+export default function NavItem({
+  name,
+  isActive,
+  onClick,
+  isSmall,
+}: NavItemProps) {
   const underlineStyle = useSpring({
     transform: isActive ? "scaleX(1)" : "scaleX(0)",
     opacity: isActive ? 1 : 0,
@@ -20,9 +26,9 @@ export default function NavItem({ name, isActive, onClick }: NavItemProps) {
   });
   const underlineStatic: React.CSSProperties = {
     position: "absolute",
-    bottom: "-12px",
+    bottom: isSmall ? "0" : "-12px",
     height: "1px",
-    width: "60px",
+    width: isSmall ? "100%" : "60px",
     backgroundColor: "#ffd30d",
     transformOrigin: "left center",
   };

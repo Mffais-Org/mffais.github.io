@@ -7,6 +7,7 @@ import ExternalLinkIcon from "../Icons/ExternalLinkIcon";
 import { Link, usePathname, useRouter } from "@/i18n/routing";
 import NavItem from "./NavItem";
 import LanguageSwitcher from "../UI/LanguageSwitcher";
+import { useMediaQuery } from "@uidotdev/usehooks";
 
 type Props = {
   scrollToFeature?: () => void;
@@ -26,6 +27,7 @@ const Navbar = ({
   const t = useTranslations("navigation");
   const path = usePathname();
   const router = useRouter();
+  const isSmall = useMediaQuery("(max-width: 1280px)");
 
   const handleNavigation = (target: string) => {
     if (path === "/" && scrollToFeature) {
@@ -57,36 +59,45 @@ const Navbar = ({
     },
   ];
 
-  const activeNavigationId = isFeatureInView ? 1 : isMoneyFlowInView ? 2 : null;
-  const filteredNavigationItems = appGuide
-    ? navigationItems
-    : navigationItems.filter((navigation) => navigation.id !== 3);
+  const activeNavigationId = isFeatureInView ? 1 : isMoneyFlowInView ? 2 : 3;
+
+  const filteredNavigationItems =
+    !appGuide && !isSmall
+      ? navigationItems.filter((navigation) => navigation.id !== 3)
+      : navigationItems;
 
   return (
     <div className="fixed top-0 z-[9999] flex h-[108px] w-full justify-center border border-black/10 bg-white">
-      <div className="flex w-full items-center justify-between px-10">
-        <div className="flex items-center">
-          <Link href="/">
+      <div className="flex w-full items-center justify-between px-6 xl:px-10">
+        <div className="flex w-full items-center md:gap-10 xl:w-auto xl:gap-0">
+          <Link className="mr-2" href="/">
             <Logo />
           </Link>
-
-          <ul className="ml-12 flex items-center gap-[72px] font-medium">
+          <ul className="flex w-full items-center gap-4 text-[11px] font-medium leading-[18px] md:justify-start md:gap-10 xl:ml-12 xl:gap-[72px] xl:text-[16px]">
             {filteredNavigationItems.map((navigation) => {
               const isActive = activeNavigationId === navigation.id;
               return (
                 <li key={navigation.id}>
                   <NavItem
                     name={navigation.name}
-                    isActive={navigation.id === 3 ? true : isActive}
+                    isSmall={isSmall}
+                    isActive={
+                      isSmall && navigation.id === 3
+                        ? path === "/app-guide"
+                        : isActive
+                    }
                     onClick={navigation.onClick}
                   />
                 </li>
               );
             })}
           </ul>
+          <div className="block xl:hidden">
+            <LanguageSwitcher />
+          </div>
         </div>
 
-        <div className="flex items-center gap-4">
+        <div className="hidden items-center gap-4 xl:flex">
           <LanguageSwitcher />
           {path === "/app-guide" ? null : (
             <LinkButton
@@ -98,7 +109,9 @@ const Navbar = ({
               {t("appGuide")}
             </LinkButton>
           )}
-          <LinkButton href="#">{t("getTheApp")}</LinkButton>
+          <LinkButton className="hidden xl:flex" href="#">
+            {t("getTheApp")}
+          </LinkButton>
         </div>
       </div>
     </div>
