@@ -5,6 +5,7 @@ import AppGuideHero from "@/components/Sections/AppGuide/AppGuideHero";
 import ForCollageStudents from "@/components/Sections/AppGuide/ForCollageStudents";
 import ForMultipleJob from "@/components/Sections/AppGuide/ForMultipleJob";
 import BannerSection from "@/components/Sections/Home/BannerSection";
+import HomeFooter from "@/components/Sections/Home/HomeFooter";
 import React from "react";
 
 const AppGuidePage = () => {
@@ -16,6 +17,7 @@ const AppGuidePage = () => {
       <ForCollageStudents />
       <ForMultipleJob />
       <BannerSection variant="appGuide" />
+      <HomeFooter />
     </div>
   );
 };

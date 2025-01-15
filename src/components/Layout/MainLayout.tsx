@@ -5,7 +5,7 @@ type Props = {
 };
 
 const MainLayout = ({ children }: Props) => {
-  return <div className="mt-[108px]">{children}</div>;
+  return <div className="mt-[70px] xl:mt-[108px]">{children}</div>;
 };
 
 export default MainLayout;

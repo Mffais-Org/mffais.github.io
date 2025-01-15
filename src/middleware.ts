@@ -4,5 +4,10 @@ import { routing } from "./i18n/routing";
 export default createMiddleware(routing);
 
 export const config = {
-  matcher: ["/", "/app-guide", "/(en|de)/:path*"],
+  matcher: [
+    "/",
+    "/app-guide",
+    "/legal/(privacy-policy|terms-and-conditions)",
+    "/(en|de)/:path*",
+  ],
 };

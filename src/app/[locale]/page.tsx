@@ -77,7 +77,10 @@ export default function Home() {
       <TwoImageSection />
       <BannerSection />
       <CTASection />
-      <HomeFooter />
+      <HomeFooter
+        scrollToFeature={() => scrollToFeature(!initialLoad)}
+        scrollToMoneyFlow={() => scrollToMoneyFlow(!initialLoad)}
+      />
     </>
   );
 }

@@ -67,7 +67,7 @@ const Navbar = ({
       : navigationItems;
 
   return (
-    <div className="fixed top-0 z-[9999] flex h-[108px] w-full justify-center border border-black/10 bg-white">
+    <div className="fixed top-0 z-[9999] flex h-[70px] w-full justify-center border border-black/10 bg-white xl:h-[108px]">
       <div className="flex w-full items-center justify-between px-6 xl:px-10">
         <div className="flex w-full items-center md:gap-10 xl:w-auto xl:gap-0">
           <Link className="mr-2" href="/">

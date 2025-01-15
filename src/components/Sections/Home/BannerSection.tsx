@@ -1,3 +1,4 @@
+import Divider from "@/components/UI/Divider";
 import LinkButton from "@/components/UI/LinkButton";
 import { useTranslations } from "next-intl";
 import React from "react";
@@ -13,7 +14,7 @@ const BannerSection = ({ variant = "home" }: Props) => {
   if (variant === "home") {
     return (
       <div className="flex flex-col gap-10 px-6 xl:gap-20 xl:px-16">
-        <div className="h-[1px] w-full bg-black/10"></div>
+        <Divider />
         <div className="rounded-3xl bg-background px-6 py-10 xl:py-[84px]">
           <div className="mx-auto flex max-w-[1130px] flex-col-reverse items-center gap-12 md:flex-row">
             <img src="/images/Tracking.png" className="md:max-w-[310px]" />
@@ -22,7 +23,7 @@ const BannerSection = ({ variant = "home" }: Props) => {
             </p>
           </div>
         </div>
-        <div className="h-[1px] w-full bg-black/10"></div>
+        <Divider />
       </div>
     );
   }
