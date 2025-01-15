@@ -32,6 +32,7 @@ const HeroSection = () => {
           <img
             className="-mb-[66px] w-1/2 xl:w-fit"
             src="/images/HeroPhone.png"
+            alt="Hero Phone"
           />
         </div>
       </div>

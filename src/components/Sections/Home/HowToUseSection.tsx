@@ -17,7 +17,13 @@ const HowToUseSection = () => {
 
   const cards = [
     {
-      icon: <img src="/images/icons/download.png" className="w-10 xl:w-16" />,
+      icon: (
+        <img
+          src="/images/icons/download.png"
+          className="w-10 xl:w-16"
+          alt="download"
+        />
+      ),
       title: c("card1.title"),
       description: c("card1.description"),
     },

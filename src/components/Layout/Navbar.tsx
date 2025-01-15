@@ -33,7 +33,6 @@ const Navbar = ({
     if (path === "/" && scrollToFeature) {
       if (target === "feature") {
         scrollToFeature();
-        console.log("scrollToFeature");
       }
       if (target === "moneyFlow" && scrollToMoneyFlow) {
         scrollToMoneyFlow();

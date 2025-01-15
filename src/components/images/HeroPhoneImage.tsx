@@ -1,8 +1,6 @@
 import React from "react";
 
-type Props = {};
-
-const HeroPhoneImage = (props: Props) => {
+const HeroPhoneImage = () => {
   return (
     <svg
       width="499"

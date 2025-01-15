@@ -10,7 +10,7 @@ import React from "react";
 
 const AppGuidePage = () => {
   return (
-    <div className="">
+    <>
       <Navbar appGuide />
       <AppGuideHero />
       <AccountSetup />
@@ -18,7 +18,7 @@ const AppGuidePage = () => {
       <ForMultipleJob />
       <BannerSection variant="appGuide" />
       <HomeFooter />
-    </div>
+    </>
   );
 };
 

@@ -12,7 +12,7 @@ const CenterImageSection = () => {
         <span>{t("leftText")}</span>
       </div>
       <div className="w-full max-w-[200px] xl:max-w-[342px]">
-        <img src="/images/VerticalMobile.png" className="" />
+        <img src="/images/VerticalMobile.png" alt="Mobile" />
       </div>
       <div className="flex w-[280px] flex-col items-center justify-center tracking-tighter xl:mt-[102px] xl:justify-start xl:gap-[136px]">
         <StarIcon className="hidden xl:block" />

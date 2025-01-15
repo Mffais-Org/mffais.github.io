@@ -27,10 +27,12 @@ const TwoImageSection = () => {
           <img
             src="/images/TwoImageSectionLeft.png"
             className="pointer-events-none h-full max-w-[250px] xl:max-w-full"
+            alt="TwoImageSectionLeft"
           />
           <img
             src="/images/TwoImageSectionRight.png"
             className="pointer-events-none h-full max-w-[250px] xl:max-w-full"
+            alt="TwoImageSectionRight"
           />
         </div>
         <div className="flex flex-col items-start px-6 md:max-w-[342px] md:items-center">

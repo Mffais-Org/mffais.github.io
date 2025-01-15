@@ -24,10 +24,12 @@ const MoneyFlowSection = ({ ref }: Props) => {
           <img
             src="/images/MoneyFlowLeft.png"
             className="z-10 max-w-[70%] xl:max-w-full"
+            alt="Money flow"
           />
           <img
             src="/images/MoneyFlowRight.png"
             className="z-10 max-w-[70%] xl:max-w-full"
+            alt="Money flow"
           />
         </div>
       </div>

@@ -59,6 +59,7 @@ export default function Home() {
       scrollToMoneyFlow(false);
     }
     setInitialLoad(false);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (

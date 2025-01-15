@@ -17,7 +17,11 @@ const BannerSection = ({ variant = "home" }: Props) => {
         <Divider />
         <div className="rounded-3xl bg-background px-6 py-10 xl:py-[84px]">
           <div className="mx-auto flex max-w-[1130px] flex-col-reverse items-center gap-12 md:flex-row">
-            <img src="/images/Tracking.png" className="md:max-w-[310px]" />
+            <img
+              src="/images/Tracking.png"
+              className="md:max-w-[310px]"
+              alt="tracking"
+            />
             <p className="text-[24px] font-bold leading-8 xl:text-[40px] xl:leading-[48px]">
               {t("text")}
             </p>
@@ -43,7 +47,11 @@ const BannerSection = ({ variant = "home" }: Props) => {
           </LinkButton>
         </div>
         <div>
-          <img src="/images/Tracking.png" className="mt-6 xl:mt-0" />
+          <img
+            src="/images/Tracking.png"
+            className="mt-6 xl:mt-0"
+            alt="tracking"
+          />
         </div>
       </div>
     </div>
