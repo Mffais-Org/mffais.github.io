@@ -1,4 +1,4 @@
-import { useMediaQuery } from "@uidotdev/usehooks";
+import useMediaQuery from "@/hooks/useMediaQuery";
 import React from "react";
 
 const Logo = () => {

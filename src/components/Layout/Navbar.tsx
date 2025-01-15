@@ -7,7 +7,7 @@ import ExternalLinkIcon from "../Icons/ExternalLinkIcon";
 import { Link, usePathname, useRouter } from "@/i18n/routing";
 import NavItem from "./NavItem";
 import LanguageSwitcher from "../UI/LanguageSwitcher";
-import { useMediaQuery } from "@uidotdev/usehooks";
+import useMediaQuery from "@/hooks/useMediaQuery";
 
 type Props = {
   scrollToFeature?: () => void;
@@ -28,6 +28,8 @@ const Navbar = ({
   const path = usePathname();
   const router = useRouter();
   const isSmall = useMediaQuery("(max-width: 1280px)");
+
+  console.log(isSmall);
 
   const handleNavigation = (target: string) => {
     if (path === "/" && scrollToFeature) {

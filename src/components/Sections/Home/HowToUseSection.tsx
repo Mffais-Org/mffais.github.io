@@ -7,7 +7,7 @@ import CalendarIcon from "../../Icons/CalendarIcon";
 import ExchangeIcon from "../../Icons/ExchangeIcon";
 import HowToUseCard from "./HowToUseCard";
 import HowToUseNavigation from "./HowToUseNavigation";
-import { useMediaQuery } from "@uidotdev/usehooks";
+import useMediaQuery from "@/hooks/useMediaQuery";
 
 const HowToUseSection = () => {
   const t = useTranslations("howToUseSection");
