@@ -29,7 +29,7 @@ const AccountSetup = () => {
           onMouseDown={handleMouseDown}
           onMouseMove={handleMouseMove}
           onMouseUp={handleMouseUp}
-          className="no-scrollbar mdTablet:justify-center mdTablet:cursor-auto flex w-full cursor-grab items-center gap-4 overflow-x-scroll px-6 xl:gap-10 xl:px-14"
+          className="no-scrollbar flex w-full cursor-grab items-center gap-4 overflow-x-scroll px-6 mdTablet:cursor-auto mdTablet:justify-center xl:gap-10 xl:px-14"
         >
           <img
             src="/images/AccountSetupCard.png"

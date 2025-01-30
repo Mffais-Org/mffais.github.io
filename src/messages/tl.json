@@ -1,0 +1,360 @@
+{
+  "navigation": {
+    "features": "Mga tampok",
+    "moneyFlow": "Daloy ng pera",
+    "appGuide": "Gabay sa App",
+    "getTheApp": "Kunin ang app"
+  },
+  "heroSection": {
+    "title": "Magtapos matugunan.",
+    "subtitle": "Tinutulungan ka ng MFFAIS na subaybayan ang cash flow at nagbibigay ng pananaw sa paggastos at pag -iimpok sa hinaharap para sa $ 9,99."
+  },
+  "howToUseSection": {
+    "title": "Paano gamitin ang mffais",
+    "cards": {
+      "card1": {
+        "title": "I -download ang MFFAIS app mula sa tindahan",
+        "description": "Manatiling na -update sa pinakabagong mga paggalaw ng merkado at mga diskarte sa pamumuhunan sa iyong mga daliri."
+      },
+      "card2": {
+        "title": "Piliin ang iyong modelo ng subscription",
+        "description": "Piliin ang plano na pinakamahusay na nababagay sa iyong mga pangangailangan at tamasahin ang mga eksklusibong benepisyo."
+      },
+      "card3": {
+        "title": "I -setup ang iyong balanse sa MFFAIS",
+        "description": "Madaling i -configure ang iyong balanse ng MFFAIS upang simulan ang pagsubaybay sa iyong mga pamumuhunan at paglago ng pananalapi."
+      },
+      "card4": {
+        "title": "Panatilihing napapanahon ang iyong balanse",
+        "description": "Kapag nakatanggap ka ng isang kita, markahan ito tulad ng natanggap.Kapag nagbabayad ka ng isang gastos, markahan ito tulad ng ginugol"
+      },
+      "card5": {
+        "title": "I -clear ang iyong mga transaksyon",
+        "description": "I -clear ang iyong mga transaksyon at ihambing ang iyong balanse sa MFFAIS sa iyong bangko - upang mahuli ang mga nakatagong gastos"
+      }
+    }
+  },
+  "featureSection": {
+    "title": "Mga tampok",
+    "subtitle": "Subaybayan ang iyong cash flow at makakuha ng isang pananaw sa paggastos at pag -iimpok sa hinaharap",
+    "twoColumnSections": {
+      "section1": {
+        "title": "I -setup ang iyong MFFAIS account",
+        "description": "Ipasok ang iyong balanse sa bangko at idagdag ang lahat ng mga kita at gastos sa hinaharap."
+      },
+      "section2": {
+        "title": "Tumutok sa iyong hinaharap",
+        "description": "Kalkulahin ng MFFAIS ang iyong hinaharap na daloy ng pera 365 araw nang maaga.<br/> <br/> Sasabihin namin sa iyo ang iyong pinakamababang balanse at kung magkano ang pera na mayroon ka pagkatapos ng isang taon."
+      },
+      "section3": {
+        "title": "I -clear ang iyong mga transaksyon",
+        "description": "Matapos i -clear ng mga transaksyon ang iyong account sa bangko, tiyaking i -clear ang mga ito mula sa MFFAIS."
+      }
+    }
+  },
+  "centerImageSection": {
+    "leftText": "Sinasabi sa iyo ni Mffais kung magkano ang gugugol ...",
+    "rightText": "... o kung magkano ang makatipid upang manatili sa itim"
+  },
+  "moneyFlowSection": {
+    "title": "Daloy ng pera",
+    "description": "Ang isang solong lugar kung saan maaaring i -edit at suriin ng mga gumagamit ang kanilang mga transaksyon sa hinaharap - hanggang sa isang taon sa hinaharap.Dahil sa mga transaksyon ay awtomatikong minarkahan upang mabawasan ang pag -load ng cognitive."
+  },
+  "twoImageSection": {
+    "text": "TUNGKOL SA PAGSUSULIT NG DATE Tulungan kang manatili sa tuktok ng iyong daloy ng cash"
+  },
+  "bannerSection": {
+    "text": "Subaybayan ang iyong cash flow at makakuha ng isang pananaw sa paggastos at pag -iimpok sa hinaharap."
+  },
+  "CTASection": {
+    "leftText": "Subukan ito!",
+    "rightText": "Mayroon bang mga katanungan?",
+    "buttonText": "Makipag -ugnay sa suporta"
+  },
+  "homeFooterNav": {
+    "features": "Mga tampok",
+    "moneyFlow": "Daloy ng pera",
+    "privacyPolicy": "Patakaran sa Pagkapribado",
+    "termsAndConditions": "Mga Tuntunin at Kundisyon"
+  },
+  "appGuideHero": {
+    "title": "Gabay sa Mffais",
+    "subtitle": "Upang matiyak na masulit mo ang aming app, basahin ang aming mga dalubhasang tip upang gabayan ka sa daan."
+  },
+  "accountSetup": {
+    "title": "Pag -set up ng iyong account"
+  },
+  "forCollageStudents": {
+    "badge": "Para sa mga mag -aaral sa kolehiyo",
+    "title": "Pasimplehin ang iyong pananalapi sa kolehiyo",
+    "text": "Madaling magplano at subaybayan ang iyong mga gastos sa mag -aaral, mula sa matrikula at mga aklat -aralin hanggang sa mga suplay ng dorm at kainan.Hinahayaan ka ng aming intuitive interface na mag -input ng mga kita at gastos sa hinaharap, na nagbibigay ng mahalagang pananaw sa iyong cash flow para sa semestre at higit pa.",
+    "iconCards": {
+      "iconCard1": {
+        "title": "Subaybayan ang mga paulit -ulit na gastos",
+        "description": "Pamahalaan ang mga makabuluhang gastos tulad ng matrikula, aklat -aralin, at upa nang madali."
+      },
+      "iconCard2": {
+        "title": "Badyet para sa variable na gastos",
+        "description": "Magplano para sa pagkain, libangan, at mga emerhensiya, pag -aayos kung kinakailangan."
+      },
+      "iconCard3": {
+        "title": "Pamahalaan ang mga pautang ng mag -aaral",
+        "description": "Ipasok ang iba't ibang mga mapagkukunan ng kita na may iba't ibang mga frequency (hal., Lingguhang gig, buwanang pagbabayad ng freelance)."
+      },
+      "iconCard4": {
+        "title": "Pagsubaybay sa daloy ng pera",
+        "description": "Gumamit ng screen ng daloy ng pera upang matiyak na handa ka para sa paparating na mga gastos."
+      },
+      "iconCard5": {
+        "title": "Pagtataya ng gastos sa semester",
+        "description": "Magplano nang maaga para sa mga gastos sa semestre at ayusin para sa mga pagbabago sa kita."
+      },
+      "iconCard6": {
+        "title": "Mga tip sa pamamahala ng pera",
+        "description": "Sreceive na payo sa pag -iwas sa mga karaniwang mga pitfalls sa pananalapi at mga diskarte para sa pag -save ng pera sa isang masikip na badyet."
+      }
+    }
+  },
+  "forMultipleJob": {
+    "badge": "Para sa mga taong may maraming trabaho/gig",
+    "title": "Subaybayan ang lahat ng iyong mga stream ng kita",
+    "text": "Magpaalam sa abala ng pag -juggling ng maraming mga spreadsheet o apps.Sa MFFAIS, madali mong mai -input at maiuri ang kita mula sa iba't ibang mga mapagkukunan, na nagbibigay sa iyo ng isang komprehensibong pangkalahatang -ideya ng iyong cash flow nang isang sulyap.",
+    "iconCards": {
+      "iconCard1": {
+        "title": "Pag-set up ng mga stream ng maraming kita",
+        "description": "Ipasok ang iba't ibang mga mapagkukunan ng kita na may iba't ibang mga frequency (hal., Lingguhang gig, buwanang pagbabayad ng freelance)."
+      },
+      "iconCard2": {
+        "title": "Balanse ang kita at gastos",
+        "description": "Ipasok ang iba't ibang mga mapagkukunan ng kita na may iba't ibang mga frequency (hal., Lingguhang gig, buwanang pagbabayad ng freelance)."
+      },
+      "iconCard3": {
+        "title": "Tiyaking nasasakop ang lahat ng mga panukalang batas",
+        "description": "Ipasok ang iba't ibang mga mapagkukunan ng kita na may iba't ibang mga frequency (hal., Lingguhang gig, buwanang pagbabayad ng freelance)."
+      },
+      "iconCard4": {
+        "title": "Pagsubaybay sa daloy ng pera",
+        "description": "Ipasok ang iba't ibang mga mapagkukunan ng kita na may iba't ibang mga frequency (hal., Lingguhang gig, buwanang pagbabayad ng freelance)."
+      },
+      "iconCard5": {
+        "title": "Pagtataya ng gastos sa semester",
+        "description": "Ipasok ang iba't ibang mga mapagkukunan ng kita na may iba't ibang mga frequency (hal., Lingguhang gig, buwanang pagbabayad ng freelance)."
+      },
+      "iconCard6": {
+        "title": "Mga tip sa pamamahala ng pera",
+        "description": "Ipasok ang iba't ibang mga mapagkukunan ng kita na may iba't ibang mga frequency (hal., Lingguhang gig, buwanang pagbabayad ng freelance)."
+      }
+    }
+  },
+  "banner2Section": {
+    "title": "Kailangan mo ng tulong?",
+    "description": "Huwag mag -atubiling makipag -ugnay sa amin - narito kami upang matulungan kang lupigin ang iyong may kumpiyansa.",
+    "buttonText": "Makipag -ugnay sa suporta"
+  },
+  "privacyPolicy": {
+    "title": "Patakaran sa Pagkapribado ng MFFAIS Master",
+    "content": [
+      {
+        "title": "Patakaran sa Pagkapribado ng MFFAIS Master",
+        "content": [
+          "Ang Patakaran sa Pagkapribado na ito ay nagtatakda kung paano nakolekta at ginamit ang personal na impormasyon, na ibinibigay sa internet web site na matatagpuan sa www.mffais.com (ang \"Site\") at ang aming mobile application (sama -sama, \"MFFAIS\").Maliban kung ipinahiwatig, ang Patakaran sa Pagkapribado na ito ay nalalapat lamang sa Personal na Impormasyon na nakolekta sa pamamagitan ng MFFAIS o alinman sa kani -kanilang mga kaakibat (magkasama, para sa mga layunin dito, \"mffais\").Sa pamamagitan ng paggamit ng MFFAIS, sumasang -ayon ka na makagapos ng Patakaran sa Pagkapribado at ang aming Mga Tuntunin sa Paggamit, dahil maaaring susugan sila paminsan -minsan sa hinaharap (tingnan ang 'Pagbabago sa Patakaran sa Pagkapribado' sa ibaba).",
+          "Ang MFFAIS ay nakatuon sa pagpapanatili ng pagiging kompidensiyal, integridad at seguridad ng anumang personal na impormasyon tungkol sa aming mga gumagamit.Ipinapaliwanag ng Patakaran sa Pagkapribado na ito kung paano namin pinoprotektahan ang personal na impormasyon na ibinigay sa pamamagitan ng MFFAIS at kung paano namin ginagamit ang impormasyong iyon na may kaugnayan sa aming serbisyo na inaalok sa pamamagitan ng MFFAIS (ang 'Serbisyo').Ang 'Personal na Impormasyon' para sa mga layunin ng Patakaran sa Pagkapribado ay nangangahulugang impormasyon na nagpapakilala sa iyo, tulad ng iyong pangalan, address, numero ng telepono, numero ng fax o email address.",
+          "Binibigyang diin ng MFFAIS ang mga pamantayan sa privacy at seguridad upang bantayan laban sa pagnanakaw ng pagkakakilanlan at magbigay ng seguridad para sa iyong personal na impormasyon.Regular naming suriin muli ang aming mga patakaran sa privacy at seguridad at iakma ang mga ito kung kinakailangan upang harapin ang mga bagong hamon."
+        ]
+      },
+      {
+        "title": "Personal na impormasyon na nakolekta",
+        "content": [
+          "Kinokolekta namin ang sumusunod na personal na impormasyon mula sa iyo:",
+          "Makipag -ugnay sa impormasyon tulad ng pangalan, email address, mailing address, numero ng telepono;",
+          "Impormasyon sa pagsingil tulad ng numero ng credit card, at address ng pagsingil;",
+          "Kapag binisita mo ang site o i -download at gamitin ang aming mga serbisyo, maaari naming awtomatikong mangolekta ng ilang impormasyon na ipinadala sa amin ng iyong computer, mobile device, o anumang iba pang aparato.Ang impormasyong ito ay maaaring magsama ng uri ng aparato na ginagamit mo, operating system, identifier ng aparato (o 'udid'), ang iyong IP address, lokasyon, impormasyon sa mobile network, at karaniwang impormasyon sa web log, tulad ng trapiko ng iyong browser sa at mula sa amingSite, ang mga pahina na na -access mo sa aming website, at iba pang magagamit na impormasyon.Maaari rin kaming mangolekta ng impormasyon tungkol sa iyong paggamit at pakikipag -ugnay sa site, aming mobile application, o aming mga serbisyo.Halimbawa, maaari naming suriin ang iyong computer, mobile phone, o iba pang aparato ng pag -access upang makilala ang anumang nakakahamak na software o aktibidad na maaaring makaapekto sa pagkakaroon ng Mga Serbisyo.Kapag ginamit mo ang mga serbisyo, maaari rin kaming mag -imbak ng impormasyon batay sa iyong kasaysayan ng paggamit.Kasama dito, ngunit hindi limitado sa, mga detalye ng iyong mga pagbili, nilalaman na iyong tiningnan, impormasyon ng kaganapan, i -click ang impormasyon ng stream, at cookies na maaaring natatanging kilalanin ang iyong browser o ang iyong account."
+        ]
+      },
+      {
+        "title": "Paggamit ng impormasyon at pagbabahagi",
+        "content": [
+          "Ginagamit at isiniwalat ng MFFAIS ang iyong personal na impormasyon lamang tulad ng mga sumusunod:",
+          "Upang pag -aralan ang paggamit ng site at pagbutihin ang serbisyo;",
+          "Upang maihatid sa iyo ang anumang mga abiso sa administratibo, mga alerto sa pera, at mga komunikasyon na nauugnay sa iyong paggamit ng serbisyo;",
+          "Upang matupad ang iyong mga kahilingan para sa ilang mga produkto at serbisyo;",
+          "Para sa pananaliksik sa merkado, pagpaplano ng proyekto, mga problema sa pag -aayos, at pagtuklas at pagprotekta laban sa error, pandaraya, o iba pang aktibidad ng kriminal;",
+          "Sa mga kontratista ng third-party na nagbibigay ng mga serbisyo sa MFFAIS at nakasalalay sa parehong mga paghihigpit sa privacy;",
+          "Upang ipatupad ang mga tuntunin ng paggamit ni Mffais;at tulad ng itinakda sa Patakaran sa Pagkapribado na ito.",
+          "Kung sakaling ma-access mo ang serbisyo tulad ng dinala sa iyo ng isa sa aming mga kasosyo sa co-brand, sa pamamagitan ng isang co-branded URL, ang iyong email address na ginamit para sa pagrehistro sa serbisyo ay maaaring ibigay sa kasosyo sa co-brand na iyon.",
+          "Bilang karagdagan, maaari naming, paminsan -minsan, nag -aalok ng mga promo na may iba't ibang mga negosyo, website, mobile application o mga third party, na maaaring magsama ng mga pagkakataon para kumita ka ng mga deposito sa loob ng iyong MFFAIS account.Ang bawat nasabing promosyon ay sasailalim at pinamamahalaan ng aming Mga Tuntunin sa Paggamit, Patakaran sa Pagkapribado, at anumang naaangkop na mga patakaran o termino at kundisyon na maaari naming mag-post online, mag-post sa aming mobile application, isama sa loob ng e-mail o iba pang mga komunikasyon, o kung hindi man ay gumawaMagagamit sa iyo.Sa lawak na pipiliin mong lumahok sa anumang nasabing promosyon o kung hindi man ay gumawa ng anumang pagbili na sumasailalim sa isang promosyon, maaari naming ibahagi ang personal na impormasyon tulad ng pangalan, e-mail address, mga petsa ng pagbili, at iba pang kaugnay na impormasyon sa naaangkop na ikatlong partido para sa limitadoLayunin ng pagpapahintulot sa mga partido na gawing magagamit ang promosyon at subaybayan ang pakikilahok sa loob ng nasabing promosyon.",
+          "Maaari kaming gumamit ng impormasyong ibinibigay mo upang ikonekta ka sa mga taong alam mo na.Halimbawa, sa pamamagitan ng aming mobile application maaari naming makilala ang mga contact sa loob ng iyong address book bilang mga potensyal na bagong gumagamit ng MFFAIS.Maaari naming tumugma sa impormasyon ng contact na ibinibigay mo sa impormasyong ibinigay ng iba pang mga gumagamit upang mapagbuti ang serbisyo, kabilang ang mas madali upang makahanap ng mga contact na maaari mong sumangguni sa MFFAIS na hindi pa mga customer.",
+          "Maaari rin nating ibunyag ang iyong personal na impormasyon tulad ng hinihiling ng batas, tulad ng pagsunod sa isang subpoena, o katulad na ligal na proseso at kapag naniniwala tayo sa mabuting pananampalataya na ang pagsisiwalat ay kinakailangan upang maprotektahan ang aming mga karapatan, protektahan ang iyong kaligtasan o ang kaligtasan ng iba, mag -imbestigapandaraya, o tumugon sa isang kahilingan sa gobyerno.",
+          "If Mffais Incorporated is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information."
+        ]
+      },
+      {
+        "title": "Pag -access at pagpili ng gumagamit",
+        "content": [
+          "Kung ang personal na impormasyon sa file para sa iyo ay nagbabago, o kung hindi mo na nais ang aming serbisyo, maaari mong iwasto o i -update ito sa pamamagitan ng paggawa ng pagbabago sa aming pahina ng impormasyon ng customer o sa pamamagitan ng pag -email sa serbisyo ng customer ng MFFAIS.",
+          "Panatilihin at gagamitin ang iyong impormasyon kung kinakailangan upang sumunod sa aming ligal at/o mga obligasyong pang -regulasyon, lutasin ang mga hindi pagkakaunawaan, at ipatupad ang aming mga kasunduan.",
+          "Kung nais mong mag -subscribe sa aming (mga) newsletter, gagamitin namin ang iyong pangalan at email address upang maipadala sa iyo ang newsletter.Dahil sa paggalang sa iyong privacy, maaari mong piliin na ihinto ang pagtanggap ng aming mga email sa newsletter o marketing sa pamamagitan ng pagsunod sa mga tagubilin sa unsubscribe na kasama sa mga email na ito, pag -access sa mga kagustuhan ng email sa pahina ng iyong mga setting ng account o maaari kang makipag -ugnay sa amin sa impormasyon sa ibaba."
+        ]
+      },
+      {
+        "title": "Mga Teknolohiya ng Cookies / Pagsubaybay",
+        "content": [
+          "Ang isang cookie ay isang maliit na file ng teksto na naka-imbak sa computer ng isang gumagamit para sa mga layunin ng pag-iingat ng record.Gumagamit kami ng cookies sa site.Hindi namin mai -link ang impormasyong iniimbak namin sa cookies sa anumang personal na makikilalang impormasyon na isinumite mo habang nasa site.",
+          "Ginagamit namin ang parehong session ID cookies at patuloy na cookies.Ang isang session ID cookie ay nag -expire kapag isinara mo ang iyong browser.Ang isang patuloy na cookie ay nananatili sa iyong hard drive para sa isang pinalawig na panahon.Maaari mong alisin ang patuloy na cookies sa pamamagitan ng pagsunod sa mga direksyon na ibinigay sa direktoryo ng 'tulong' ng iyong browser.",
+          "Kung tatanggi ka sa cookies, maaari mo pa ring gamitin ang site, ngunit ang iyong kakayahang gumamit ng ilang mga lugar ng site, tulad ng mga paligsahan o survey, ay maaaring limitado.",
+          "Ang paggamit ng cookies ng aming mga kasosyo, kaakibat, pagsubaybay sa kumpanya ng utility, at/o mga service provider ay hindi saklaw ng aming patakaran sa privacy.Wala kaming access o kontrol sa mga cookies na ito.Ang aming mga kasosyo, kaakibat, pagsubaybay sa kumpanya ng utility, at/o mga nagbibigay ng serbisyo ay gumagamit ng session ID cookies upang gawing mas madali para sa iyo na mag -navigate sa site.",
+          "Ginagamit namin (at/o ang aming kasosyo sa advertising ng third-party) ay gumagamit ng isang teknolohiya ng software na tinatawag na Clear GIFs (kung minsan ay kilala bilang Web Beacons o Web Bugs), na makakatulong sa amin na mas mahusay na pamahalaan ang nilalaman sa site sa pamamagitan ng pag-alam sa amin kung anong nilalaman ang epektibo.Ang mga malinaw na GIF ay maliliit na graphics na may isang natatanging identifier, na katulad sa pag -andar sa cookies, at ginagamit upang subaybayan ang mga online na paggalaw ng mga gumagamit ng web.Kabaligtaran sa cookies, na naka -imbak sa computer hard drive ng isang gumagamit, ang mga malinaw na GIF ay naka -embed na hindi sinasadya sa mga web page at tungkol sa laki ng panahon sa pagtatapos ng pangungusap na ito.Hindi namin itali ang impormasyong natipon ng mga malinaw na GIF sa personal na makikilalang impormasyon ng aming mga customer."
+        ]
+      },
+      {
+        "title": "Pansinin tungkol sa huwag subaybayan",
+        "content": [
+          "Huwag subaybayan (\"DNT\") ay isang kagustuhan sa privacy na maaaring itakda ng mga gumagamit sa ilang mga web browser.Sa oras na ito, hindi namin kinikilala o tumugon sa mga signal ng DNT."
+        ]
+      },
+      {
+        "title": "Seguridad",
+        "content": [
+          "Mahalaga sa amin ang seguridad ng iyong personal na impormasyon.Kapag nagpasok ka ng sensitibong impormasyon, tulad ng isang numero ng credit card o impormasyon sa pananalapi, sa aming mga form, naka -encrypt namin ang paghahatid ng impormasyong iyon gamit ang Secure Socket Layer Technology (SSL).",
+          "Sinusundan namin ang pangkalahatang tinatanggap na mga pamantayan upang maprotektahan ang personal na impormasyon na isinumite sa amin, kapwa sa panahon ng paghahatid at sa sandaling natanggap namin ito.Walang paraan ng paghahatid sa internet, o paraan ng elektronikong imbakan, ay 100% na ligtas, gayunpaman.Samakatuwid, hindi namin masiguro ang ganap na seguridad nito.Kung mayroon kang anumang mga katanungan tungkol sa seguridad sa site, mangyaring makipag -ugnay sa amin."
+        ]
+      },
+      {
+        "title": "Mga pagbabago sa patakaran sa privacy na ito",
+        "content": [
+          "Maaari naming i -update ang Patakaran sa Pagkapribado upang ipakita ang mga pagbabago sa aming mga kasanayan sa impormasyon.Kung gumawa kami ng anumang mga pagbabago sa materyal ay ipagbigay -alam namin sa iyo sa pamamagitan ng email o sa pamamagitan ng isang paunawa sa site na ito bago maging epektibo ang pagbabago.Hinihikayat ka naming pana -panahong suriin ang pahinang ito para sa pinakabagong impormasyon sa aming mga kasanayan sa privacy."
+        ]
+      },
+      {
+        "title": "Makipag -ugnay sa amin",
+        "content": [
+          "Kung mayroon kang anumang mga katanungan tungkol sa aming Patakaran sa Pagkapribado, mangyaring makipag -ugnay sa MFFAIS Customer Service sa:",
+          "privacy@mffais.com",
+          "Mffais"
+        ]
+      }
+    ]
+  },
+  "termsAndConditions": {
+    "title": "Mga tuntunin at kundisyon ng MFFAIS",
+    "content": [
+      {
+        "title": "Maligayang pagdating",
+        "content": [
+          "Maligayang pagdating sa website ng MFFAIS!",
+          "Ang mga Tuntunin at Kundisyon na ito ay nagbabalangkas ng mga patakaran at regulasyon para sa paggamit ng website ng MFFAIS, na matatagpuan sa aming website.",
+          "Sa pamamagitan ng pag -access sa website na ito ipinapalagay namin na tinatanggap mo ang mga term na ito at kundisyon.Huwag magpatuloy na gumamit ng website ng MFFAIS kung hindi ka sumasang -ayon na kunin ang lahat ng mga termino at kundisyon na nakasaad sa pahinang ito.",
+          "Ang sumusunod na terminolohiya ay nalalapat sa Mga Tuntunin at Kundisyon na ito, Pahayag ng Pagkapribado at Abiso ng Pagtatanggi at lahat ng mga kasunduan: 'Client', 'ikaw' at 'ang iyong' ay tumutukoy sa iyo, ang tao ay nag -log sa website na ito at sumusunod sa mga tuntunin at kundisyon ng Kumpanya.'Ang kumpanya', 'ating sarili', 'kami', 'aming' at 'kami', ay tumutukoy sa aming kumpanya.'Party', 'mga partido', o 'kami', ay tumutukoy sa kapwa kliyente at ating sarili.Ang lahat ng mga termino ay tumutukoy sa alok, pagtanggap at pagsasaalang -alang ng pagbabayad na kinakailangan upang maisagawa ang proseso ng aming tulong sa kliyente sa pinaka naaangkop na paraan para sa malinaw na layunin ng pagtugon sa mga pangangailangan ng kliyente patungkol sa pagkakaloob ng mga nakasaad na serbisyo ng Kumpanya, alinsunod saat napapailalim sa, umiiral na batas ng Netherlands.Ang anumang paggamit ng terminolohiya sa itaas o iba pang mga salita sa isahan, pangmaramihang, capitalization at/o siya o sila, ay kinuha bilang mapagpapalit at samakatuwid ay tumutukoy sa pareho."
+        ]
+      },
+      {
+        "title": "Cookies",
+        "content": [
+          "Ginagamit namin ang paggamit ng cookies.Sa pamamagitan ng pag -access sa website ng MFFAIS, pumayag kang gumamit ng mga cookies na kasunduan sa patakaran sa privacy ng MFFAIS.",
+          "Karamihan sa mga interactive na website ay gumagamit ng cookies upang hayaan nating makuha ang mga detalye ng gumagamit para sa bawat pagbisita.Ang mga cookies ay ginagamit ng aming website upang paganahin ang pag -andar ng ilang mga lugar upang gawing mas madali para sa mga taong bumibisita sa aming website.Ang ilan sa aming mga kasosyo sa kaakibat/advertising ay maaari ring gumamit ng cookies."
+        ]
+      },
+      {
+        "title": "Lisensya",
+        "content": [
+          "Maliban kung sinabi, ang MFFAIS at/o ang mga lisensya nito ay nagmamay -ari ng mga karapatang intelektwal na pag -aari para sa lahat ng materyal sa website ng MFFAIS.Ang lahat ng mga karapatan sa intelektwal na pag -aari ay nakalaan.Maaari mong ma -access ito mula sa website ng MFFAIS para sa iyong sariling personal na paggamit na sumailalim sa mga paghihigpit na itinakda sa mga term na ito at kundisyon.",
+          "Hindi mo dapat:",
+          [
+            "I -republish ang materyal mula sa website ng MFFAIS",
+            "Ibenta, upa o sub-lisensya na materyal mula sa website ng MFFAIS",
+            "Gumawa, doble o kopyahin ang materyal mula sa website ng MFFAIS",
+            "Muling ibinahagi ang nilalaman mula sa website ng MFFAIS"
+          ],
+          "Ang Kasunduang ito ay magsisimula sa petsa dito.Ang aming mga termino at kundisyon ay nilikha sa tulong ng Mga Tuntunin at Kondisyon ng Generator at ang Patakaran sa Patakaran sa Pagkapribado.",
+          "Ang mga bahagi ng website na ito ay nag -aalok ng isang pagkakataon para sa mga gumagamit na mag -post at makipagpalitan ng mga opinyon at impormasyon sa ilang mga lugar ng website.Ang MFFAIS ay hindi nag -filter, mag -edit, mag -publish o suriin ang mga komento bago ang kanilang pagkakaroon sa website.Ang mga komento ay hindi sumasalamin sa mga pananaw at opinyon ng MFFAIS, ang mga ahente nito at/o mga kaakibat.Ang mga komento ay sumasalamin sa mga pananaw at opinyon ng taong nag -post ng kanilang mga pananaw at opinyon.Sa lawak na pinahihintulutan ng mga naaangkop na batas, ang MFFAIS ay hindi mananagot para sa mga komento o para sa anumang pananagutan, pinsala o gastos na sanhi at/o nagdusa bilang isang resulta ng anumang paggamit ng at/o pag -post ng at/o hitsura ng mga komento ditoWebsite.",
+          "May karapatan ang MFFais na subaybayan ang lahat ng mga puna at alisin ang anumang mga puna na maaaring isaalang -alang na hindi naaangkop, nakakasakit o nagiging sanhi ng paglabag sa mga term na ito at kundisyon.",
+          "Ginagarantiyahan mo at kinakatawan mo na:",
+          [
+            "May karapatan kang mag -post ng mga komento sa aming website at may lahat ng kinakailangang mga lisensya at pahintulot na gawin ito;",
+            "Ang mga komento ay hindi sumalakay sa anumang intelektuwal na pag -aari ng intelektwal, kabilang ang walang limitasyong copyright, patent o trademark ng anumang ikatlong partido;",
+            "Ang mga komento ay hindi naglalaman ng anumang mapanirang -puri, libog, nakakasakit, hindi masiraan ng loob o kung hindi man labag sa batas na materyal na isang pagsalakay sa privacy;",
+            "Ang mga komento ay hindi gagamitin upang humingi o magsulong ng negosyo o pasadyang o ipakita ang mga komersyal na aktibidad o labag sa batas na aktibidad."
+          ],
+          "Dito mo bibigyan ang MFFAIS ng isang hindi eksklusibong lisensya upang magamit, magparami, mag-edit at pahintulutan ang iba na gamitin, magparami at i-edit ang alinman sa iyong mga puna sa anuman at lahat ng mga form, format o media."
+        ]
+      },
+      {
+        "title": "Hyperlinking sa aming nilalaman",
+        "content": [
+          "Ang mga sumusunod na organisasyon ay maaaring mag -link sa aming website nang walang paunang nakasulat na pag -apruba:",
+          [
+            "Mga ahensya ng gobyerno;",
+            "Mga search engine;",
+            "Mga organisasyon ng balita;",
+            "Ang mga namamahagi ng direktoryo ng online ay maaaring mag -link sa aming website sa parehong paraan tulad ng pag -link nila sa mga website ng iba pang nakalista na mga negosyo;at",
+            "Ang mga malawak na akreditadong negosyo ng system maliban sa paghingi ng mga non-profit na organisasyon, charity shopping mall, at mga pangkat ng pangangalap ng kawanggawa na maaaring hindi mai-link sa aming web site."
+          ],
+          "Ang mga samahang ito ay maaaring mag -link sa aming home page, sa mga pahayagan o sa iba pang impormasyon sa website hangga't ang link: (a) ay hindi sa anumang paraan mapanlinlang;(b) ay hindi maling nagpapahiwatig ng pag -sponsor, pag -endorso o pag -apruba ng nag -uugnay na partido at ang mga produkto at/o serbisyo nito;at (c) umaangkop sa loob ng konteksto ng site ng pag -uugnay ng partido.",
+          "Maaari naming isaalang -alang at aprubahan ang iba pang mga kahilingan sa link mula sa mga sumusunod na uri ng mga samahan:",
+          [
+            "karaniwang kilalang mga mapagkukunan ng consumer at/o mga impormasyon sa negosyo;",
+            "dot.com Mga Site ng Komunidad;",
+            "mga asosasyon o iba pang mga pangkat na kumakatawan sa kawanggawa;",
+            "online na mga namamahagi ng direktoryo;",
+            "Internet Portals;",
+            "accounting, batas at pagkonsulta sa mga kumpanya;at",
+            "Mga institusyong pang -edukasyon at asosasyon sa kalakalan."
+          ],
+          "Aapalawak namin ang mga kahilingan sa link mula sa mga samahang ito kung magpapasya kami na: (a) ang link ay hindi gagawing hindi tayo magmukhang hindi kanais -nais sa ating sarili o sa aming mga akreditadong negosyo;(b) ang samahan ay walang mga negatibong tala sa amin;(c) ang pakinabang sa amin mula sa kakayahang makita ng hyperlink ay binabayaran ang kawalan ng MFFAIS;at (d) ang link ay nasa konteksto ng pangkalahatang impormasyon ng mapagkukunan.",
+          "Ang mga samahang ito ay maaaring mag -link sa aming home page hangga't ang link: (a) ay hindi sa anumang paraan na mapanlinlang;(b) ay hindi maling nagpapahiwatig ng pag -sponsor, pag -endorso o pag -apruba ng nag -uugnay na partido at ang mga produkto o serbisyo nito;at (c) umaangkop sa loob ng konteksto ng site ng pag -uugnay ng partido.",
+          "Kung ikaw ay isa sa mga samahan na nakalista sa talata 2 sa itaas at interesado na maiugnay ang aming website, dapat mong ipaalam sa amin sa pamamagitan ng pagpapadala ng isang e-mail sa MFFAIS.Mangyaring isama ang iyong pangalan, pangalan ng iyong samahan, impormasyon ng contact pati na rin ang URL ng iyong site, isang listahan ng anumang mga URL mula sa kung saan nais mong mag -link sa aming website, at isang listahan ng mga URL sa aming site na nais monglink.Maghintay ng 2-3 linggo para sa isang tugon.",
+          "Ang mga naaprubahang organisasyon ay maaaring mag -hyperlink sa aming website tulad ng mga sumusunod:",
+          [
+            "Sa pamamagitan ng paggamit ng aming pangalan ng korporasyon;o",
+            "Sa pamamagitan ng paggamit ng unipormeng tagahanap ng mapagkukunan na naka -link sa;o",
+            "Sa pamamagitan ng paggamit ng anumang iba pang paglalarawan ng aming website na naka -link sa na may katuturan sa loob ng konteksto at format ng nilalaman sa site ng pag -uugnay ng partido."
+          ],
+          "Walang paggamit ng logo ng MFFAIS o iba pang likhang sining ay pinahihintulutan para sa pag -link ng wala sa isang kasunduan sa lisensya sa trademark."
+        ]
+      },
+      {
+        "title": "mga frame",
+        "content": [
+          "Nang walang paunang pag -apruba at nakasulat na pahintulot, hindi ka maaaring lumikha ng mga frame sa paligid ng aming mga webpage na nagbabago sa anumang paraan ang visual na pagtatanghal o hitsura ng aming website."
+        ]
+      },
+      {
+        "title": "Pananagutan ng nilalaman",
+        "content": [
+          "Hindi kami magiging responsable para sa anumang nilalaman na lilitaw sa iyong website.Sumasang -ayon ka upang protektahan at ipagtanggol kami laban sa lahat ng mga paghahabol na tumataas sa iyong website.Walang mga (mga) link na dapat lumitaw sa anumang website na maaaring bigyang kahulugan bilang libog, malaswa o kriminal, o kung saan lumalabag, kung hindi man ay lumalabag, o magtataguyod ng paglabag o iba pang paglabag sa, anumang mga karapatan sa ikatlong partido."
+        ]
+      },
+      {
+        "title": "Ang iyong privacy",
+        "content": ["Basahin ang aming Patakaran sa Pagkapribado."]
+      },
+      {
+        "title": "Reserbasyon ng mga karapatan",
+        "content": [
+          "Inilalaan namin ang karapatang humiling na alisin mo ang lahat ng mga link o anumang partikular na link sa aming website.Inaprubahan mong agad na alisin ang lahat ng mga link sa aming website kapag hiniling.Inilalaan din namin ang karapatang amen ang mga term na ito at kundisyon at ito ay nag -uugnay sa patakaran sa anumang oras.Sa pamamagitan ng patuloy na pag -uugnay sa aming website, sumasang -ayon ka na makagapos at sundin ang mga nag -uugnay na termino at kundisyon."
+        ]
+      },
+      {
+        "title": "Pag -alis ng mga link mula sa aming website",
+        "content": [
+          "Kung nakakita ka ng anumang link sa aming website na nakakasakit sa anumang kadahilanan, malaya kang makipag -ugnay at ipaalam sa amin ang anumang sandali.Isasaalang -alang namin ang mga kahilingan na alisin ang mga link ngunit hindi kami obligado o kaya upang tumugon sa iyo nang direkta.",
+          "Hindi namin tinitiyak na tama ang impormasyon sa website na ito, hindi namin ginagarantiyahan ang pagkakumpleto o kawastuhan;Hindi rin namin ipinangako upang matiyak na ang website ay nananatiling magagamit o na ang materyal sa website ay napapanatiling napapanahon."
+        ]
+      },
+      {
+        "title": "Pagtatanggi",
+        "content": [
+          "Sa pinakamataas na lawak na pinahihintulutan ng naaangkop na batas, ibukod namin ang lahat ng mga representasyon, garantiya at kundisyon na may kaugnayan sa aming website at ang paggamit ng website na ito.Wala sa disclaimer na ito:",
+          [
+            "limitahan o ibukod ang aming o ang iyong pananagutan para sa kamatayan o personal na pinsala;",
+            "limitahan o ibukod ang aming o ang iyong pananagutan para sa pandaraya o mapanlinlang na maling pagpapahayag;",
+            "Limitahan ang alinman sa aming o iyong mga pananagutan sa anumang paraan na hindi pinahihintulutan sa ilalim ng naaangkop na batas;o",
+            "Ibukod ang alinman sa aming o iyong mga pananagutan na maaaring hindi ibukod sa ilalim ng naaangkop na batas."
+          ],
+          "Ang mga limitasyon at pagbabawal ng pananagutan na itinakda sa seksyong ito at sa ibang lugar sa pagtanggi na ito: (a) ay napapailalim sa naunang talata;at (b) namamahala sa lahat ng mga pananagutan na nagmula sa ilalim ng pagtanggi, kabilang ang mga pananagutan na nagmula sa kontrata, sa pagpapahirap at para sa paglabag sa tungkulin ng batas.",
+          "Hangga't ang website at ang impormasyon at serbisyo sa Website ay ibinibigay nang walang bayad, hindi kami mananagot para sa anumang pagkawala o pinsala ng anumang kalikasan."
+        ]
+      }
+    ]
+  }
+}
