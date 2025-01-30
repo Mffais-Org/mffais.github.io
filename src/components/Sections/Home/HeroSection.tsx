@@ -19,10 +19,18 @@ const HeroSection = () => {
               {t("subtitle")}
             </p>
             <div className="mt-8 flex items-center gap-4 xl:gap-8">
-              <Link href="#" className="hover:shadow-custom">
+              <Link
+                href="https://play.google.com/store/apps/details?id=com.mffais.app"
+                target="_blank"
+                className="hover:shadow-custom"
+              >
                 <GooglePlayImage />
               </Link>
-              <Link href="#" className="hover:shadow-custom">
+              <Link
+                href="https://apps.apple.com/hr/app/mffais/id1574144672"
+                target="_blank"
+                className="hover:shadow-custom"
+              >
                 <AppStoreImage />
               </Link>
             </div>

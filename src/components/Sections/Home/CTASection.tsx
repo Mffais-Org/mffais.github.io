@@ -15,10 +15,18 @@ const CTASection = () => {
             {t("leftText")}
           </span>
           <div className="flex items-center gap-3">
-            <Link href="#" className="hover:shadow-custom">
+            <Link
+              href="https://play.google.com/store/apps/details?id=com.mffais.app"
+              className="hover:shadow-custom"
+              target="_blank"
+            >
               <GooglePlayImage />
             </Link>
-            <Link href="#" className="hover:shadow-custom">
+            <Link
+              href="https://apps.apple.com/hr/app/mffais/id1574144672"
+              target="_blank"
+              className="hover:shadow-custom"
+            >
               <AppStoreImage />
             </Link>
           </div>

@@ -108,7 +108,11 @@ const Navbar = ({
               {t("appGuide")}
             </LinkButton>
           )}
-          <LinkButton className="hidden xl:flex" href="#">
+          <LinkButton
+            className="hidden xl:flex"
+            href="https://play.google.com/store/apps/details?id=com.mffais.app"
+            target="_blank"
+          >
             {t("getTheApp")}
           </LinkButton>
         </div>
