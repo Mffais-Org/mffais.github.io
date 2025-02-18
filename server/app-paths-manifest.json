@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/[locale]/app-guide/page": "app/[locale]/app-guide/page.js",
+  "/[locale]/page": "app/[locale]/page.js",
+  "/[locale]/legal/privacy-policy/page": "app/[locale]/legal/privacy-policy/page.js",
+  "/[locale]/legal/terms-and-conditions/page": "app/[locale]/legal/terms-and-conditions/page.js"
+}
