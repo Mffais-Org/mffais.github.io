@@ -1,0 +1,360 @@
+{
+  "navigation": {
+    "features": "Cechy",
+    "moneyFlow": "Przepływ pieniędzy",
+    "appGuide": "Przewodnik aplikacji",
+    "getTheApp": "Zdobądź aplikację"
+  },
+  "heroSection": {
+    "title": "Spraw, aby koniec się spotykał.",
+    "subtitle": "MFFAIS pomaga śledzić przepływy pieniężne i zapewnia wgląd w przyszłe wydatki i oszczędności za 9,99 USD."
+  },
+  "howToUseSection": {
+    "title": "Jak używać mffais",
+    "cards": {
+      "card1": {
+        "title": "Pobierz aplikację MFFAIS ze sklepu",
+        "description": "Bądź na bieżąco z najnowszymi ruchami rynkowymi i strategiami inwestycyjnymi na wyciągnięcie ręki."
+      },
+      "card2": {
+        "title": "Wybierz swój model subskrypcji",
+        "description": "Wybierz plan, który najlepiej odpowiada Twoim potrzebom i ciesz się ekskluzywnymi korzyściami."
+      },
+      "card3": {
+        "title": "Skonfiguruj saldo MFFAIS",
+        "description": "Łatwo skonfiguruj saldo MFFAIS, aby rozpocząć śledzenie inwestycji i wzrostu finansowego."
+      },
+      "card4": {
+        "title": "Zachowaj swoje saldo na bieżąco",
+        "description": "Kiedy otrzymasz dochód, zaznacz go jako otrzymane.Kiedy płacisz wydatki, zaznacz go jako wydane"
+      },
+      "card5": {
+        "title": "Wyczyść swoje transakcje",
+        "description": "Wyczyść swoje transakcje i porównaj saldo MFFAIS z bankiem - aby złapać ukryte koszty"
+      }
+    }
+  },
+  "featureSection": {
+    "title": "Cechy",
+    "subtitle": "Śledź swoje przepływy pieniężne i uzyskaj wgląd w przyszłe wydatki i oszczędności",
+    "twoColumnSections": {
+      "section1": {
+        "title": "Skonfiguruj swoje konto MFFAIS",
+        "description": "Wprowadź saldo bankowe i dodaj wszystkie przyszłe dochody i wydatki."
+      },
+      "section2": {
+        "title": "Skoncentruj się na swojej przyszłości",
+        "description": "MFFAIS obliczy twoje przyszłe przepływ pieniędzy 365 dni wcześniej.<br/> <br/> Powiemy ci o najniższym saldzie i ile pieniędzy będziesz mieć po roku."
+      },
+      "section3": {
+        "title": "Wyczyść swoje transakcje",
+        "description": "Po tym, jak transakcje wyczyścili konto bankowe, pamiętaj je również z MFFAIS."
+      }
+    }
+  },
+  "centerImageSection": {
+    "leftText": "Mffais mówi ci, ile wydać ...",
+    "rightText": "... lub ile zaoszczędzić, aby pozostać na czarno"
+  },
+  "moneyFlowSection": {
+    "title": "Money flow",
+    "description": "Jedno miejsce, w którym użytkownicy mogą edytować i sprawdzać ich przyszłe transakcje - do roku w przyszłości.Należyane transakcje są oznaczone automatycznie w celu zmniejszenia obciążenia poznawczego."
+  },
+  "twoImageSection": {
+    "text": "Powiadomienia o terminie pomogą Ci pozostać na bieżąco z przepływem pieniężnym"
+  },
+  "bannerSection": {
+    "text": "Śledź swoje przepływy pieniężne i uzyskaj wgląd w przyszłe wydatki i oszczędności."
+  },
+  "CTASection": {
+    "leftText": "Spróbuj!",
+    "rightText": "Masz jakieś pytania?",
+    "buttonText": "Kontakt z obsługą"
+  },
+  "homeFooterNav": {
+    "features": "Cechy",
+    "moneyFlow": "Przepływ pieniędzy",
+    "privacyPolicy": "Polityka prywatności",
+    "termsAndConditions": "Warunki"
+  },
+  "appGuideHero": {
+    "title": "Przewodnik MFFAIS",
+    "subtitle": "Aby upewnić się, że w pełni wykorzystasz naszą aplikację, przeczytaj nasze wskazówki ekspertów, aby poprowadzić Cię po drodze."
+  },
+  "accountSetup": {
+    "title": "Konfigurowanie konta"
+  },
+  "forCollageStudents": {
+    "badge": "Dla studentów",
+    "title": "Uprości swoje finanse z college'u",
+    "text": "Łatwo zaplanuj i śledź wydatki studenckie, od czesnego i podręczników po akademiki i wyżywienie.Nasz intuicyjny interfejs pozwala wprowadzić przyszłe dochody i wydatki, zapewniając cenne wgląd w przepływy pieniężne w semestrze i poza nią.",
+    "iconCards": {
+      "iconCard1": {
+        "title": "Śledzić powtarzające się wydatki",
+        "description": "Zarządzaj znacznymi kosztami, takimi jak czesne, podręczniki i czynsz z łatwością."
+      },
+      "iconCard2": {
+        "title": "Budżet na zmienne wydatki",
+        "description": "Planuj jedzenie, rozrywkę i sytuacje kryzysowe, dostosowując się w razie potrzeby."
+      },
+      "iconCard3": {
+        "title": "Zarządzaj pożyczkami dla studentów",
+        "description": "Wprowadź różne źródła dochodów o różnych częstotliwościach (np. Cotygodniowe koncerty, miesięczne płatności niezależne)."
+      },
+      "iconCard4": {
+        "title": "Monitorowanie przepływu pieniędzy",
+        "description": "Użyj ekranu przepływu pieniędzy, aby upewnić się, że jesteś przygotowany na nadchodzące wydatki."
+      },
+      "iconCard5": {
+        "title": "Prognozowanie kosztów semestru",
+        "description": "Zaplanuj wydatki na semestr i dostosuj się o zmiany dochodów."
+      },
+      "iconCard6": {
+        "title": "Wskazówki dotyczące zarządzania pieniędzmi",
+        "description": "Sreceive porady dotyczące unikania wspólnych pułapek finansowych i strategii oszczędzania pieniędzy na ścisłym budżecie."
+      }
+    }
+  },
+  "forMultipleJob": {
+    "badge": "Dla osób z wieloma pracami/koncertami",
+    "title": "Śledź wszystkie swoje strumienie dochodów",
+    "text": "Pożegnaj się z kłopotami z żonglowaniem wieloma arkuszami kalkulacyjnymi lub aplikacjami.Dzięki MFFAIS możesz łatwo wprowadzać i kategoryzować dochód z różnych źródeł, co daje kompleksowy przegląd przepływów pieniężnych na pierwszy rzut oka.",
+    "iconCards": {
+      "iconCard1": {
+        "title": "Konfigurowanie strumieni wielu dochodów",
+        "description": "Wprowadź różne źródła dochodów o różnych częstotliwościach (np. Cotygodniowe koncerty, miesięczne płatności niezależne)."
+      },
+      "iconCard2": {
+        "title": "Dochód i wydatki równowagi",
+        "description": "Wprowadź różne źródła dochodów o różnych częstotliwościach (np. Cotygodniowe koncerty, miesięczne płatności niezależne)."
+      },
+      "iconCard3": {
+        "title": "Upewnij się, że wszystkie rachunki są objęte",
+        "description": "Wprowadź różne źródła dochodów o różnych częstotliwościach (np. Cotygodniowe koncerty, miesięczne płatności niezależne)."
+      },
+      "iconCard4": {
+        "title": "Monitorowanie przepływu pieniędzy",
+        "description": "Wprowadź różne źródła dochodów o różnych częstotliwościach (np. Cotygodniowe koncerty, miesięczne płatności niezależne)."
+      },
+      "iconCard5": {
+        "title": "Prognozowanie kosztów semestru",
+        "description": "Wprowadź różne źródła dochodów o różnych częstotliwościach (np. Cotygodniowe koncerty, miesięczne płatności niezależne)."
+      },
+      "iconCard6": {
+        "title": "Wskazówki dotyczące zarządzania pieniędzmi",
+        "description": "Wprowadź różne źródła dochodów o różnych częstotliwościach (np. Cotygodniowe koncerty, miesięczne płatności niezależne)."
+      }
+    }
+  },
+  "banner2Section": {
+    "title": "Potrzebujesz pomocy?",
+    "description": "Nie wahaj się z nami skontaktować - jesteśmy tutaj, aby pomóc Ci pokonać swoją pewność siebie.",
+    "buttonText": "Kontakt z obsługą"
+  },
+  "privacyPolicy": {
+    "title": "Mffais Master Polityka prywatności",
+    "content": [
+      {
+        "title": "Mffais Master Polityka prywatności",
+        "content": [
+          "Niniejsza Polityka prywatności określa sposób gromadzenia i wykorzystywania danych osobowych, które są dostarczane na stronie internetowej zlokalizowanej na stronie www.mffais.com („Witryna”) i naszej aplikacji mobilnej (zbiorczo „MFFAIS”).O ile nie wskazano inaczej, niniejsza Polityka prywatności dotyczy wyłącznie danych osobowych zebranych za pośrednictwem MFFAIS lub dowolnego z ich odpowiednich podmiotów (razem, do celów, „mffais”).Korzystając z MFFAIS, zgadzasz się być związaną niniejszą Polityką prywatności i naszych warunków użytkowania, ponieważ mogą być od czasu do czasu zmienione w przyszłości (patrz „Zmiana niniejszej Polityki prywatności” poniżej).",
+          "MFFAIS jest zobowiązany do utrzymania poufności, integralności i bezpieczeństwa wszelkich danych osobowych o naszych użytkownikach.Niniejsza Polityka prywatności wyjaśnia, w jaki sposób chronimy dane osobowe dostarczone za pośrednictwem MFFAIS i jak wykorzystujemy te informacje w związku z naszą usługą oferowaną za pośrednictwem MFFAIS („Usługa”).„Dane osobowe” dla celów niniejszej Polityki prywatności oznaczają informacje, które Cię identyfikują, takie jak imię i nazwisko, adres, numer telefonu, numer faksu lub adres e -mail.",
+          "MFFAIS podkreśla swoje standardy prywatności i bezpieczeństwa, aby strzec przed kradzieżą tożsamości i zapewnienia bezpieczeństwa danych osobowych.Regularnie ponownie oceniamy nasze polityki prywatności i bezpieczeństwa i dostosowujemy je w razie potrzeby do radzenia sobie z nowymi wyzwaniami."
+        ]
+      },
+      {
+        "title": "Zebrane dane osobowe",
+        "content": [
+          "We collect the following personal information from you:",
+          "Dane kontaktowe, takie jak nazwa, adres e -mail, adres pocztowy, numer telefonu;",
+          "Informacje o rozliczeniu, takie jak numer karty kredytowej i adres rozliczeniowy;",
+          "Podczas wizyty w Witrynie lub pobieraniu i korzystania z naszych usług możemy automatycznie zbierać pewne informacje wysłane do nas przez komputer, urządzenie mobilne lub inne urządzenie.Informacje te mogą obejmować rodzaj używanego urządzenia, system operacyjny, identyfikator urządzenia (lub „UDID”), adres IP, lokalizację, informacje o sieci komórkowej i standardowe informacje o dzienniku internetowym, takie jak ruch typu przeglądarki do i z naszychWitryna, strony, do których uzyskałeś dostęp na naszej stronie internetowej, oraz inne dostępne informacje.Możemy również gromadzić informacje o Twoim użyciu i interakcji z witryną, naszą aplikacją mobilną lub naszymi usługami.Na przykład możemy ocenić Twój komputer, telefon komórkowy lub inne urządzenie dostępu, aby zidentyfikować złośliwe oprogramowanie lub działanie, które mogą wpływać na dostępność Usług.Podczas korzystania z Usług możemy również przechowywać informacje w oparciu o historię użytkowania.Obejmuje to między innymi szczegóły twoich zakupów, wyświetlone treści, informacje o zdarzeniu, informacje o strumieniu i pliki cookie, które mogą jednoznacznie zidentyfikować przeglądarkę lub konto."
+        ]
+      },
+      {
+        "title": "Używanie i udostępnianie informacji",
+        "content": [
+          "Mffais używa i ujawnia Twoje dane osobowe tylko w następujący sposób:",
+          "Analizować użycie witryny i ulepszyć usługę;",
+          "Dostarczyć Ci wszelkie powiadomienia administracyjne, powiadomienia pieniężne i komunikację istotną dla korzystania z Usługi;",
+          "Aby spełnić swoje prośby o niektóre produkty i usługi;",
+          "Do badań rynku, planowania projektów, problemów z rozwiązywaniem problemów oraz wykrywania i ochrony przed błędami, oszustwami lub inną działalnością przestępczą;",
+          "Dla zewnętrznych kontrahentów, którzy świadczą usługi MFFAIS i są związani tymi samymi ograniczeniami prywatności;",
+          "W celu egzekwowania warunków użytkowania MFFAIS;i zgodnie z inaczej w niniejszej Polityce prywatności.",
+          "W przypadku, gdy uzyskasz dostęp do usługi, jaką dostarczono do Ciebie przez jednego z naszych partnerów z marki, za pośrednictwem adresu URL pod wspólną marką, Twój adres e-mail używany do rejestracji w usłudze może zostać przekazany partnerowi pod wspólną marką.",
+          "Ponadto możemy od czasu do czasu oferować promocje z różnymi firmami, stronami internetowymi, aplikacjami mobilnymi lub stronami trzecimi, które mogą obejmować możliwości zarabiania depozytów na koncie MFFAIS.Każda taka promocja będzie podlegać i podlegać naszym Warunkom użytkowania, niniejszej Polityce prywatności oraz wszelkich obowiązujących zasad lub warunków, które możemy publikować online, publikować w naszej aplikacji mobilnej, uwzględniać w wiadomości e-mail lub innej komunikacji lub w inny sposóbdostępne dla Ciebie.W zakresie, w jakim zdecydujesz się uczestniczyć w jakiejkolwiek takiej promocji lub w inny sposób dokonać zakupu na promocję, możemy udostępniać dane osobowe, takie jak nazwisko, adres e-mail, daty zakupu i inne powiązane informacje z obowiązującą stroną trzecią dla ograniczonej stronyCel umożliwienia stronom udostępnienia promocji i śledzenia uczestnictwa w takiej promocji.",
+          "Możemy wykorzystywać informacje, które dostarczasz, aby połączyć Cię z osobami, które już znasz.Na przykład za pośrednictwem naszej aplikacji mobilnej możemy zidentyfikować kontakty w książce adresowej jako potencjalni nowi użytkownicy MFFAIS.Możemy dopasować dane kontaktowe przekazywane do informacji dostarczonych przez innych użytkowników w celu ulepszenia usługi, w tym ułatwianie znajomości kontaktów, które możesz odwołać do MFFAIS, które nie są już klientami.",
+          "Możemy również ujawnić Twoje dane osobowe zgodnie z wymogami prawa, takie jak przestrzeganie wezwania lub podobnego procesu prawnego i kiedy wierzymy w dobrej wierze, że ujawnienie jest niezbędne do ochrony naszych praw, ochrony bezpieczeństwa lub bezpieczeństwa innych, zbadajoszustwo lub odpowiedz na wniosek rządu.",
+          "Jeśli MFFAIS Incorporated jest zaangażowany w połączenie, nabycie lub sprzedaż całości lub części jego aktywów, zostaniesz powiadomiony za pośrednictwem poczty elektronicznej i/lub wyraźnego zawiadomienia na naszej stronie o jakiejkolwiek zmianie własności lub wykorzystania danych osobowych, jakoJako wszelkie wybory, które możesz mieć w odniesieniu do swoich danych osobowych."
+        ]
+      },
+      {
+        "title": "Dostęp i wybór użytkownika",
+        "content": [
+          "Jeśli dane osobowe w pliku dla Ciebie zmiany lub jeśli nie chcesz już naszej usługi, możesz ją poprawić lub zaktualizować, wprowadzając zmianę na naszej stronie informacji o kliencie lub wysyłając wiadomość e -mail do obsługi klienta MFFAIS.",
+          "W razie potrzeby zatrzymamy Twoje informacje, aby przestrzegać naszych obowiązków prawnych i/lub regulacyjnych, rozwiązywać spory i egzekwujemy nasze umowy.",
+          "Jeśli chcesz zasubskrybować nasz biuletyn, użyjemy Twojego nazwiska i adresu e -mail, aby wysłać do Ciebie biuletyn.Z szacunku dla swojej prywatności możesz zaprzestać otrzymywania naszego biuletynu lub e -maili marketingowych, postępując zgodnie z instrukcjami rezygnacji z subskrypcji zawartych w tych e -mailach, uzyskując dostęp do preferencji e -mail na stronie Ustawienia konta lub możesz skontaktować się z nami pod poniższymi informacjami."
+        ]
+      },
+      {
+        "title": "Pliki cookie / technologie śledzenia",
+        "content": [
+          "Plik cookie to mały plik tekstowy, który jest przechowywany na komputerze użytkownika w celu prowadzenia rekordów.Używamy plików cookie na stronie.Nie łączymy informacji, które przechowujemy w plikach cookie z wszelkimi osobowymi informacjami przesyłanymi podczas witryny.",
+          "Używamy zarówno plików cookie, jak i uporczywych plików cookie.Po zamykaniu przeglądarki wygaśnie plik cookie sesji.Trwałe ciastko pozostaje na dysku twardym przez dłuższy czas.Możesz usunąć trwałe pliki cookie, postępując zgodnie z wskazówkami w katalogu „Help” przeglądarki internetowej.",
+          "Jeśli odrzucasz pliki cookie, możesz nadal korzystać z witryny, ale Twoja zdolność do korzystania z niektórych obszarów witryny, takich jak konkursy lub ankiety, może być ograniczona.",
+          "Korzystanie z plików cookie przez naszych partnerów, podmiotów stowarzyszonych, śledzących firmę użyteczności publicznej i/lub dostawców usług nie jest objęte naszą polityką prywatności.Nie mamy dostępu ani kontroli nad tymi ciasteczkami.Nasi partnerzy, podmioty stowarzyszone, śledzące firmę użyteczności publicznej i/lub usługodawcy używają plików cookie sesji, aby ułatwić poruszanie się po stronie.",
+          "Zastosujemy (i/lub nasz zewnętrzny partner reklamowy) technologia oprogramowania o nazwie Clear GIFS (czasami znana jako sygnał nawigacyjny lub błędy internetowe), która pomaga nam lepiej zarządzać treścią w witrynie, informując nas, jakie treści są skuteczne.Przezroczyste gify to niewielka grafika z unikalnym identyfikatorem, podobnym do funkcji do plików cookie i służą do śledzenia ruchów online użytkowników sieci.W przeciwieństwie do plików cookie, które są przechowywane na dysku twardym komputerowym użytkownika, czyste gify są wbudowane niewidocznie na stronach internetowych i są mniej więcej wielkości okresu na końcu tego zdania.Nie wiążymy informacji zebranych przez wyraźne GIF -ów z osobistymi informacjami naszych klientów."
+        ]
+      },
+      {
+        "title": "Zawiadomienie o nie śledzisz",
+        "content": [
+          "Nie śledź („DNT”) to preferencja prywatności, którą użytkownicy mogą ustawić w niektórych przeglądarkach internetowych.W tej chwili nie rozpoznajemy ani nie reagujemy na sygnały DNT."
+        ]
+      },
+      {
+        "title": "Bezpieczeństwo",
+        "content": [
+          "Bezpieczeństwo twoich danych osobowych jest dla nas ważne.Wprowadzając poufne informacje, takie jak numer karty kredytowej lub informacje finansowe, w naszych formularzach szyfrowujemy transmisję tych informacji za pomocą technologii Secure Socket Layer (SSL).",
+          "Śledzimy ogólnie przyjęte standardy, aby chronić dane osobowe przesłane nam, zarówno podczas transmisji, jak i po ich otrzymaniu.Jednak żadna metoda transmisji przez Internet lub metoda pamięci elektronicznej nie jest jednak w 100% bezpieczna.Dlatego nie możemy zagwarantować jego bezwzględnego bezpieczeństwa.Jeśli masz jakieś pytania dotyczące bezpieczeństwa na stronie, skontaktuj się z nami."
+        ]
+      },
+      {
+        "title": "Zmiany w niniejszej Polityce prywatności",
+        "content": [
+          "Możemy zaktualizować niniejszą Politykę prywatności, aby odzwierciedlić zmiany w naszych praktykach informacyjnych.Jeśli wprowadzimy jakiekolwiek istotne zmiany, powiadomimy Cię pocztą elektroniczną lub za pomocą zawiadomienia na tej stronie, zanim zmiana stanie się skuteczna.Zachęcamy do okresowego przeglądu tej strony w celu uzyskania najnowszych informacji na temat naszych praktyk prywatności."
+        ]
+      },
+      {
+        "title": "Skontaktuj się z nami",
+        "content": [
+          "Jeśli masz jakieś pytania dotyczące naszej polityki prywatności, skontaktuj się z obsługą klienta MFFAIS pod adresem:",
+          "privacy@mffais.com",
+          "Mffais"
+        ]
+      }
+    ]
+  },
+  "termsAndConditions": {
+    "title": "Mffais Warunki",
+    "content": [
+      {
+        "title": "Powitanie",
+        "content": [
+          "Witamy na stronie MFFAIS!",
+          "Niniejsze warunki przedstawiają zasady i przepisy dotyczące korzystania z witryny MFFAIS, znajdującej się na naszej stronie internetowej.",
+          "Uzyskując dostęp do tej witryny, zakładamy, że akceptujesz niniejsze warunki.Nie korzystaj z witryny MFFAIS, jeśli nie zgodzisz się na przyjęcie wszystkich warunków określonych na tej stronie.",
+          "Poniższa terminologia ma zastosowanie do niniejszych Warunków, Oświadczenia o prywatności i zawiadomieniu o zrzeczenia się oraz wszystkich umów: „Klient”, „Ty” i „Twoja” odnosi się do Ciebie, osoby zalogowane na tej stronie internetowej i zgodne z warunkami firmy.„Firma”, „nas samych”, „my”, „nasz” i „nas”, odnosi się do naszej firmy.„Partia”, „imprezy” lub „nas” odnosi się zarówno do klienta, jak i nas samych.Wszystkie terminy odnoszą się do oferty, akceptacji i rozpatrzenia płatności niezbędnej do podjęcia procesu naszej pomocy w najbardziej odpowiedni sposób w wyraźnym celu zaspokojenia potrzeb klienta w zakresie świadczenia określonych usług spółki, zgodnie zi podlegać, że dominuje prawo Holandii.Wszelkie użycie powyższej terminologii lub innych słów w liczbie pojedynczej, w liczbie mnogiej, kapitalizacji i/lub on/oni lub oni są traktowane jako wymienne, a zatem jako odnoszące się do tego samego."
+        ]
+      },
+      {
+        "title": "Ciastka",
+        "content": [
+          "We employ the use of cookies. By accessing Mffais Website, you agreed to use cookies in agreement with the Mffais's Privacy Policy.",
+          "Większość interaktywnych stron internetowych używa plików cookie, aby uzyskać dane użytkownika dla każdej wizyty.Pliki cookie są używane przez naszą stronę internetową, aby umożliwić funkcjonalność niektórych obszarów, aby ułatwić osobom odwiedzającym naszą stronę internetową.Niektórzy z naszych partnerów stowarzyszonych/reklamowych mogą również korzystać z plików cookie."
+        ]
+      },
+      {
+        "title": "Licencja",
+        "content": [
+          "O ile nie zaznaczono inaczej, MFFAIS i/lub jego licencjodawcy posiadają prawa własności intelektualnej dla wszystkich materiałów na stronie MFFAIS.Wszystkie prawa własności intelektualnej są zastrzeżone.Możesz uzyskać dostęp do strony internetowej MFFAIIS dla własnego użytku osobistego podlegającego ograniczeniom określonym w niniejszych warunkach.",
+          "Nie możesz:",
+          [
+            "Opublikuj materiały na stronie internetowej MFFAIIS",
+            "Sprzedawaj, czynsz lub materiały sublicencyjne ze strony internetowej MFFAIS",
+            "Reprodukuj, duplikat lub kopiuj materiały ze strony internetowej MFFAIIS",
+            "Redystrybuuj treść ze strony internetowej MFFAIIS"
+          ],
+          "Niniejsza Umowa rozpocznie się w dniu niniejszej.Nasze warunki zostały utworzone za pomocą generatora warunków i generatora polityki prywatności.",
+          "Części tej witryny oferują użytkownikom możliwość publikowania i wymiany opinii i informacji w niektórych obszarach witryny.MFFAIS nie filtruje, nie edytuje, nie publikuje ani nie przegląda komentarzy przed ich obecnością na stronie internetowej.Komentarze nie odzwierciedlają poglądów i opinii MFFAIS, jego agentów i/lub podmiotów stowarzyszonych.Komentarze odzwierciedlają poglądy i opinie osoby, która publikuje swoje poglądy i opinie.W zakresie dozwolonym przez obowiązujące przepisy MFFAIS nie ponosi odpowiedzialności za komentarze ani jakiejkolwiek odpowiedzialności, szkód lub wydatków spowodowanych i/lub doznanych w wyniku jakiegokolwiek użycia i/lub publikowania i/lub pojawienia się komentarzy na ten tematstrona internetowa.",
+          "MFFAIS zastrzega sobie prawo do monitorowania wszystkich komentarzy i usuwania wszelkich komentarzy, które można uznać za nieodpowiednie, obraźliwe lub przyczyną naruszenia niniejszych warunków.",
+          "Gwarantujesz i oświadczasz:",
+          [
+            "Masz prawo do publikowania komentarzy na naszej stronie internetowej i posiadania wszystkich niezbędnych licencji i zgody na to;",
+            "Komentarze nie atakują żadnego prawa własności intelektualnej, w tym bez ograniczeń praw autorskich, patentu lub znaku towarowego jakiejkolwiek strony trzeciej;",
+            "Komentarze nie zawierają żadnych zniesławiających, zniesławiających, obraźliwych, nieprzyzwoitych lub w inny sposób niezgodnych z prawem materiału, który jest inwazją prywatności;",
+            "Komentarze nie zostaną wykorzystywane do pozyskiwania ani promowania działalności gospodarczej, niestandardowej lub przedstawienia działalności komercyjnej lub bezprawnych działań."
+          ],
+          "Niniejszym przyznasz Mffais nieskomplikową licencję na używanie, reprodukcję, edytowanie i upoważnienie innych do korzystania, reprodukowania i edytowania dowolnego z twoich komentarzy w dowolnych formach, formatach lub mediach."
+        ]
+      },
+      {
+        "title": "Hiperlinowanie do naszej treści",
+        "content": [
+          "Następujące organizacje mogą link do naszej strony internetowej bez uprzedniej pisemnej zgody:",
+          [
+            "Agencje rządowe;",
+            "Wyszukiwarki;",
+            "Organizacje informacyjne;",
+            "Dystrybutorzy katalogów online mogą link do naszej strony internetowej w taki sam sposób, jak nadmiernie łączą w witrynach innych giełdowych firm;I",
+            "Firmy akredytowane w systemie, z wyjątkiem pozyskiwania organizacji non-profit, centrów handlowych charytatywnych i organizacji charytatywnych, które mogą nie hiperłącz do naszej strony internetowej."
+          ],
+          "Organizacje te mogą link do naszej strony głównej, publikacji lub innych informacji o stronie internetowej, o ile link: (a) nie jest w żaden sposób zwodniczy;(b) nie sugeruje fałszywie sponsorowania, poparcia lub zatwierdzenia strony łączącej i jej produktów i/lub usług;oraz (c) pasuje do kontekstu witryny partii łączącej.",
+          "Możemy rozważyć i zatwierdzić inne żądania linków z następujących rodzajów organizacji:",
+          [
+            "powszechnie znane źródła informacji konsumenckiej i/lub biznesowej;",
+            "Dot.com Strony społecznościowe;",
+            "stowarzyszenia lub inne grupy reprezentujące organizacje charytatywne;",
+            "Dystrybutorzy katalogu online;",
+            "portale internetowe;",
+            "firmy rachunkowe, prawne i konsultingowe;I",
+            "Instytucje edukacyjne i stowarzyszenia handlowe."
+          ],
+          "Zatwierdzamy prośby o łącze od tych organizacji, jeśli zdecydujemy, że: (a) link nie sprawiłby, że będziemy wyglądać niekorzystnie dla siebie lub naszych akredytowanych firm;(b) organizacja nie ma z nami żadnych negatywnych zapisów;(c) korzyść nam z widoczności hiperłącza kompensuje brak MFFAIS;oraz (d) link jest w kontekście ogólnych informacji o zasobach.",
+          "Organizacje te mogą link do naszej strony głównej, o ile link: (a) nie jest w żaden sposób zwodnicza;(b) nie sugeruje fałszywie sponsorowania, poparcia lub zatwierdzenia strony linku i jej produktów lub usług;oraz (c) pasuje do kontekstu witryny partii łączącej.",
+          "Jeśli jesteś jedną z organizacji wymienionych w ust. 2 powyżej i jesteś zainteresowany połączeniem się z naszą witryną, musisz nas poinformować, wysyłając e-mail do MFFAIS.Proszę podać swoje imię i nazwisko organizacji, dane kontaktowe, a także adres URL Twojej witryny, listę dowolnych adresów URL, z których zamierzasz połączyć się z naszą witryną, oraz listę adresów URL na naszej stronie, do której chceszpołączyć.Poczekaj 2-3 tygodnie na odpowiedź.",
+          "Zatwierdzone organizacje mogą hiperłącze na naszą stronę internetową w następujący sposób:",
+          [
+            "Za pomocą naszej nazwy korporacyjnej;Lub",
+            "Za pomocą jednolitego lokalizatora zasobów jest powiązany;Lub",
+            "Korzystając z jakiegokolwiek innego opisu naszej witryny, które jest z tym, ma sens w kontekście i formatie treści na stronie partii linkingowej."
+          ],
+          "Brak zastosowania logo MFFAIS lub innych dzieł sztuki nie będzie dozwolone do połączenia nieobecności umowy licencyjnej."
+        ]
+      },
+      {
+        "title": "ramki",
+        "content": [
+          "Bez uprzedniej zgody i pisemnej zgody nie możesz tworzyć ramek wokół naszych stron internetowych, które zmieniają wizualną prezentację lub wygląd naszej witryny."
+        ]
+      },
+      {
+        "title": "Odpowiedzialność treści",
+        "content": [
+          "Nie ponosimy odpowiedzialności za jakiekolwiek treści, które pojawiają się w Twojej witrynie.Zgadzasz się chronić i bronić nas przed wszystkimi roszczeniami, które rosną na Twojej stronie internetowej.Żadne linki nie powinny pojawiać się na żadnej stronie internetowej, która może być interpretowana jako zniesławiająca, obsceniczna lub przestępcza, ani która narusza, w przeciwnym razie narusza naruszenie lub inne naruszenie jakichkolwiek praw strony trzeciej."
+        ]
+      },
+      {
+        "title": "Twoja prywatność",
+        "content": ["Przeczytaj naszą politykę prywatności."]
+      },
+      {
+        "title": "Rezerwacja praw",
+        "content": [
+          "Zastrzegamy sobie prawo do żądania usunięcia wszystkich linków lub dowolnego konkretnego linku do naszej witryny.Zatwierdzasz, aby natychmiast usunąć wszystkie linki do naszej strony internetowej na żądanie.Zastrzegamy również prawo do wyprostowania niniejszych warunków i w dowolnym momencie łączy to politykę.Nieustannie łącząc się z naszą witryną, zgadzasz się być związanym z tymi warunkami łączącymi."
+        ]
+      },
+      {
+        "title": "Usunięcie linków z naszej strony internetowej",
+        "content": [
+          "Jeśli znajdziesz dowolny link na naszej stronie internetowej, który z jakiegokolwiek powodu jest obraźliwy, możesz się skontaktować i poinformować nas w każdej chwili.Rozważymy prośby o usunięcie linków, ale nie jesteśmy do tego zobowiązani ani nie odpowiedzieć bezpośrednio na Ciebie.",
+          "Nie upewniamy się, że informacje na tej stronie są prawidłowe, nie gwarantujemy jej kompletności ani dokładności;Nie obiecujemy również, że strona pozostaje dostępna ani że materiał na stronie jest aktualny."
+        ]
+      },
+      {
+        "title": "Zastrzeżenie",
+        "content": [
+          "W maksymalnym zakresie dozwolonym przez obowiązujące prawo wykluczamy wszystkie oświadczenia, gwarancje i warunki związane z naszą witryną i korzystaniem z tej strony internetowej.Nic w tym zastrzeżeniu:",
+          [
+            "ograniczyć lub wykluczyć naszą lub twoją odpowiedzialność za śmierć lub obrażenia ciała;",
+            "ograniczyć lub wykluczyć naszą lub twoją odpowiedzialność za oszustwo lub oszukańcze wprowadzenie w błąd;",
+            "Ogranicz dowolną z naszych lub zobowiązań w jakikolwiek sposób, który nie jest dozwolony na mocy obowiązującego prawa;Lub",
+            "Wyklucz dowolną z naszych lub twoich zobowiązań, które nie mogą być wykluczone na mocy obowiązującego prawa."
+          ],
+          "Ograniczenia i zakazy odpowiedzialności ustalone w tym rozdziale i gdzie indziej w niniejszym zastrzeżeniu: (a) podlegają poprzednim akapicie;oraz (b) rządzi wszystkimi zobowiązaniami wynikającymi z zastrzeżenia, w tym zobowiązań wynikających z umowy, czynów niedozwolonych i za naruszenie obowiązku ustawowego.",
+          "Tak długo, jak strona internetowa oraz informacje i usługi na stronie są dostarczane bezpłatnie, nie będziemy ponosić odpowiedzialności za żadną stratę lub szkody."
+        ]
+      }
+    ]
+  }
+}

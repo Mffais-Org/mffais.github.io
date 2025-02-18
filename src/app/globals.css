@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-yellow: #ffd30d;
+  --font: #1f1f1f;
+  --background: #f0f2f7;
+  --background-blue: #e1e7fe;
+  --font-blue: #0027f9;
+}
+
+@layer utilities {
+  .shadow-custom {
+    box-shadow: 4px 6px 20px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: 4px 6px 20px rgba(0, 0, 0, 0.25);
+  }
+  .shadow-card {
+    box-shadow: 8px 12px 40px 0 rgba(0, 0, 0, 0.25);
+  }
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  font-family: var(--font-rubik), sans-serif;
+}
+html {
+  overflow-y: scroll;
+}

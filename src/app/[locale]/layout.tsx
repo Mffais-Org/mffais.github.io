@@ -1,0 +1,35 @@
+import type { Metadata } from "next";
+import { Rubik } from "next/font/google";
+import "../globals.css";
+import MainLayout from "../../components/Layout/MainLayout";
+import { NextIntlClientProvider } from "next-intl";
+import { getMessages } from "next-intl/server";
+
+const geistSans = Rubik({
+  variable: "--font-rubik",
+  subsets: ["latin"],
+});
+
+export const metadata: Metadata = {
+  title: "Mffais",
+};
+
+export default async function RootLayout({
+  children,
+  params,
+}: {
+  children: React.ReactNode;
+  params: { locale: string };
+}) {
+  const messages = await getMessages();
+  const { locale } = await params;
+  return (
+    <html lang={locale}>
+      <body className={`${geistSans.variable} antialiased`}>
+        <NextIntlClientProvider messages={messages}>
+          <MainLayout>{children}</MainLayout>
+        </NextIntlClientProvider>
+      </body>
+    </html>
+  );
+}
