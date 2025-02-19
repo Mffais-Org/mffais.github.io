@@ -39,12 +39,13 @@ export const locales = [
   "tr",
   "uk",
   "vi",
-] as const;
+];
 
 export const routing = defineRouting({
   locales,
   defaultLocale: "en",
-  localePrefix: "as-needed",
+  localePrefix: "always",
+  localeDetection: true,
 });
 export const { Link, redirect, usePathname, useRouter, getPathname } =
   createNavigation(routing);

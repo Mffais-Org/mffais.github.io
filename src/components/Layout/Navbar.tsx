@@ -69,7 +69,7 @@ const Navbar = ({
     <div className="fixed top-0 z-[9999] flex h-[70px] w-full justify-center border border-black/10 bg-white xl:h-[108px]">
       <div className="flex w-full items-center justify-between px-6 xl:px-10">
         <div className="flex w-full items-center md:gap-10 xl:w-auto xl:gap-0">
-          <Link className="mr-2" href="/">
+          <Link className="mr-2" href={`/`}>
             <Logo />
           </Link>
           <ul className="flex w-full items-center gap-4 text-[11px] font-medium leading-[18px] md:justify-start md:gap-10 xl:ml-12 xl:gap-[72px] xl:text-[16px]">

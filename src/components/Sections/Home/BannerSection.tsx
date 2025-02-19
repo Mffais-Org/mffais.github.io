@@ -42,7 +42,7 @@ const BannerSection = ({ variant = "home" }: Props) => {
           <p className="text-base xl:mb-8 xl:text-[20px] xl:leading-[34px]">
             {t2("description")}
           </p>
-          <LinkButton className="justify-center xl:w-fit" href="#">
+          <LinkButton className="justify-center xl:w-fit" href="">
             {t2("buttonText")}
           </LinkButton>
         </div>

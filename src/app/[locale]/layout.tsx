@@ -1,35 +1,32 @@
 import type { Metadata } from "next";
-import { Rubik } from "next/font/google";
 import "../globals.css";
 import MainLayout from "../../components/Layout/MainLayout";
 import { NextIntlClientProvider } from "next-intl";
-import { getMessages } from "next-intl/server";
-
-const geistSans = Rubik({
-  variable: "--font-rubik",
-  subsets: ["latin"],
-});
+import { getMessages, setRequestLocale } from "next-intl/server";
+import { locales } from "@/i18n/routing";
 
 export const metadata: Metadata = {
   title: "Mffais",
 };
 
+export async function generateStaticParams() {
+  return locales.map((locale) => ({ locale }));
+}
+
 export default async function RootLayout({
   children,
-  params,
+  params: { locale },
 }: {
   children: React.ReactNode;
   params: { locale: string };
 }) {
-  const messages = await getMessages();
-  const { locale } = await params;
+  setRequestLocale(locale);
+
+  const messages = await getMessages({ locale });
+
   return (
-    <html lang={locale}>
-      <body className={`${geistSans.variable} antialiased`}>
-        <NextIntlClientProvider messages={messages}>
-          <MainLayout>{children}</MainLayout>
-        </NextIntlClientProvider>
-      </body>
-    </html>
+    <NextIntlClientProvider messages={messages}>
+      <MainLayout>{children}</MainLayout>
+    </NextIntlClientProvider>
   );
 }
