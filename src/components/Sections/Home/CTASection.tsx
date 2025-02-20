@@ -35,7 +35,9 @@ const CTASection = () => {
           <span className="text-[18px] font-medium leading-7 xl:text-[28px] xl:leading-9">
             {t("rightText")}
           </span>
-          <LinkButton href="/">{t("buttonText")}</LinkButton>
+          <LinkButton mailto href="support@mffais.com">
+            {t("buttonText")}
+          </LinkButton>
         </div>
       </div>
       <div className="h-[1px] w-full bg-black/10"></div>
