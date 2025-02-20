@@ -11,6 +11,7 @@ type Props =
       href: string;
       className?: HTMLProps<HTMLAnchorElement>["className"];
       target?: HTMLProps<HTMLAnchorElement>["target"];
+      mailto?: boolean;
     }
   | {
       variant: "icon";
@@ -19,6 +20,7 @@ type Props =
       href: string;
       className?: HTMLProps<HTMLAnchorElement>["className"];
       target?: HTMLProps<HTMLAnchorElement>["target"];
+      mailto?: boolean;
     };
 
 const LinkButton = ({
@@ -28,6 +30,7 @@ const LinkButton = ({
   className,
   icon,
   target = "",
+  mailto = false,
 }: Props) => {
   const locale = useLocale();
   if (variant === "primary") {
@@ -39,7 +42,7 @@ const LinkButton = ({
           "hover:shadow-custom flex h-12 items-center whitespace-nowrap rounded-xl border-[0.5px] border-[rgba(0,0,0,0.08)] bg-primaryYellow px-6 text-sm font-medium transition duration-200 ease-in hover:text-font",
           className,
         )}
-        href={{ pathname: href, query: { locale } }}
+        href={mailto ? `mailto:${href}` : { pathname: href, query: { locale } }}
       >
         {children}
       </Link>
@@ -54,7 +57,7 @@ const LinkButton = ({
         "hover:shadow-custom flex h-12 items-center gap-[10px] rounded-xl border-2 border-primaryYellow px-6 font-medium transition duration-200 ease-in hover:text-font",
         className,
       )}
-      href={{ pathname: href, query: { locale } }}
+      href={mailto ? `mailto:${href}` : { pathname: href, query: { locale } }}
     >
       <span>{children}</span>
       <div>{icon}</div>
